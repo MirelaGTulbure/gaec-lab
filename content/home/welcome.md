@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     # Name of image in `assets/media/`.
-    image: water_2.jpg
+    image: /water_2.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
