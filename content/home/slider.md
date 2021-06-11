@@ -15,13 +15,13 @@ height: 300px
 
 item:
   - title: Hello
-    content: 'I am center aligned 😄'
+    content: 'We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.5em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.5em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.5em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.5em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.5em"> graph theory </span> at sub-continental to continental scale.'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: water_land.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
