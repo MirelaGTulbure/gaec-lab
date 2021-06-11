@@ -11,8 +11,8 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    # Name of image in `static/media`.
-    image: static/media/water_2.jpg
+    # Name of image in `assets/media/`.
+    image: water_2.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -25,7 +25,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: 
+  css_class: fullscreen
 ---
 
 
