@@ -15,7 +15,7 @@ height: 300px
 
 item:
   - title: Hello
-    content: 'We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.5em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.5em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.5em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.5em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.5em"> graph theory </span> at sub-continental to continental scale.'
+    content: 'We are dynamic '
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

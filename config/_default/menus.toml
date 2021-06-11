@@ -9,6 +9,11 @@
 #  weight = 10
 
 [[main]]
+  name = "Slider"
+  url = "slider"
+  weight = 10
+
+[[main]]
   name = "News"
   url = "post"
   weight = 20
