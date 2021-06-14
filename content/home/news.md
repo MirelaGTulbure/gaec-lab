@@ -12,7 +12,7 @@ content:
   filters:
     author: ""
     category: ""
-    exclude_featured: True
+    exclude_featured: False
     publication_type: ""
     tag: ""
   offset: 0
@@ -21,4 +21,5 @@ content:
 design:
   view: 3
   columns: "1"
+
 ---
