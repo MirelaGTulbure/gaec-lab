@@ -36,9 +36,9 @@ title: ''
 hero_media: GAEC_icon2.png
 design:
   background:
-    gradient_angle: 0
-    gradient_start: 'rgb(40,42,54)'
-    gradient_end: 'rgb(40,42,54)'
+    gradient_angle: #0
+    gradient_start: #'rgb(40,42,54)'
+    gradient_end: #'rgb(40,42,54)'
     text_color_light: true
 
 ---
