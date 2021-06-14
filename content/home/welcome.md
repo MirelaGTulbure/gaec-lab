@@ -31,26 +31,15 @@
 widget: hero
 headless: true
 weight: 10
+height: '650px; background-position:center; background-repeat: no-repeat; background-size: cover'
 title: ''
 hero_media: GAEC_icon.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(189,195,199)'
-    gradient_end: 'rgb(44,62,80)'
+    gradient_start: 'rgb(40,42,54)'
+    gradient_end: 'rgb(189,195,199)'
     text_color_light: true
-# cta:
-#   url: course/
-#   label: Explore our courses
-#   icon_pack: fas
-#   icon: user-graduate
-# cta_alt:
-#   url:
-#   label:
-# cta_note:
-#   label:
-advanced:
-  css_class: fullscreen
 
 ---
 
@@ -58,7 +47,8 @@ advanced:
 
 <h3 align="center">  
 
-We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.1em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.1em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.1em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.1em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.1em"> graph theory </span> at sub-continental to continental scale.
+<!-- We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.1em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.1em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.1em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.1em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.1em"> graph theory </span> at sub-continental to continental scale. -->
+Welcome to the Geospatial Analysis for Environmental Change Lab. We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.
 
 </h3>
 

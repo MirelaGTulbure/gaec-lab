@@ -14,6 +14,7 @@ weight: 30
 
 title: Surface water dynamics
 subtitle: Amazon River viewed by Landsat Inundation Dataset
+align: left
 
 design:
   columns: "1"
