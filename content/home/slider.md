@@ -11,7 +11,7 @@ interval: 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 350px
+height: 550px
 
 
 item:
@@ -38,12 +38,14 @@ item:
     overlay_color: '#555'
     overlay_img: 'slider_fig1.jpg'
     overlay_filter: 0
+
   - title: ''
     content: 'Lakes from space'
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig2.jpg'
     overlay_filter: 0
+    
   - title: Surface water dynamics
     content: 'Landsat Inundation dataset'
     align: right
