@@ -31,9 +31,9 @@
 widget: hero
 headless: true
 weight: 10
-height: '650px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '750px; background-position:center; background-repeat: no-repeat; background-size: cover'
 title: ''
-hero_media: GAEC_icon.png
+hero_media: GAEC_icon2.png
 design:
   background:
     gradient_angle: 0
@@ -45,10 +45,13 @@ design:
 
 
 
-<p align="center">  
+<h2 align="center">  
 
 <!-- We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.1em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.1em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.1em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.1em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.1em"> graph theory </span> at sub-continental to continental scale. -->
-Welcome to the Geospatial Analysis for Environmental Change Lab. We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.
 
+<body>
+  <h1> Welcome to the Geospatial Analysis for Environmental Change Lab!</h1>
+  <p> We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale. </p> <br/>
+ </body>
 </p>
 
