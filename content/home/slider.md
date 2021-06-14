@@ -11,7 +11,7 @@ interval: 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: '400px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '350px; background-position:center; background-repeat: no-repeat; background-size: cover'
 
 
 item:
@@ -34,7 +34,7 @@ item:
 
   - title: ''
     content: 'Scientist at field work'
-    align: right
+    align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig1.jpg'
     overlay_filter: 0
@@ -44,12 +44,12 @@ item:
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig2.jpg'
-    overlay_filter: 0
+    overlay_filter: 0.5
 
-  - title: Surface water dynamics
-    content: 'Landsat Inundation dataset'
-    align: right
-    overlay_color: '#333'
+  - title: ''
+    content: 'Surface water dynamics'
+    align: left
+    overlay_color: '#555'
     overlay_img: 'water_2.jpg'
     overlay_filter: 0
 ---
