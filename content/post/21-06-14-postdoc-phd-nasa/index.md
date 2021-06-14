@@ -2,7 +2,6 @@
 title: Post-doc and PhD position opening in the Lab, part of the new NASA grant.
 date: 2021-06-14
 
-{{< figure src="image.jpg">}}
 ---
 
 The deadline has passed for the PhD position, however, I AM STILL ACCEPTING applications.
