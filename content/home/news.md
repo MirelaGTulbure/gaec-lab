@@ -12,7 +12,7 @@ content:
   filters:
     author: ""
     category: ""
-    exclude_featured: false
+    exclude_featured: True
     publication_type: ""
     tag: ""
   offset: 0

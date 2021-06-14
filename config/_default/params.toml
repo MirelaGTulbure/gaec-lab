@@ -26,7 +26,7 @@ font = "native"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -164,7 +164,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
