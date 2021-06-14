@@ -37,14 +37,14 @@ item:
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig1.jpg'
-    overlay_filter: 0
+    overlay_filter: 0.15
 
   - title: ''
     content: 'Lakes from space'
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig2.jpg'
-    overlay_filter: 0.5
+    overlay_filter: 0.3
 
   - title: ''
     content: 'Surface water dynamics'
