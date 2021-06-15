@@ -80,8 +80,7 @@ I relocated to NCSU in Aug 2019 from the University of New South Wales (UNSW) in
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 ### Appointments
-- Associate Professor North Carolina State University 2019-present
-- Lecturer & Senior Lecturer University of New South Wales 2012-2019
-- Lecturer Murdoch University 2011
-- Postdoctoral Researcher Geospatial Center of Excellence (SDSU) 2009-2010
-- Research/Teaching Asst. SDSU 2004-2008
+{{< icon name="chevron-circle-right" pack="fas" >}} Associate Professor North Carolina State University 2019—Present
+{{< icon name="chevron-circle-right" pack="fas" >}} Lecturer & Senior Lecturer University of New South Wales 2012—2019
+{{< icon name="chevron-circle-right" pack="fas" >}} Lecturer Murdoch University 2011
+
