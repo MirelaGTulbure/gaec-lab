@@ -11,27 +11,31 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: North Carolina State University
-  url: ""
+  url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an Associate Professor with the Center for Geospatial Analytics at North Carolina State University (NCSU). 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geospatial analytics
+- Dynamic networks
+- Flooding
+- Remote sensing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Post Doc in Geospatial Science
+    institution: South Dakota State University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Quantitative Ecology
+    institution: South Dakota State University
     year: 2008
+  - course: MSc in Environmental Science & Policy
+    institution: Central European University
+    year: 2003
+  - course: BSc in Ecology
+    institution: University of Bucharest
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +44,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mtulbure@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mirelagtulbure
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=NHDv_PoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MirelaGTulbure
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mtulbure@ncsu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
