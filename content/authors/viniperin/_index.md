@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Geospatial Analytics, 
+  - course: PhD in Geospatial Analytics 
     institution: North Carolina State University
-    year: 2019 - Present
+    year: 2019–Present
   - course: MSc in Agronomy
     institution: Kansas State University
     year: 2019
