@@ -88,10 +88,8 @@ I relocated to NCSU in Aug 2019 from the University of New South Wales (UNSW) in
 
 
 ### Teaching at NCSU
-{{< icon name="chalkboard-teacher" pack="fas" >}} GIS 712 Environmental Earth Observation and Remote Sensing  
+{{< icon name="file-certificate" pack="fas" >}} GIS 712 Environmental Earth Observation and Remote Sensing    
+<span style="font-size:0.95em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
 
-<span style="font-size:0.75em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
-
-{{< icon name="chalkboard-teacher" pack="fas" >}} ES 400 Analysis of Environmental Issues  
-
-<span style="font-size:0.75em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
+{{< icon name="file-certificate" pack="fas" >}} ES 400 Analysis of Environmental Issues    
+<span style="font-size:0.95em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
