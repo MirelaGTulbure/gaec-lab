@@ -15,26 +15,28 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: North Carolina State University
-  url: ""
+  url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include surface water, agriculture, irrigation, remote sensing and hydrological modeling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote sensing
+- Geospatial modeling
+- Python programming
+- Irrigated agriculture
+  
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Geospatial Analytics, 
     institution: North Carolina State University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    year: 2019 - Present
+  - course: MSc in Agronomy
+    institution: Kansas State University
+    year: 2019
+  - course: BSc in Agronomy
+    institution: University of Sao Paulo
     year: 2008
 
 # Social/Academic Networking
@@ -42,18 +44,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/_ViniPerin_
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=srZ2mdAAAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vperin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vinicius-perin-128453107/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +72,4 @@ user_groups:
 - Grad Students
 ---
 
-Hey all ! I am a PhD student at the Center for Geospatial Analytics at North Carolina State University. I am currently working with remote sensing imagery to assess surface water dynamics. Check out my website for more information about my work.
+Hey all ! I am a PhD student at the Center for Geospatial Analytics at North Carolina State University. I am currently working with remote sensing imagery to assess surface water dynamics. Check out my <a href = "https://scholar.google.com/citations?user=srZ2mdAAAAAJ&hl=pt-BR"> website </a> for more information about my work.
