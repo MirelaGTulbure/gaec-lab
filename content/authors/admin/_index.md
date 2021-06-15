@@ -80,7 +80,18 @@ I relocated to NCSU in Aug 2019 from the University of New South Wales (UNSW) in
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 ### Appointments
-{{< icon name="chevron-circle-right" pack="fas" >}} Associate Professor North Carolina State University 2019—Present
-{{< icon name="chevron-circle-right" pack="fas" >}} Lecturer & Senior Lecturer University of New South Wales 2012—2019
+{{< icon name="chevron-circle-right" pack="fas" >}} Associate Professor North Carolina State University 2019–Present  
+
+{{< icon name="chevron-circle-right" pack="fas" >}} Lecturer & Senior Lecturer University of New South Wales 2012–2019  
+
 {{< icon name="chevron-circle-right" pack="fas" >}} Lecturer Murdoch University 2011
 
+
+### Teaching at NCSU
+{{< icon name="chalkboard-teacher" pack="fas" >}} GIS 712 Environmental Earth Observation and Remote Sensing  
+
+<span style="font-size:0.75em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
+
+{{< icon name="chalkboard-teacher" pack="fas" >}} ES 400 Analysis of Environmental Issues  
+
+<span style="font-size:0.75em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
