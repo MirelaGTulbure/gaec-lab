@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'vperin@ncsu.edu'
+  link: 'mailto:vperin@ncsu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_ViniPerin_
