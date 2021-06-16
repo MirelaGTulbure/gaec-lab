@@ -45,16 +45,16 @@ design:
 
 
 
-<h2 align="center">  
+<!-- <h2 align="center">   -->
 
 <!-- We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.1em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.1em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.1em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.1em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.1em"> graph theory </span> at sub-continental to continental scale. -->
 
-<body>
+<!-- <body>
   <h1> Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab! </h1>
   <p> <span style= "font-size:0.85em"> We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale. </span> </p> 
  </body>
-</p>
+</p> -->
 
-#### Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab!
+### Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab!
 
-<span style="font-size:0.95em;">We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.</span> 
+<span style="font-size:0.85em;">We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.</span> 
