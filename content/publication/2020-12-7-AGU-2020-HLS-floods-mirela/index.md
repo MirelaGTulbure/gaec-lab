@@ -35,6 +35,7 @@ abstract: Floods, defined as water that temporarily submerges land for over 72 h
 summary: Floods, defined as water that temporarily submerges land for over 72 hours or longer, are the largest natural hazard in terms of life loss and economic damage. Effective and immediate disaster response management can reduce the impact of floods but it requires near real-time information on flood occurrence, typically derived based on Earth Observation data.
 
 tags:
+- HLS Flood detection
 
 featured: true
 
@@ -63,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+- 'HLS-Floods'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
