@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Climate and Human Drivers on Changes in Surface Water in the Southeastern United States"
 authors:
-- mollliegaines
+- molliegaines
 - admin
 - viniperin
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ['Southeastern-US']
+- 'Southeastern-US'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
