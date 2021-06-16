@@ -8,8 +8,6 @@ authors:
 - Mary A. Yaeger
 
 author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
 
 date: "2021-01-04T00:00:00Z"
 doi: ""
