@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -32,9 +32,9 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: PhD in Geospatial Science
+    institution: The University of New South Wales
+    year: 2017
   - course: 
     institution: 
     year: 
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'r.bishop-taylor@unsw.edu.au'
+  link: 'mailto:r.bishop-taylor@unsw.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/robbibt
