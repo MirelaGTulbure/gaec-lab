@@ -15,41 +15,25 @@ height: '450px; background-position:center; background-repeat: no-repeat; backgr
 
 
 item:
-  - title: Hello
-    content: 'We are dynamic '
-    # Choose `center`, `left`, or `right` alignment.
-    align: left
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#555'  # An HTML color value.
-    overlay_img: 'slider_fig1.jpg'  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.1  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Scientist at work
-    cta_url: 
-    cta_icon_pack: 
-    cta_icon: 
-
   - title: ''
-    content: 'Scientist at field work'
+    content: <div style="font-size:0.75em;">Scientist at field work</div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig1.jpg'
-    overlay_filter: 0.15
+    overlay_filter: 0.25
 
   - title: ''
-    content: 'Lakes from space'
+    content: <div style="font-size:0.75em;">Lakes from space work</div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig2.jpg'
     overlay_filter: 0.3
 
   - title: ''
-    content: 'Surface water dynamics'
-    align: left
-    overlay_color: '#555'
-    overlay_img: 'water_2.jpg'
-    overlay_filter: 0
+    content: 
+    align: 
+    overlay_color: 
+    overlay_img: 
+    overlay_filter: 
 ---
+
