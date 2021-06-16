@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Dennis Carman, White River Irrigation District, Hazen, AR**]()'
+  caption: 'Image credit: [**Dennis Carman, White River Irrigation District**]()'
   focal_point: ""
   preview_only: false
 
