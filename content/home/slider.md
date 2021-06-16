@@ -33,14 +33,14 @@ item:
     content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Surface water networks</div>
     align: left
     overlay_color: '#555'
-    overlay_img: 'slider_fig3.jpg'
+    overlay_img: 'slider_fig3.png'
     overlay_filter: 0.25
 
   - title: ''
     content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Seeing the forest with LiDAR</div>
     align: left
     overlay_color: '#555'
-    overlay_img: 'slider_fig4.jpg'
+    overlay_img: 'slider_fig4.png'
     overlay_filter: 0.25
 
   - title: ''
