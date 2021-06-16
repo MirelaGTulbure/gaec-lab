@@ -36,12 +36,6 @@ education:
   - course: PhD in Geospatial Science
     institution: The University of New South Wales
     year: 2017
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

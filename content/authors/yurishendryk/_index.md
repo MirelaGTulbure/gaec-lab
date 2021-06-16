@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Valentin Heimhuber
+title: Yuri Shendryk
 
 # Username (this should match the folder name)
 authors:
-- valentinheimhuber
+- yurishendryk
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,14 +21,15 @@ organizations:
 bio: 
 
 interests:
-- Spatial Methods in Hydrology
-- Geospatial Analysis
-- Flood Modelling
+- Remote Sensing
+- GIS
+- LiDAR
+- Forestry
 
 
 education:
   courses:
-  - course: PhD in Hydrology and Remote Sensing
+  - course: PhD in Remote Sensing and Forestry
     institution: The University of New South Wales
     year: 2017
 
@@ -40,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:valentin.heimhuber@unsw.edu.au'
+  link: 'mailto:iurii.shendryk@gmail.com'
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -58,4 +59,4 @@ user_groups:
 - Alumni
 ---
 
-As a result of his PhD work Tino got a hydrology Post Doc job at UNSW.
+As a result of his PhD work Yuri got a remote sensing/ machine leanring Post Doc job focusing on precision agriculture at Australia's Commonwealth Scientific and Industrial Research Organisation. 
