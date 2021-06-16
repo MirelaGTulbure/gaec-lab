@@ -55,6 +55,6 @@ design:
  </body>
 </p> -->
 
-### Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab!
+## Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab!
 
 <span style="font-size:0.85em;">We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.</span> 
