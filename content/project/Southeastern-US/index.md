@@ -3,8 +3,8 @@ title: The Effects of Climate and Human Drivers on Changes in Surface Water in t
 
 authors:
 - molliegaines
-- viniperin
 - admin
+- viniperin
 
 summary: In this study, we assessed how different climate and anthropogenic drivers affect the variability of surface water in the Southeastern United States, an area that has experienced more land cover change than any other region in the country.
 
