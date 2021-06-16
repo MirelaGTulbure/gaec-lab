@@ -1,12 +1,11 @@
 ---
 # Display name
-title: Robbi Bishop-Taylor
+title: Valentin Heimhuber
 
 # Username (this should match the folder name)
 authors:
-- robbibishoptaylor
-  
-  
+- valentinheimhuber
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -22,18 +21,14 @@ organizations:
 bio: 
 
 interests:
-- Spatiotemporal analysis
-- landscape ecology
-- ecological connectivity
-- GIS
-- graph theory
-- network analysis
-- geography
+- Spatial Methods in Hydrology
+- Geospatial Analysis
+- Flood Modelling
 
 
 education:
   courses:
-  - course: PhD in Geospatial Science
+  - course: PhD in Hydrology and Remote Sensing
     institution: The University of New South Wales
     year: 2017
   - course: 
@@ -70,4 +65,4 @@ user_groups:
 - Alumni
 ---
 
-As a result of his PhD work Robbi got a continuing job with Geoscience Australia's earth observation team.
+As a result of his PhD work Tino got a hydrology Post Doc job at UNSW.
