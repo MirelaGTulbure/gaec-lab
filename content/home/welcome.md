@@ -33,7 +33,7 @@ headless: true
 weight: 10
 height: '750px; background-position:center; background-repeat: no-repeat; background-size: cover'
 title: ''
-hero_media: GAEC_icon2.png
+hero_media: gaec_logo_ondark.png
 design:
   background:
     gradient_angle: #0
