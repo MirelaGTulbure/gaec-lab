@@ -23,15 +23,9 @@ publication_types: ["0"]
 publication: "Dataset - Zenodo"
 publication_short: ""
 
-abstract: The animations provided here are part of the following publication -
-Tulbure, M.G. and M. Broich (2018). Spatiotemporal patterns and effects of climate and land use on surface water extent dynamics in a dryland region with three decades of Landsat satellite data. Science of the Total Environment. https://www.sciencedirect.com/science/article/pii/S0048969718347466
+abstract: 
 
-Please refer to the above mentioned publication for a description of the data and interpretation of the patterns.
-
-The animations are based on statistically validated surface water and flooding extent dynamics data derived from seasonally continous Landsat TM/ETM+ and random forest models from 1986 to 2011 over Australia's Murray-Darling Basin. The overall accuracy was over 99% and producer's accuracy for water 87% +/- 3%. 
-
-The method is described in the following publication - 
-Tulbure, M.G., M. Broich, S.V. Stehman, A. Kommareddy. (2016). Surface water extent dynamics from three decades of seasonally continuous Landsat time series at subcontinental scale in a semi-arid region. Remote Sensing of Environment. 178: 142-157 and available here: https://www.sciencedirect.com/science/article/pii/S0034425716300621 
+Please refer to the above mentioned publication for a description of the data and interpretation of the patterns. The animations are based on statistically validated surface water and flooding extent dynamics data derived from seasonally continous Landsat TM/ETM+ and random forest models from 1986 to 2011 over Australia's Murray-Darling Basin. The overall accuracy was over 99% and producer's accuracy for water 87% +/- 3%. 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -75,4 +69,6 @@ projects: ['MDB-Floods']
 slides:
 ---
 
+The animations provided here are part of the following publication:[Tulbure, M.G. and M. Broich (2018)](https://www.sciencedirect.com/science/article/pii/S0048969718347466).
 
+The method is described in [Tulbure et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0034425716300621).
