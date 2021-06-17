@@ -11,10 +11,7 @@ image:
 
 Vini wins the Outstanding Student Presentation Award at the American Geophisical Union for his poster entitled "On-farm reservoir monitoring using Landsat inundation datasets".
 
-
 <!--more-->
-
-{{< figure src="image.jpg" >}}
 
 The poster, available <a href="https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=E4-F1-70-50-8B-94-23-2A-34-FE-C1-B1-D1-04-1A-94&guestview=true">here</a> is based on Vini's 1st PhD paper, recently published in <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0378377420322381?dgcid=author"> Agricultural Water Management</a>. 
 

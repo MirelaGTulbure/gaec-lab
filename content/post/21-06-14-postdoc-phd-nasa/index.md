@@ -8,7 +8,6 @@ The deadline has passed for the PhD position, however, I AM STILL ACCEPTING appl
 
 <!--more-->
 
-{{< figure src="image.jpg" >}}
 
 Come join our lab and work as part of an exciting NASA funded-grant using sensor fusion for flood mapping. The PhD position is the 3rd one listed <a href="https://cnr.ncsu.edu/geospatial/academics/phd-in-geospatial-analytics/graduate-assistantships/"> here </a> as part of the Geospatial Analytics PhD program. The post-doc ad will follow shortly. 
 
