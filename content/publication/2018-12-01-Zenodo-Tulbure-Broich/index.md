@@ -64,6 +64,8 @@ projects: ['MDB-Floods']
 slides:
 ---
 
+{{< figure src="image.gif">}}
+
 The animations provided here are part of the following publication: [Tulbure, M.G. and M. Broich (2018)](https://www.sciencedirect.com/science/article/pii/S0048969718347466).
 
 The method is described in [Tulbure et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0034425716300621).
