@@ -30,8 +30,8 @@ tags:
 
 featured: false
 
-# links:
-- name: "Dataset Link"
+links:
+- name: Dataset Link
   url: "https://zenodo.org/record/2438110#.YMtpaGhKguU"
 url_pdf: 
 url_code: ''
