@@ -64,7 +64,7 @@ projects: ['MDB-Floods']
 slides:
 ---
 
-{{< figure src="image.gif">}}
+![](image.gif)
 
 The animations provided here are part of the following publication: [Tulbure, M.G. and M. Broich (2018)](https://www.sciencedirect.com/science/article/pii/S0048969718347466).
 
