@@ -32,15 +32,10 @@ publication_types: ["2"]
 publication: "Environmental Modelling & Software"
 publication_short: ""
 
-abstract: Land surface phenology (LSP) characterizes episodes of greening and browning of the vegetated land surface from remote sensing imagery. LSP is of interest for quantification and monitoring of crop yield, wildfire fuel accumulation, vegetation condition, ecosystem response and resilience to climate variability and change. Deriving LSP represents an effort for end users and existing global products may not accommodate conditions in Australia, a country with a dry climate and high rainfall variability. To fill this information gap we developed the Australian LSP Product in contribution to AusCover/Terrestrial Ecosystem Research Network (TERN).
-
-We describe the product's algorithm and information content consisting of metrics that characterize LSP greening and browning episodes of the vegetated land surface. Our product allows tracking LSP metrics over time and thereby quantifying inter- and intraannual variability across Australia. We demonstrate the metrics' response to ENSO-driven climate variability. Lastly, we discuss known limitations of the current product and future development plans.
+abstract: Land surface phenology (LSP) characterizes episodes of greening and browning of the vegetated land surface from remote sensing imagery. LSP is of interest for quantification and monitoring of crop yield, wildfire fuel accumulation, vegetation condition, ecosystem response and resilience to climate variability and change. Deriving LSP represents an effort for end users and existing global products may not accommodate conditions in Australia, a country with a dry climate and high rainfall variability. To fill this information gap we developed the Australian LSP Product in contribution to AusCover/Terrestrial Ecosystem Research Network (TERN). We describe the product's algorithm and information content consisting of metrics that characterize LSP greening and browning episodes of the vegetated land surface. Our product allows tracking LSP metrics over time and thereby quantifying inter- and intraannual variability across Australia. We demonstrate the metrics' response to ENSO-driven climate variability. Lastly, we discuss known limitations of the current product and future development plans.
 
 # Summary. An optional shortened abstract.
 summary: Land surface phenology (LSP) characterizes episodes of greening and browning of the vegetated land surface from remote sensing imagery. LSP is of interest for quantification and monitoring of crop yield, wildfire fuel accumulation, vegetation condition, ecosystem response and resilience to climate variability and change. Deriving LSP represents an effort for end users and existing global products may not accommodate conditions in Australia, a country with a dry climate and high rainfall variability. To fill this information gap we developed the Australian LSP Product in contribution to AusCover/Terrestrial Ecosystem Research Network (TERN).
-
-tags:
-
 
 featured: false
 
