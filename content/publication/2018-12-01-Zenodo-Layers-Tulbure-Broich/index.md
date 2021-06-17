@@ -1,5 +1,5 @@
 ---
-title: "Surface water and flooding dynamics based on seasonally continuous Landsat data (1986-2011) in a dryland river basin (monthly, seasonally, and yearly animations)"
+title: "Surface water and flooding dynamics data set based on seasonally continuous Landsat data (1986-2011) in a dryland river basin"
 authors:
 - admin
 - markbroich
@@ -31,9 +31,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: https://zenodo.org/record/2438110#.YMtpaGhKguU
+- name: "Dataset Link"
+  url: https://zenodo.org/record/2441784#.YMtv7mhKguU
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,8 +64,13 @@ projects: ['MDB-Floods']
 slides:
 ---
 
-![](image.gif)
-
 The animations provided here are part of the following publication: [Tulbure, M.G. and M. Broich (2018)](https://www.sciencedirect.com/science/article/pii/S0048969718347466).
 
 The method is described in [Tulbure et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0034425716300621).
+
+Data are provided in GeoTIFF format per season per year. File naming convention is as follows:
+yy_inund_freq_season_SamplingMethod. For example, "99_inund_freq_winter_max" will represent inundation frequency for winter 1999 resampled using a maximum resampling method. 
+
+Inundation frequency represents the number of times a pixel has been flagged as flooded out of the times that pixel had valid observations * 100. Valid observation exclude no data values and clouds. The valid range of inundation frequency is 0-100 [%], with 255 indicating no data values. Data type is eight bit unsigned integer (uint8). 
+
+The data were resampled to 120m resolution to reduce file size. The resampling methods used include max (e.g. selects the max value of all non-NODATA contributing 30m pixels) and mean (median and min can be provided upon request). If you are unsure which resampling to use, you may want to start with the mean.  
