@@ -1,10 +1,10 @@
 ---
-title: "On-farm reservoir monitoring using Landsat inundation datasets"
+title: "Surface water extent dynamics from three decades of seasonally continuous Landsat time series at subcontinental scale in a semi-arid region"
 authors:
 - admin
 - markbroich
 - Stephen V.Stehman
-- AnilKommareddyc
+- Anil Kommareddyc
 
 
 author_notes:
