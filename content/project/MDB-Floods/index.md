@@ -6,10 +6,10 @@ authors:
 - markbroich
 
 
-summary: Project focused on quantifying surface water and flooding extent dynamics at sub-continental scale (e.g., the Murray-Darling River Basin (MDB)
+summary: Project focused on quantifying surface water and flooding extent dynamics at sub-continental scale (e.g., the Murray-Darling River Basin MDB).
 
 tags:
-- MDB Floods
+- Murray-Darlin Basin
 
 date: "2016-01-01T00:00:00Z"
 
