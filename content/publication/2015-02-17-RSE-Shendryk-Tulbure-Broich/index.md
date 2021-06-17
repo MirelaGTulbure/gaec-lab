@@ -1,5 +1,5 @@
 ---
-title: "Mapping individual tree health using full-waveform airborne laser scans and imaging spectroscopy: A case study for a floodplain eucalypt forest"
+title: "Bottom-up delineation of individual trees from full-waveform airborne laser scans in a structurally complex eucalypt forest"
 authors:
 - yurishendryk
 - markbroich
@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "Corresponding Author"
 
-date: "2016-02-15T00:00:00Z"
+date: "2015-11-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
