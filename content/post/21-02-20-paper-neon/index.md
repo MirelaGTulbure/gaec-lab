@@ -1,10 +1,10 @@
 ---
-title: New paper on leveraging the neon airborne observation platform for socio-environmental systems research accepted for publication ecosphere.
+title: New paper on leveraging the neon airborne observation platform for socio-environmental systems research accepted for publication ecosphere
 date: 2021-02-20
 
 ---
 
-In February 2020, together with ~20, Mirela was selected to participate in a <a href = "https://www.sesync.org/project/workshop-program/people-land-and-ecosystems-leveraging-neon-for-socio-environmental"> SESYNC workshop </a>: “People, Land, & Ecosystems: Leveraging NEON for Socio-Environmental Synthesis” in Annapolis, MD. 
+In February 2020, together with ~20, Mirela was selected to participate in a <a href = "https://www.sesync.org/project/workshop-program/people-land-and-ecosystems-leveraging-neon-for-socio-environmental"> SESYNC workshop</a>-“People, Land, & Ecosystems: Leveraging NEON for Socio-Environmental Synthesis” in Annapolis, MD. 
 
 <!--more-->
 

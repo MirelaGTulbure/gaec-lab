@@ -3,7 +3,7 @@ title: New manuscript on the importance of dynamic conectivity
 date: 2020-08-01
 ---
 
-The paper was selected as an <a href = "https://www.mdpi.com/journal/land/editors_choice"> Editor’s Choice Article </a>. 
+The paper was selected as an <a href = "https://www.mdpi.com/journal/land/editors_choice"> Editor’s Choice Article</a>. 
 
 <!--more-->
 

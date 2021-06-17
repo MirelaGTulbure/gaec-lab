@@ -1,5 +1,5 @@
 ---
-title: Post-doc and PhD position opening in the Lab, part of the new NASA grant.
+title: Post-doc and PhD position opening in the Lab, part of the new NASA grant
 date: 2021-06-14
 
 ---

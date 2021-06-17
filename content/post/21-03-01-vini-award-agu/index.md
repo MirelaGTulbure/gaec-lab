@@ -2,6 +2,11 @@
 title: Vini Awarded Outstanding Student Presentation Award the AGU
 date: 2021-03-01
 
+image:
+  caption: 'Image credit: [**Dennis Carman, White River Irrigation District**]()'
+  focal_point: ""
+  preview_only: false
+  
 ---
 
 Vini wins the Outstanding Student Presentation Award at the American Geophisical Union for his poster entitled "On-farm reservoir monitoring using Landsat inundation datasets".

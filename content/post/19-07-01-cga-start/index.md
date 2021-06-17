@@ -3,7 +3,7 @@ title: Mirela joins The Center for Geospatial Analytics at NCSU and the Lab has 
 date: 2019-07-01
 ---
 
-GAEC is moving to the USA
+GAEC is moving to the USA.
 
 <!--more-->
 
