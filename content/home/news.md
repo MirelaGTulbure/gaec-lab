@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "1"
 
 ---
