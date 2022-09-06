@@ -14,13 +14,15 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor with the Center for Geospatial Analytics at North Carolina State University (NCSU). 
+bio: I am an Associate Professor with the Center for Geospatial Analytics <a href = "https://cnr.ncsu.edu/geospatial/"> website </a> at North Carolina State University (NCSU). 
 
-interests:
+interests: 
 - Geospatial analytics
-- Dynamic networks
+- Earth observations
 - Flooding
-- Remote sensing
+- Surface water dynamics
+- Land use
+- Machine learning
 
 education:
   courses:
@@ -77,22 +79,29 @@ user_groups:
 - Principal Investigator
 
 ---
+I am an Associate Professor with the Center for Geospatial Analytics <a href = "https://cnr.ncsu.edu/geospatial/"> website </a> at North Carolina State University (NCSU). 
 
-I relocated to NCSU in Aug 2019 from the University of New South Wales (UNSW) in Sydney, Australia, where I had a faculty position as an Australian Research Council DECRA fellow and a senior lecturer. Since joining UNSW in 2012, I have built the Geospatial Analysis for Environmental Change Lab. Broadly, in my research I use time-series of satellite and other geospatial data to develop algorithms for quantifying flooding and surface water extent, vegetation and landscape connectivity dynamics, and their drivers of change (climate variability, climate and land-use change). I use an interdisciplinary, top-down data-driven approach using terabytes of satellite and other spatial data and cloud computing, network analysis using graphs, and spatial analysis to quantify space-time patterns in flooding, surface water, vegetation and landscape connectivity dynamics. Results of my work can underpin water policy and management in areas with competing water demands and conservation decisions.  In my prior work I have translated my research findings to government organizations, which have attested the importance of my work for policy and management decisions.
+I relocated to NCSU in Aug 2019 from the University of New South Wales (Sydney, Australia) where I had a faculty position and built the Geospatial Analysis for Environmental Change Lab. 
+
+I am a geospatial data scientist with 10 years of experience post-PhD in the higher education
+research sector. I work to improve understanding of flooding and surface water dynamics
+and their drivers of change (e.g., climate and land-use) at regional to global scales. I develop
+machine-learning pipelines based on terabytes of satellite imagery using cloud computing.
+Results of my work can underpin water policy and management in areas with competing water demands and conservation decisions.  In my prior work I have translated my research findings to government organizations, which have attested the importance of my work for policy and management decisions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 ### Appointments
-{{< icon name="angle-right" pack="fas" >}} Associate Professor North Carolina State University 2019–Present  
+{{< icon name="angle-right" pack="fas" >}} Associate Professor, Center for Geospatial Analytics, North Carolina State University (2019–Present)  
 
-{{< icon name="angle-right" pack="fas" >}} Lecturer & Senior Lecturer University of New South Wales 2012–2019  
+{{< icon name="angle-right" pack="fas" >}} Lecturer & Senior Lecturer, University of New South Wales (2012–2019)  
 
-{{< icon name="angle-right" pack="fas" >}} Lecturer Murdoch University 2011
+{{< icon name="angle-right" pack="fas" >}} Lecturer, Murdoch University (2011)
 
 
 ### Teaching at NCSU
 {{< icon name="angle-right" pack="fas" >}} GIS 712 Environmental Earth Observation and Remote Sensing    
-<span style="font-size:0.95em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
+<span style="font-size:0.95em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
 
 {{< icon name="angle-right" pack="fas" >}} ES 400 Analysis of Environmental Issues    
 <span style="font-size:0.95em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
