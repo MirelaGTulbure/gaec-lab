@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics 
     institution: North Carolina State University
-    year: 2019–Present
+    year: 2019–2022
   - course: MSc in Agronomy
     institution: Kansas State University
     year: 2019
@@ -72,7 +72,7 @@ email: "vperin@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Hey all ! I am a PhD student at the Center for Geospatial Analytics at North Carolina State University. I am currently working with remote sensing imagery to assess surface water dynamics. Check out my <a href = "https://scholar.google.com/citations?user=srZ2mdAAAAAJ&hl=pt-BR"> website </a> for more information about my work.
