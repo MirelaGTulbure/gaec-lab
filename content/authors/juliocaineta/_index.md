@@ -30,7 +30,6 @@ interests:
 - Machine learning
 - Geospatial analytics
 
-
 education:
   - course: PhD in Computational Modeling and Simulation
     institution: University of Pittsburgh
