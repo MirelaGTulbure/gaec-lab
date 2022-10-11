@@ -18,7 +18,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student with the Center for Geospatial Analytics at North Carolina State University. My research work focuses on evaluating the impacts of floods on rice crops in Bangladesh. In the past, I have also worked as Remote Sensing and GIS analyst at International Center for Integrated Mountain development, Nepal. My research area includes the use of optical, Hyperspectral, SAR remote sensing for surface water and crop type mapping.  
+bio: I am a Ph.D. student with the Center for Geospatial Analytics at North Carolina State University.   
 
 interests:
 - Flooding
@@ -76,4 +76,4 @@ user_groups:
 - Grad Students
 ---
 
-I am currently on mapping rice in Bangladesh.
+My research work focuses on evaluating the impacts of floods on rice crops in Bangladesh. In the past, I have also worked as Remote Sensing and GIS analyst at International Center for Integrated Mountain development, Nepal. My research area includes the use of optical, Hyperspectral, SAR remote sensing for surface water and crop type mapping.
