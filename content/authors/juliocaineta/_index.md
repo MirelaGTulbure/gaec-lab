@@ -31,6 +31,7 @@ interests:
 - Geospatial analytics
 
 education:
+  courses:
   - course: PhD in Computational Modeling and Simulation
     institution: University of Pittsburgh
     year: 2022
