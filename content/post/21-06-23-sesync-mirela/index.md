@@ -6,7 +6,7 @@ authors:
 - molliegaines
 
 image:
-  caption: ''
+  caption: 'Figure 4 from the publication. \n"Diagram highlighting aspects of the NEON AOP that can contribute to understanding SES interactions and feedback processes in space and time using drought as an example." '
   focal_point: ""
   preview_only: false
 ---
