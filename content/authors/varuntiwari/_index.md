@@ -18,11 +18,13 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student with the Center for Geospatial Analytics at North Carolina State University.
+bio: I am a Ph.D. student with the Center for Geospatial Analytics at North Carolina State University.   
 
 interests:
 - Flooding
 - Remote Sensing
+- Machine Learning
+- Crop mapping
 
 
 education:
@@ -31,9 +33,13 @@ education:
     institution: North Carolina State University
     year: 2022–Present
 
-  - course: BSc in 
-    institution: 
-    year: 
+  - course: Master of Technology in Remote Sensing and GIS
+    institution: Indian Institute of Remote Sensing, Indian Space Research Organization, India
+    year: 2013-2015
+
+  - course: Bachelor of Engineering in Electronic and communication engineering
+    institution: Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +51,7 @@ social:
   link: 'mailto:vtiwari@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/varunkt1
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=s607y2EAAAAJ&hl=en&oi=ao
@@ -54,7 +60,7 @@ social:
   link: 
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/varuntiwari91/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +76,4 @@ user_groups:
 - Grad Students
 ---
 
-I am currently on mapping rice in Bangladesh.
+My research work focuses on evaluating the impacts of floods on rice crops in Bangladesh. In the past, I have also worked as Remote Sensing and GIS analyst at International Center for Integrated Mountain development, Nepal. My research area includes the use of optical, Hyperspectral, SAR remote sensing for surface water and crop type mapping.
