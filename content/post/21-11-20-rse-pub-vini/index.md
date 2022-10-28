@@ -1,6 +1,6 @@
 ---
 title: Vini's 2nd Ph.D. paper on monitoring on-farm reservoirs with multi-sensor satellite imagery is published in Remote Sensing of Environment
-date: 2021-07-13
+date: 2021-11-20
 
 authors:
 - molliegaines
