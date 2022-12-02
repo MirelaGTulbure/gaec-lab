@@ -18,21 +18,18 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am an undergraduate student majoring in Environmental Science at North Carolina State University. 
 
 interests:
 - Environmental Science
 - Social Vulnerability
+- Environmental Justice
 
 education:
   courses:
-  - course: 
+  - course: BS in Environmental Science
     institution: North Carolina State University
-    year: 
-
-  - course: 
-    institution: North Carolina State University
-    year: 
+    year: 2020-Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,7 +44,7 @@ social:
   link: 
 - icon: github
   icon_pack: fab
-  link: 
+  link: 'https://github.com/becoxncsu'
 - icon: linkedin
   icon_pack: fab
   link: 
