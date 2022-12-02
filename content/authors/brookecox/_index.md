@@ -39,15 +39,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:becox@ncsu.edu' 
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: 
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: 
 - icon: github
   icon_pack: fab
   link: 'https://github.com/becoxncsu'
-- icon: linkedin
-  icon_pack: fab
-  link: 
+# - icon: linkedin
+#  icon_pack: fab
+#  link: 
 # - icon: twitter
 #   icon_pack: fab
 #   link:
