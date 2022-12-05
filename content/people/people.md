@@ -19,8 +19,8 @@ content:
   - Principal Investigator
   - Postdoctoral Research Fellow
   - Researchers
-  - Undergraduate Researchers
   - Grad Students
+  - Undergraduate Researchers
   - Administration
   - Visitors
   - Alumni
