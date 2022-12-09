@@ -1,5 +1,5 @@
 ---
-title: Vini's 3rd PhD paper on daily monitoring on-farm reservoirs using the next generation of analysis-ready datasets, Planet Fusion and Planet Basemap is ou
+title: Vini's 3rd PhD paper on daily monitoring on-farm reservoirs using the next generation of analysis-ready datasets, Planet Fusion and Planet Basemap is out
 date: 2021-12-28
 
 authors:
@@ -15,7 +15,7 @@ image:
 
 <!--more-->
 
-Vini's 3rd paper assessed the usefulness of the Basemap and Planet Fusion datasets in monitoring sub-weekly surface area changes of 340 on-farm reservoirs in eastern Arkansas, USA. Findings suggest that both datasets can be used to monitor OFRs sub-weekly, seasonal, and inter-annual surface area changes, imporving freshwater management by allowing better assessment and management of the OFRs. 
+Vini's 3rd paper assessed the usefulness of the Basemap and Planet Fusion datasets in monitoring sub-weekly surface area changes of 340 on-farm reservoirs in eastern Arkansas, USA. Findings suggest that both datasets can be used to monitor OFRs sub-weekly, seasonal, and inter-annual surface area changes, improving freshwater management by allowing better assessment and management of the OFRs. 
 
 
 ### Social Media Buzz:
