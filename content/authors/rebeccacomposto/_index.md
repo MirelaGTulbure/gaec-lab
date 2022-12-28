@@ -22,18 +22,20 @@ bio: I am a PhD student with the Center for Geospatial Analytics at North Caroli
 
 interests:
 - Flooding
-- 
+- Emergency Preparedness
+- Resilience
+- Cities
 
 
 education:
   courses:
-  - course:  
-    institution: 
-    year: 
+  - course: PhD in Geospatial Analytics, 2019–Present
+    institution: North Carolina State University
+    year: 2022 - President
 
-  - course: 
-    institution: 
-    year: 
+  - course: BA in Environmental Science and Biology
+    institution: University of Pennsylvania
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rcompos@ncsu.edu ' 
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: 
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: 
 - icon: github
   icon_pack: fab
-  link: 
+  link: 'https://github.com/rlwcomposto'
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: 'https://www.linkedin.com/in/rlwcomposto/'
 # - icon: twitter
 #   icon_pack: fab
 #   link:
@@ -70,3 +72,5 @@ email: "rcompos@ncsu.edu "
 user_groups:
 - Grad Students
 ---
+
+My research interests are using remotely sensed imagery and in-situ information to map flooding in urban areas to help inform preparedness and resilience plans. 
