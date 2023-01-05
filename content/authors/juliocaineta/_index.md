@@ -69,7 +69,7 @@ email: "julio.caineta@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Research Fellow
+- Current Lab Members
 ---
 
 I am a computational geoscientist with a focus on remote sensing and machine learning applications
