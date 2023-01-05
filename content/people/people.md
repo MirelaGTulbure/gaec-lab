@@ -17,12 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigator
-  - Postdoctoral Research Fellow
-  - Researchers
-  - Grad Students
-  - Undergraduate Researchers
-  - Administration
-  - Visitors
+  - Current Lab Members
   - Alumni
 design:
   show_interests: false
