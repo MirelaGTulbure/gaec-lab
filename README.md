@@ -1,5 +1,5 @@
 # GAEC website
-This is the repo that hosts the information used in the [GAEC website](https://gaec-lab.netlify.app/, which is from the Academic Template for [Hugo](https://github.com/gohugoio/hugo) (see the documentation [here](https://wowchemy.com/docs/) for specific info). The goal for this website is that anyone in the lab can update when needed via markdown files, so this is meant to be a collaborative effort.
+This is the repo that hosts the information used in the [GAEC website](https://gaec-lab.netlify.app/), which is from the Academic Template for [Hugo](https://github.com/gohugoio/hugo) (see the documentation [here](https://wowchemy.com/docs/) for specific info). The goal for this website is that anyone in the lab can update when needed via markdown files, so this is meant to be a collaborative effort.
 
 The URL for the website is currently the basic, free one (gaec-lab.netlify.app). If we want to have a custom domain, that is easy to do but there is a small cost per year).
 
