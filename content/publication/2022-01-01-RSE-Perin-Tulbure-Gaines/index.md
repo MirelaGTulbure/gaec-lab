@@ -54,7 +54,7 @@ url_video: ''
 image:
   caption: 'From the publication: Fig. 4 (a and b, left). "OFRs outlines (pink lines) overlaid on high-resolution Google maps satellite imagery." and Fig. 12 (a and b, right). "Sub-weekly surface area time series obtained from the Kalman filter for the study case OFRs...Gray shaded area represents +/− one and two standard deviations. The r2 and MAPE values were derived from the Kalman filter comparisons with the independent [PlanetScope] subset.'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
