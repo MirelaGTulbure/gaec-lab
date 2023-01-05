@@ -5,10 +5,10 @@ date: 2022-08-22
 authors:
 - brookecox
 
- image:
-   caption: ''
-   focal_point: ""
-   preview_only: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 
 ---
