@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mollie Gaines
+title: Mollie D. Gaines
 
 # Username (this should match the folder name)
 authors:
