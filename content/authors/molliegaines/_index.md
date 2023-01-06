@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mollie Gaines
+title: Mollie D. Gaines
 
 # Username (this should match the folder name)
 authors:
@@ -71,7 +71,7 @@ email: "mdgaines@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Current Lab Members
 ---
 
 In March of 2022, I published the first chapter of my dissertation: <a href = "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031484"> Effects of Climate and Anthropogenic Drivers on Surface Water Area in the Southeastern United States </a>. In this paper, we explore the differences in the ability of three different groups of drivers to estimate surface water change in the Southeast - climate, anthropogenic, and the combination of the two. The Southeast is an interesting study area both because of its high population growth rate - the highest of any region in the country! - and because of its large amount of land cover change. It also experiences a wide range of effects from climate change, with a hurricane season in the late summer and early fall, increased rainfall in the winter, and increasingly regular dry spells and even droughts in the summer. The data-driven models we developed use a combination of statistical and machine learning techniques to indicate which group of drivers explains the most amount of variance in surface water across the region, as well as which individual variables are the most important in estimating surface water area.
