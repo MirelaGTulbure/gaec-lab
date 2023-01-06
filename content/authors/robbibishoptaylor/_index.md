@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Robbi currently works for Geoscience Australia's earth observation team, which can be seen <a href="https://www.ga.gov.au/scientific-topics/earth-obs">here.</a>
 
 interests:
 - Spatiotemporal analysis
@@ -63,5 +63,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-As a result of his PhD work Robbi got a continuing job with Geoscience Australia's earth observation team.

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Valentin currently works at UNSW as a postdoctoral researcher in hydrology. See what he is up to now <a href="https://www.wrl.unsw.edu.au/staff/valentin-heimhuber">here.</a>
 
 interests:
 - Spatial Methods in Hydrology
@@ -57,5 +57,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-As a result of his PhD work Tino got a hydrology Post Doc job at UNSW.
