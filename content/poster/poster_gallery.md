@@ -20,17 +20,14 @@ gallery_item:
   image: 2022-12_Tiwari_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
 
-gallery_item:
 - album: poster_img
   image: 2021-01_Gaines_AMS.jpg
   caption: American Meteorological Society (AMS) Annual Meeting (Jan. 2021, New Orleans, Louisiana)
 
-gallery_item:
 - album: poster_img
   image: 2021-12_Gaines_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
-  gallery_item:
 - album: poster_img
   image: 2021-12_Perin_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
