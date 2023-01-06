@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Jack currently works in the contaminated site assessment industry
 
 interests:
 - Graphs
@@ -51,5 +51,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-As a result of his work at GAEC Jack got a job in the contaminated site assessment industry.

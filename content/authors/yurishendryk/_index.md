@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/">here.</a>
 
 interests:
 - Remote Sensing
@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:iurii.shendryk@gmail.com'
+  - icon: linkedin
+  icon_pack: fab
+  link: https://au.linkedin.com/in/shendryk
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -58,5 +61,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-As a result of his PhD work Yuri got a remote sensing/ machine leanring Post Doc job focusing on precision agriculture at Australia's Commonwealth Scientific and Industrial Research Organisation. 

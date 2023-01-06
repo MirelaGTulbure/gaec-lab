@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Miles currently works as a park ranger in New Zealand. 
 
 interests:
 - Geology
@@ -50,5 +50,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-
-As a result of his work at GAEC Miles got a continuing job as a park ranger in New Zealand. 
