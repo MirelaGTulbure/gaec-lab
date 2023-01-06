@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Played a central research role on the Geospatial Analysis for Environmental Change team.
 
 interests:
 - Large area environmental remote sensing
