@@ -23,10 +23,10 @@
   url = "people"
   weight = 40
 
-#[[main]]
-#  name = "Events"
-#  url = "event"
-#  weight = 50
+[[main]]
+  name = "Posters"
+  url = "poster"
+  weight = 45
 
 [[main]]
   name = "Publications"
