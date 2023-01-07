@@ -6,7 +6,7 @@ authors:
 - brookecox
 
 image:
-  caption: 'A comparison of surface water and flooding events in Australia's Murray-Darling Basin caught by Landsat 8, Sentinel-2, and the HLS combination. Image Credit Tulbure et al., 2022 '
+  caption: 'A comparison of surface water and flooding events in Murray-Darling Basin located in Australia caught by Landsat 8, Sentinel 2, and the HLS combination. Image Credit Tulbure et al., 2022'
   focal_point: ""
   preview_only: false
 ---
