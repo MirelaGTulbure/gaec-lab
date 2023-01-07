@@ -4,10 +4,12 @@ date: 2022-09-11
 
 authors:
 - brookecox
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
-
-
-{{< figure src="image.png" >}}
 
 Dr. Perin worked to quantify on-farm reservoir dynamics over the course of four PhD papers. He utilized data from Landsat, Sentinel 1 and 2, Planet, and Planet Fusion datasets throughout his work and was published in both Ag Water Management and Remote Sensing of Environment. 
 

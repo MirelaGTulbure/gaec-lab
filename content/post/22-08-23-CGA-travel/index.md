@@ -9,8 +9,6 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-
-
 ---
 
 The 2022 AGU meeting is being held in Chicago, Illinois.

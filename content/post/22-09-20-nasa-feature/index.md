@@ -6,13 +6,12 @@ authors:
 - brookecox
 
 image:
-  caption: 'A comparison of surface water and flooding events in Australia's Murray-Darling Basin caught by Landsat 8, Sentinel-2, and the HLS combination. Image credit - Tulbure et al., 2022 '
+  caption: 'A comparison of surface water and flooding events in Australia's Murray-Darling Basin caught by Landsat 8, Sentinel-2, and the HLS combination. Image Credit Tulbure et al., 2022 '
   focal_point: ""
   preview_only: false
 ---
 
 NASA brought attention to research done by the Geospatial Analysis for Environmental Change Lab, which can be found in  <a href = "../22-02-08-nasa-first/"> this </a> post. This research was funded by NASA and the resulting paper, <a href = "https://www.sciencedirect.com/science/article/pii/S0924271622000338"> Can we detect more ephemeral floods with higher density harmonized Landsat Sentinel 2 data compared to Landsat 8 alone?</a>, was accepted on January 28, 2022 in ISPRS Journal of Photogrammerty and Remote Sensing.
-
 
 ### Social Media Buzz:
 
