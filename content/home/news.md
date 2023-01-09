@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 30
 
 title: Latest News
-subtitle:
+subtitle: '[See all news >](../post/)'
 
 content:
   count: 5
@@ -20,6 +20,6 @@ content:
   page_type: post
 design:
   view: 2
-  columns: "1"
+  columns: "2"
 
 ---
