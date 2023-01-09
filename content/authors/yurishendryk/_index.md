@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:iurii.shendryk@gmail.com'
-  - icon: linkedin
-  icon_pack: fab
-  link: https://au.linkedin.com/in/shendryk
 
 
 # Link to a PDF of your resume/CV from the About widget.
