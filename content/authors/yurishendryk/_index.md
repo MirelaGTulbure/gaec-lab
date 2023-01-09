@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/">here.</a>
+bio: Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/"> here. </a>
 
 interests:
 - Remote Sensing
@@ -61,3 +61,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/"> here. </a>

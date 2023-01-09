@@ -67,4 +67,4 @@ user_groups:
 - Current Lab Members
 ---
 
-
+I am a third year undergraduate student majoring in Environmental Science at North Carolina State University. My focal area is geospatial analytics and computer programming. My main area of interst is applications of geospatial analysis to address environmental justice issues. 

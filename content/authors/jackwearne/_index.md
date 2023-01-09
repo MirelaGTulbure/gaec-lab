@@ -51,3 +51,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+ Jack currently works in the contaminated site assessment industry

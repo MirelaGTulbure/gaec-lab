@@ -74,3 +74,4 @@ user_groups:
 - Alumni
 ---
 
+Played a central research role on the Geospatial Analysis for Environmental Change team.

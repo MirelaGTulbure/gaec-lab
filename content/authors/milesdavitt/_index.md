@@ -50,3 +50,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+Miles currently works as a park ranger in New Zealand.
