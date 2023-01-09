@@ -62,4 +62,4 @@ user_groups:
 - Alumni
 ---
 
-Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/"> here. </a>
+Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href= "https://dendra.io/"> here. </a>

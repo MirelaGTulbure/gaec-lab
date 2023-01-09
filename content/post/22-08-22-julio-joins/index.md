@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-Júlio has joined the lab as a post-doctoral fellow to work on the NASA Terrestrial Hydrology Project. He completed his PhD in Computational Modeling and Simulation at the University of Pittsburgh. His paper, <a href = "https://www.sciencedirect.com/science/article/pii/S0034425722002231"> Submarine groundwater discharge detection through remote sensing: An application of Landsat 7 and 8 in Hawaiʻi and Ireland</a> was accepted by Remote Sensing of Environment on May 31, 2022. 
+Júlio has joined the lab as a post-doctoral fellow to work on the NASA Terrestrial Hydrology Project. He completed his PhD in Computational Modeling and Simulation at the University of Pittsburgh. His paper, <a href ="https://www.sciencedirect.com/science/article/pii/S0034425722002231"> Submarine groundwater discharge detection through remote sensing: An application of Landsat 7 and 8 in Hawaiʻi and Ireland</a> was accepted by Remote Sensing of Environment on May 31, 2022. 
 
 ### Social Media Buzz:
 
