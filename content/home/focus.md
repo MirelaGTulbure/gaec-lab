@@ -16,18 +16,18 @@ feature:
     icon_pack: custom
     name: Remote Sensing
     description: General research topics related to remote sensing
-#  - icon: tree
-#    icon_pack: custom
-#    name: Vegetaton Phenology
-#    description: Understand vegetation phenology to infer climate change 
+ - icon: lake
+   icon_pack: custom
+   name: Surface Water
+   description: Understand surface water dynamics 
 #  - icon: sprout
 #    icon_pack: custom
 #    name: Agriculture
 #    description: Food! Food! Food!
-  - icon: waterfall
+  - icon: flood
     icon_pack: custom
-    name: Hydrology
-    description: Understand water dynamics
+    name: Flooding
+    description: Map flooding events using remote sensing
 
   # Example using an emoji as an icon.
 #  - icon: '😄'
