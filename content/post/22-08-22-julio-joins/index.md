@@ -6,7 +6,7 @@ authors:
 - brookecox
 
 image:
-  caption: ''
+  caption: 'This is Figure 3 from his paper "Submarine groundwater discharge detection through remote sensing: An application of Landsat 7 and 8 in Hawaiʻi and Ireland" '
   focal_point: ""
   preview_only: false
 ---
