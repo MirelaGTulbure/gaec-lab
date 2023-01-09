@@ -13,7 +13,9 @@ image:
 
 The 2022 AGU meeting is being held in Chicago, Illinois.
 
-Mollie Gaines was awarded travel grants by the Center for Geospatial Analytics at NCSU and by the NASA SCoPE SciAct Affiliate program. Varun Tiwari was also awarded a travel grant from the Center for Geospatial Analytics.
+<!--more-->
+
+Mollie Gaines was awarded travel grants by both the Center for Geospatial Analytics at NCSU and the NASA SCoPE SciAct Affiliate program. Varun Tiwari was also awarded a travel grant from the Center for Geospatial Analytics.
 
 ### Social Media Buzz:
 

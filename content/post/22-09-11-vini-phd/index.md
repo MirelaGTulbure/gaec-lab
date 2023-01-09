@@ -13,6 +13,8 @@ image:
 
 Dr. Perin worked to quantify on-farm reservoir dynamics over the course of four PhD papers. He utilized data from Landsat, Sentinel 1 and 2, Planet, and Planet Fusion datasets throughout his work and was published in both Ag Water Management and Remote Sensing of Environment. 
 
+<!--more-->
+
 Vini successfully completed his PhD in an astonishing 3 years with Dr. Mirela Tulbure as his main advisor. Moving forward, he will be working with Planet and we all wish him luck!
 
 ### Social Media Buzz:
