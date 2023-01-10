@@ -44,10 +44,10 @@ social:
 #  link: 
 - icon: github
   icon_pack: fab
-  link: 'https://github.com/becoxncsu'
-# - icon: linkedin
-#  icon_pack: fab
-#  link: 
+  link: https://github.com/becoxncsu
+ - icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/brooke-cox-a6437a261/
 # - icon: twitter
 #   icon_pack: fab
 #   link:

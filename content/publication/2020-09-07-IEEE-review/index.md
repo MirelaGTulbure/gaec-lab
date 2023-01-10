@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-- name: Paper link
-  url: https://arxiv.org/abs/2009.03390
+- name: PDF
+  url: https://arxiv.org/pdf/2009.03390.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
