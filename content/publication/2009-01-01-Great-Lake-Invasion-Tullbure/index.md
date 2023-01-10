@@ -2,15 +2,17 @@
 title: "Rapid Invasion of a Great Lakes Coastal Wetland by Non-native Phragmites australis and Typha"
 authors:
 - admin
+- C. Johnston
+- D. Auger
 
 author_notes:
 - "Corresponding Author"
 
-date: "2007-12-01T00:00:00Z"
+date: "2009-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2007-12-01T00:00:00Z"
+publishDate: "2009-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -61,5 +63,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---

@@ -2,6 +2,10 @@
 title: "A comparison of sampling designs for estimating deforestation from Landsatimagery: A case study of the Brazilian Legal Amazon"
 authors:
 - MARKBROICH
+- S. Stehman
+- M. Hansen
+- P. Potapov
+- Y. E. Shimabukuro
 
 author_notes:
 - "Corresponding Author"
@@ -22,10 +26,10 @@ publication_types: ["2"]
 publication: "Remote Sensing of Environment"
 publication_short: ""
 
-abstract: Three sampling designs —simple random, stratiﬁed random, and systematic sampling —are compared onthe basis of precision of estimated loss of intact humid tropical forest area in the Brazilian Legal Amazon from2000 to 2005. MODIS-derived deforestation is used to partition the study area into strata to intensifysampling within forest clearing hotspots. The precision of the estimator of deforestation area for each designis calculated from a population of wall-to-wall PRODES deforestation data available for the study area. Bothsystematic and stratiﬁed sampling yield smaller standard errors than simple random sampling, and thestratiﬁed design has smaller standard errors than the systematic design at each sample size evaluated. Theresults of this case study demonstrate the utility of a stratiﬁed design based on MODIS-derived deforestationdata to improve precision of the estimated loss of intact forest area as estimated from sampling Landsatimagery
+abstract: Three sampling designs —simple random, stratiﬁed random, and systematic sampling —are compared onthe basis of precision of estimated loss of intact humid tropical forest area in the Brazilian Legal Amazon from 2000 to 2005. MODIS-derived deforestation is used to partition the study area into strata to intensify sampling within forest clearing hotspots. The precision of the estimator of deforestation area for each designis calculated from a population of wall-to-wall PRODES deforestation data available for the study area. Both systematic and stratiﬁed sampling yield smaller standard errors than simple random sampling, and thestratiﬁed design has smaller standard errors than the systematic design at each sample size evaluated. The results of this case study demonstrate the utility of a stratiﬁed design based on MODIS-derived deforestationdata to improve precision of the estimated loss of intact forest area as estimated from sampling Landsat imagery.
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: Three sampling designs —simple random, stratiﬁed random, and systematic sampling —are compared onthe basis of precision of estimated loss of intact humid tropical forest area in the Brazilian Legal Amazon from 2000 to 2005. The results of this case study demonstrate the utility of a stratiﬁed design based on MODIS-derived deforestationdata to improve precision of the estimated loss of intact forest area as estimated from sampling Landsat imagery.
 
 tags:
 - Deforestation
@@ -63,7 +67,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
 
 

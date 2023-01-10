@@ -2,6 +2,8 @@
 title: "Assessing the use of multiseason QuickBird imagery for mapping invasive species in a Lake Erie coastal Marsh"
 authors:
 - admin
+- D. Ghioca-Robrecht
+- C. Johnston
 
 author_notes:
 - "Corresponding Author"
@@ -25,10 +27,13 @@ publication_short: ""
 abstract: QuickBird multispectral satellite images taken in September 2002 (peak biomass) and April 2003 (pre-growing season) were used to map emergent wetland vegetation communities, particularly invasive Phragmites australis and Typha spp., within a diked wetland at the western end of Lake Erie. An unsupervised classification was performed on a nine-layer image stack consisting of all four spectral bands from both dates plus a September Normalized Difference Vegetation Index image. The resulting eight cover classes distinguished three monodominant genera (Phragmites australis, Typha spp., Nelumbo lutea), three multigenera plant communities (wet meadow, other non persistent emergents, woody vegetation), and two unvegetated cover types (water, bare soil). Field validation at 196 data points yielded an overall classification accuracy of 62%, with producer’s accuracy for the eight individual classes ranging from 41 to 91% and user’s accuracy from 17 to 90%. Three-fourths of areas designated as Phragmites were correctly mapped, but 14% were found to be cattail (Typha) during field validation. Lotus (Nelumbo lutea) beds were accurately mapped on multiseason imagery (producer’s accuracy = 91%); these beds had not yet emerged above water in April, but were fully developed in September. Other types of non persistent vegetation were confused with managed areas in which vegetation had been cut and burned to control invasive Phragmites. Multiseason QuickBird imagery is promising for distinguishing certain wetland plant species, but should be used with caution in highly managed areas where vegetation changes may reflect human alterations rather than phenological change.
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: QuickBird multispectral satellite images taken in September 2002 (peak biomass) and April2003 (pre-growing season) were used to map emergent wetland vegetation communities, particularlyinvasive Phragmites australis and Typha spp., within a diked wetland at the western end of Lake Erie. Multiseason QuickBird imagery is promising fordistinguishing certain wetland plant species, but should be used with caution in highly managed areaswhere vegetation changes may reflect human alterations rather than phenological change.
 
 tags:
 - Wetlands
+- Remote sensing
+- Phragmites
+- Typha
 
 featured: false
 
@@ -63,7 +68,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
 
 

@@ -2,6 +2,13 @@
 title: "Partitioning Vegetation Response to Anthropogenic Stress to Develop Multi-Taxa Wetland Indicators"
 authors:
 - admin
+- C. Johnston
+- D. Ghioca-Robrecht
+- B. L. Bedford
+- M. Bourdaghs
+- C. B. Frieswyk
+- L. Vaccaro
+- J. B. Zedler
 
 author_notes:
 - "Corresponding Author"
@@ -63,7 +70,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
-
 

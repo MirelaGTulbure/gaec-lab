@@ -2,6 +2,7 @@
 title: "Environmental Conditions Promoting Non-native Phragmites australis Expansion in Great Lakes Coastal Wetlands"
 authors:
 - admin
+- C. Johnston
 
 author_notes:
 - "Corresponding Author"
@@ -25,7 +26,7 @@ publication_short: ""
 abstract: The invasion and expansion of the non-native Phragmites australis in Great Lakes coastal wetlands is of increasing concern, but quantitative studies of the extent, rate, and causes of invasion have been lacking. Here we revisited 307 plots in 14 wetlands along the Great Lakes coast in 2005 that had previously been sampled for vegetation in 2001–2003. During the 2–4 years between sample events, Phragmites occurred in 101 plots. Genetic analysis revealed that none of the Phragmites samples collected at the 14 wetlands belonged to the native genotype. Decreases in water depth and bare soil area were associated with the greatest increases in Phragmites cover. Phragmites invasion was greater on Lakes Michigan, Huron, and Erie than it was on Lake Ontario, and occurred predominantly on sandy substrates. Soil water concentrations of NO3-N, NH3-N, and soluble reactive P did not differ significantly between plots with and without Phragmites. Monitoring coastal wetlands where water level has dropped and controlling Phragmites at early stages of invasion are essential for maintaining healthy Great Lakes coastal wetlands of high species diversity and wildlife habitat. This becomes important as water levels in the Great Lakes have reached extreme lows and are expected to decline with future climate change.
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: The invasion and expansion of the non-native Phragmites australis in Great Lakes coastal wetlands is of increasing concern. Monitoring coastal wetlands where water level has dropped and controlling Phragmites at early stages of invasion are essential for maintaining healthy Great Lakes coastal wetlands of high species diversity and wildlife habitat. This becomes important as water levels in the Great Lakes have reached extreme lows and are expected to decline with future climate change.
 
 tags:
 - Wetlands
@@ -64,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
 
 
