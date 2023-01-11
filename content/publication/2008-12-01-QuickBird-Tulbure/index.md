@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image from Figure 2 of the article "NIR band images of highly managed portion of Erie Marsh showing selected types of vegetation change during September (top image) and the following April (bottom image). ‘‘Spring’’ is the location of a diked sulphur spring visible on both images." '
+  caption: ''
   focal_point: ""
   preview_only: false
 
