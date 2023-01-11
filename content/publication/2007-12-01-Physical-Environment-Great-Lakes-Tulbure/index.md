@@ -14,7 +14,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2007-12-01T00:00:00Z"
-doi: ""
+doi: "10.3394/0380-1330(2007)33[106:PSIOPE]2.0.CO;2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2007-12-01T00:00:00Z"
