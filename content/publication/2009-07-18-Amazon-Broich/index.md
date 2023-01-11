@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Study area in Brazil, South America: PRODES-mapped area (2000–2005) within the humid tropical forest biome in the Brazilian Legal Amazon (BLA). The study area was partitioned into blocks (18.5-km × 18.5-km) that were assigned to four deforestation strata (shown as green, yellow, orange, and red) based on MODIS-derived deforestation.  '
   focal_point: ""
   preview_only: false
 
