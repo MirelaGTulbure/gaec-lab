@@ -64,6 +64,8 @@ user_groups:
 - Alumni
 ---
 
+Robbi was awarded his PhD in Geospatial Science for his research "Surface water networks in the Murray-Darling Basin: a graph theory approach." He was primarily supervised by Mirela G Tulbure with joint supervisor Mark Broich. 
+
 Robbi currently works with Geoscience Australia's earth observation team. While working with the lab, he pursued his  interest in the natural world and the role landscape-scale research has to play in maintaining the viability of ecosystems increasingly impacted by development and environmental change. Particularly, he focused on how dynamic remote sensing datasets and network analysis can be used to study landscape connectivity through time and across large spatial extents, potentially providing a powerful and efficient mechanism for prioritising conservation within highly modified and increasingly contested landscapes.
 
 <b>Past Projects</b>

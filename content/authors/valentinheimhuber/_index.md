@@ -57,8 +57,10 @@ email: ""
 user_groups:
 - Alumni
 ---
+Valentin was awarded his PhD for his research, "Modelling surface water dynamics on large river basin scale from space: A case study for the Murray-Darling Basin of Australia." He was primarily supervised by Mirela G Tulbure with joint supervisor Mark Broich. 
 
 Valentin currently works as a Post Doctoral Researcher in Hydrology at UNSW. 
+
 As a researcher at GAEC, he was interested in the application of Earth observation data, remote sensing and statistical modeling for improving water resources management on globally significant scales. He was particularly passionate about the important role of innovative research and technology in providing the scientific evidence that is urgently needed for addressing the proliferation of the global freshwater crisis by informed policy making.
 
 <b>Past Projects</b>

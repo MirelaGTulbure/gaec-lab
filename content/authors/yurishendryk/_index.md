@@ -58,6 +58,7 @@ email: ""
 user_groups:
 - Alumni
 ---
+Yuri was awarded his PhD for his research, "Integration of multi-sensor remote sensing data for assessment of environmental flows in the Barmah-Millewa Forest." He was primarily supervised by Mirela G Tulbure with joint supervisor Mark Broich.
 
 Yuri currently works as a remote sensing/ machine learning Post Doctoral researcher focusing on precision agriculture at Australia's Commonwealth Scientific and Industrial Research Organisation. 
 

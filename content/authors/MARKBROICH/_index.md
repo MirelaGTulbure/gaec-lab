@@ -76,6 +76,8 @@ user_groups:
 
 Dr. Mark Broich played a central research role on the Geospatial Analysis for Environmental Change team and had a key role in building the GAEC lab. As an innovative geospatial researcher he has extensive skills in quantitative spatial-temporal analysis and modelling of large datasets using remote sensing, geographic information systems (GIS), machine learning, spatial statistics and high performance computing (HPC). His far reaching international experience includes work in developing nations such as Indonesia and DR Congo. When he joined UNSW as a Postdoctoral Research fellow he worked on developing remote sensing algorithms quantifying surface water extent dynamics and vegetation response to flooding as part of an Australian Research Council Linage Grant and jointly supervise the lab’s three PhD students. 
 
+His post doctoral research was titled "A novel approach for assessing environmental flows using satellite data (Australian Research Council Linkage Grant with the Murray-Darling Basin Authority)."
+
 <b>Past Projects</b>
 
 <b>Australian Research Council Linkage Grant working with Dr Mirela Tulbure:</b> "A novel approach for assessing environmental flows using satellite data". This project will determine how ecosystems respond to environmental flow by linking flooding history with vegetation responses, using remote sensing, climate data layers, spatial statistics, models of environmental flows and ecological theory. Beneficiaries will include water and land managers in Australia.
