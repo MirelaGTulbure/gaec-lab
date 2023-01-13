@@ -77,8 +77,24 @@ user_groups:
 Dr. Mark Broich played a central research role on the Geospatial Analysis for Environmental Change team and had a key role in building the GAEC lab. As an innovative geospatial researcher he has extensive skills in quantitative spatial-temporal analysis and modelling of large datasets using remote sensing, geographic information systems (GIS), machine learning, spatial statistics and high performance computing (HPC). His far reaching international experience includes work in developing nations such as Indonesia and DR Congo. When he joined UNSW as a Postdoctoral Research fellow he worked on developing remote sensing algorithms quantifying surface water extent dynamics and vegetation response to flooding as part of an Australian Research Council Linage Grant and jointly supervise the lab’s three PhD students. 
 
 <b>Past Projects</b>
-1. Australian Research Council Linkage Grant working with Dr Mirela Tulbure: "A novel approach for assessing environmental flows using satellite data". This project will determine how ecosystems respond to environmental flow by linking flooding history with vegetation responses, using remote sensing, climate data layers, spatial statistics, models of environmental flows and ecological theory. Beneficiaries will include water and land managers in Australia.
-2. AusCover/TERN satellite phenology product for Australia (v1): In contribution to the Terrestrial Ecosystems Research Initiative’s AusCover remotes sensing facility, Mark developed Australia’s first remote sensing-based phenological characterization product (Broich et al. 2014 & 2015) in collaboration with the University of Technology Sydney.
-3. Forest cover loss in Indonesia and DR Congo: Funded by NASA, USAID and AusAid, Mark Broich worked with Professor Matt Hansen (UMD) on quantifying humid tropical forest cover loss from Landsat and MODIS remote sensing time series (Broich et al. 2011a, 2011b and others) in contribution to the UN-REDD policy initiative.
+<b>Australian Research Council Linkage Grant working with Dr Mirela Tulbure:</b> "A novel approach for assessing environmental flows using satellite data". This project will determine how ecosystems respond to environmental flow by linking flooding history with vegetation responses, using remote sensing, climate data layers, spatial statistics, models of environmental flows and ecological theory. Beneficiaries will include water and land managers in Australia.
+<img src="darling_river.png" alt="image is not available">
+
+<b>AusCover/TERN satellite phenology product for Australia (v1):</b> In contribution to the Terrestrial Ecosystems Research Initiative’s AusCover remotes sensing facility, Mark developed Australia’s first remote sensing-based phenological characterization product (Broich et al. 2014 & 2015) in collaboration with the University of Technology Sydney.
+<img src="phenological.png" alt="image is not available">
+<img src="mean_cycle.png" alt="image is not available">
+
+<b>Forest cover loss in Indonesia and DR Congo:</b> Funded by NASA, USAID and AusAid, Mark Broich worked with Professor Matt Hansen (UMD) on quantifying humid tropical forest cover loss from Landsat and MODIS remote sensing time series (Broich et al. 2011a, 2011b and others) in contribution to the UN-REDD policy initiative.
+<img src="forestcover.png" alt="image is not available">
+<img src="forestcover2.png" alt="image is not available">
+<img src="indo.png" alt="image is not available">
+Photo of workshop at LAPAN. 
+
+<b>Scholarships</b>
+- First author paper selected for the ‘Highlights of 2011 Collection’ of Environmental Research Letters as per Journal Editors’ decision.
+- Fire and Emergency Services Authority (FESA) of Western Australia Grant for the “GIS-Based Bushfire Threat Analysis of the Entire State of Western Australia” project (co-CI) [$168,000].
+- University of New South Wales Start-up funds.
+- German Academic Exchange Service Graduate Studies Abroad Scholarship for two semesters at the University of Hawaii, USA [$25,000].
+- German Academic Exchange Service Travel Scholarship for thesis related fieldwork in Kenya [$5,000].
 
 
