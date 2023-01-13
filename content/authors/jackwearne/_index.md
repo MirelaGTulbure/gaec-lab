@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jack currently works in the contaminated site assessment industry
+bio: Jack currently works in the contaminated site assessment industry. 
 
 interests:
 - Graphs
@@ -52,4 +52,4 @@ user_groups:
 - Alumni
 ---
 
- Jack currently works in the contaminated site assessment industry
+ Jack currently works in the contaminated site assessment industry. He worked within the GAEC lab as a research assistant, while undertaking further study and research for his Masters by Philosophy. He graduated in 2017 with a Bachelor of Science degree from UNSW, majoring in Earth Science and began working with the lab in June 2016. In his time with the lab he have worked on the processing steps necessary for analysis of satellite imagery, post processing of results into graphics ready for publication, and development of algorithm proceedures. 

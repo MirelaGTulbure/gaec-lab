@@ -51,4 +51,4 @@ user_groups:
 - Alumni
 ---
 
-Miles currently works as a park ranger in New Zealand.
+Miles currently works as a park ranger in New Zealand. As a research assistant with the Geospatial Analysis for Environmental Change Lab he supported projects focused on surface water extent dynamic quantification using remotely sensed data. From the School of Biological Environmental and Earth Sciences at UNSW, he completed his Bachelor of Science with Honours in geology, mapping the stratigraphy of the area surrounding the Waverley Fault in the upper Hunter Valley, NSW.
