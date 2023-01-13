@@ -28,13 +28,6 @@ interests:
 - Vegetation dynamics
 - Vegetation response to flooding
 
-scholarships:
-- First author paper selected for the ‘Highlights of 2011 Collection’ of Environmental Research Letters as per Journal Editors’ decision.
-- Fire and Emergency Services Authority (FESA) of Western Australia Grant for the “GIS-Based Bushfire Threat Analysis of the Entire State of Western Australia” project (co-CI) [$168,000].
-- University of New South Wales Start-up funds.
-- German Academic Exchange Service Graduate Studies Abroad Scholarship for two semesters at the University of Hawaii, USA [$25,000].
-- German Academic Exchange Service Travel Scholarship for thesis related fieldwork in Kenya [$5,000].
-
 
 education:
   courses:
@@ -98,4 +91,9 @@ Dr. Mark Broich played a central research role on the Geospatial Analysis for En
 <img src="indo.png" alt="image is not available">
 Photo of workshop at LAPAN. 
 
-
+<b>Scholarships</b>
+- First author paper selected for the ‘Highlights of 2011 Collection’ of Environmental Research Letters as per Journal Editors’ decision.
+- Fire and Emergency Services Authority (FESA) of Western Australia Grant for the “GIS-Based Bushfire Threat Analysis of the Entire State of Western Australia” project (co-CI) [$168,000].
+- University of New South Wales Start-up funds.
+- German Academic Exchange Service Graduate Studies Abroad Scholarship for two semesters at the University of Hawaii, USA [$25,000].
+- German Academic Exchange Service Travel Scholarship for thesis related fieldwork in Kenya [$5,000].
