@@ -81,7 +81,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 1 from the publication. "Locations and fractional land cover of landscapes within AOP surveys and products available from the NEON website in mid-2020. The landscapes surveyed do not capture any of the major U.S. population centers (red areas on the map), but exhibit considerable land-use diversity. Population is from 2015 block-group level census data and land cover is from the 2016 National Land Cover Database (USGS 2016)." '
   focal_point: ""
   preview_only: false
 

@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'From Figure 1 of the publication. "Examples of dynamic landscape connectivity. Figure represents dynamic connectivity (lines with arrows) for a migratory ungulate. The area of land that supports connectivity changes depending on intra-annual dynamics such as seasons, intermittent dynamics such as disturbance, and interannual dynamics such as anthropogenic development and climate change. This figure is an illustrative example of only a few dynamics discussed in the paper. Please see text for additional information." '
   focal_point: ""
   preview_only: false
 
