@@ -17,7 +17,7 @@ design:
 
 gallery_item:
 - album: poster_img
-  image: 2022-12_Tiwari_AGU.jpg
+  image: 2022-12_Tiwari_AGU_resized.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
 
 - album: poster_img
