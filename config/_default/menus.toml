@@ -18,10 +18,14 @@
   url = "project"
   identifier = projects
   weight = 30
+  
+[[main]]
   name = "Current Projects"
   parent: projects
   url: "project/current/"
   weight: 10
+  
+[[main]]
   name: "Completed Projects"
   parent: projects
   url: "project/complete/"
