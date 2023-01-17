@@ -84,8 +84,8 @@ His post doctoral research was titled "A novel approach for assessing environmen
 <img src="darling_river.png" alt="image is not available">
 
 <b>AusCover/TERN satellite phenology product for Australia (v1):</b> In contribution to the Terrestrial Ecosystems Research Initiative’s AusCover remotes sensing facility, Mark developed Australia’s first remote sensing-based phenological characterization product (Broich et al. 2014 & 2015) in collaboration with the University of Technology Sydney.
-//img
-//img
+<img src="phenological.png" alt="image is not available">
+<img src="mean_cycle.png" alt="image is not available">
 
 <b>Forest cover loss in Indonesia and DR Congo:</b> Funded by NASA, USAID and AusAid, Mark Broich worked with Professor Matt Hansen (UMD) on quantifying humid tropical forest cover loss from Landsat and MODIS remote sensing time series (Broich et al. 2011a, 2011b and others) in contribution to the UN-REDD policy initiative.
 //img
