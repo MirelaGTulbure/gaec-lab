@@ -81,13 +81,14 @@ His post doctoral research was titled "A novel approach for assessing environmen
 <b>Past Projects</b>
 
 <b>Australian Research Council Linkage Grant working with Dr Mirela Tulbure:</b> "A novel approach for assessing environmental flows using satellite data". This project will determine how ecosystems respond to environmental flow by linking flooding history with vegetation responses, using remote sensing, climate data layers, spatial statistics, models of environmental flows and ecological theory. Beneficiaries will include water and land managers in Australia.
-
+<img src="darling_river.png" alt="image is not available">
 
 <b>AusCover/TERN satellite phenology product for Australia (v1):</b> In contribution to the Terrestrial Ecosystems Research Initiative’s AusCover remotes sensing facility, Mark developed Australia’s first remote sensing-based phenological characterization product (Broich et al. 2014 & 2015) in collaboration with the University of Technology Sydney.
-
+//img
+//img
 
 <b>Forest cover loss in Indonesia and DR Congo:</b> Funded by NASA, USAID and AusAid, Mark Broich worked with Professor Matt Hansen (UMD) on quantifying humid tropical forest cover loss from Landsat and MODIS remote sensing time series (Broich et al. 2011a, 2011b and others) in contribution to the UN-REDD policy initiative.
-
+//img
 Photo of workshop at LAPAN. 
 
 <b>Scholarships</b>
