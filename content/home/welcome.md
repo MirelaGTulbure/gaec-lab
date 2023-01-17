@@ -39,7 +39,7 @@ design:
     gradient_angle: #0
     gradient_start: #'rgb(40,42,54)'
     gradient_end: #'rgb(40,42,54)'
-    text_color_light: true
+    text_color_light: 
 
 ---
 
