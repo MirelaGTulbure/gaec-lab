@@ -17,22 +17,23 @@
   name = "Projects"
   url = "project"
   weight = 30
+  
 [[main]]
   name = "Tags"
-  identifier = "tags"
+  identifier = tags
   weight = 35
   
 [[main]]
   name = "Current Projects"
-  parent: "tags"
-  url: "project/current/"
-  weight: 10
+  parent = tags
+  url = "project/current/"
+  weight = 10
   
 [[main]]
-  name: "Completed Projects"
-  parent: "tags"
-  url: "project/complete/"
-  weight: 20
+  name = "Completed Projects"
+  parent = tags
+  url = "project/complete/"
+  weight = 20
 
 [[main]]
   name = "People"
