@@ -88,8 +88,10 @@ His post doctoral research was titled "A novel approach for assessing environmen
 <img src="mean_cycle.png" alt="image is not available">
 
 <b>Forest cover loss in Indonesia and DR Congo:</b> Funded by NASA, USAID and AusAid, Mark Broich worked with Professor Matt Hansen (UMD) on quantifying humid tropical forest cover loss from Landsat and MODIS remote sensing time series (Broich et al. 2011a, 2011b and others) in contribution to the UN-REDD policy initiative.
-//img
-Photo of workshop at LAPAN. 
+<img src="forestcover.png" alt="image is not available">
+<img src="forestcover2.png" alt="image is not available">
+<img src="indo.png" alt="image is not available">
+<figcaption>Photo of workshop at LAPAN.</figcaption>
 
 <b>Scholarships</b>
 - First author paper selected for the ‘Highlights of 2011 Collection’ of Environmental Research Letters as per Journal Editors’ decision.
