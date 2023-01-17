@@ -15,13 +15,9 @@
 
 [[main]]
   name = "Projects"
+  identifier = "P"
   url = "project"
   weight = 30
-  
-[[main]]
-  name = "Tags"
-  identifier = "P"
-  weight = 35
   
 [[main]]
   name = "Current Projects"
