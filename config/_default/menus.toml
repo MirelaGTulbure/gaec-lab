@@ -16,7 +16,16 @@
 [[main]]
   name = "Projects"
   url = "project"
+  identifier = projects
   weight = 30
+  name = "Current Projects"
+  parent: projects
+  url: "project/current/"
+  weight: 10
+  name: "Completed Projects"
+  parent: projects
+  url: "project/complete/"
+  weight: 20
 
 [[main]]
   name = "People"
