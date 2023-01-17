@@ -21,13 +21,13 @@
 [[main]]
   name = "Current Projects"
   parent = "P"
-  url = "current"
+  url = "currentproject"
   weight = 10
   
 [[main]]
   name = "Completed Projects"
   parent = "P"
-  url = "complete"
+  url = "completeproject"
   weight = 20
 
 [[main]]
