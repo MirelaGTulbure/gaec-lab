@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'Figure 3 from the publication, "Mean predicted switchgrass yield (Mg/ha) from 1970 to 2008 for (a) upland and (c) lowland cytotypes and variability in switchgrass yield expressed as interquartile ratio (interquartile range/median) for (b) upland and (d) lowland cytotypes. Counties shown in gray fell outside the precipitation and temperature conditions used to parameterize our GAM models or are at the extremes of the variables outside the confidence in the GAM models." '
   focal_point: ""
   preview_only: false
 

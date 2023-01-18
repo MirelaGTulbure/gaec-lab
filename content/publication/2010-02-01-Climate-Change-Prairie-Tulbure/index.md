@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'From the publication, "Study sites by hierarchical cluster assignment: (A) western Lake Superior (sites 1–22); (B) eastern Lake Superior, northern Lake Michigan, and northern Lake Huron (sites 23–47, 54–58); (C) Lake Ontario (sites 78–90); (D) eastern Lake Michigan, Lake Huron, and Lake Erie (sites 27–30, 48–77)." '
   focal_point: ""
   preview_only: false
 

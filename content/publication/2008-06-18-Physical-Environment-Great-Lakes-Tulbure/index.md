@@ -44,7 +44,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/228616165_Plant_Species_Indicators_of_Physical_Environment_in_Great_Lakes_Coastal_Wetlands
+url_pdf: https://www.semanticscholar.org/paper/Plant-Species-Indicators-of-Physical-Environment-in-Johnston-Bedford/074f5a8cb84482aeb8d1bcd36f32d76c19df9e87
 url_code: ''
 url_dataset: ''
 url_poster: ''

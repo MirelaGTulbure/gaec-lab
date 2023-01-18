@@ -9,7 +9,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2010-12-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jglr.2010.09.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2010-12-01T00:00:00Z"

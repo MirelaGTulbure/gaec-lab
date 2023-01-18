@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'From the paper, "Mean predicted switchgrass yield (Mg ha⁻¹) for lowland cytotypes for the (a) baseline period and under the A2 scenario for (b) 2020, (c) 2050, and (d) 2080 and under the B2 scenario for (e) 2020, (f) 2050, and (g) 2080. Areas shown in grey fell outside the ranges of precipitation and temperature conditions used to parameterize our GAM models. The analysis was conducted at 1 km resolution of the WorldClim data." '
   focal_point: ""
   preview_only: false
 

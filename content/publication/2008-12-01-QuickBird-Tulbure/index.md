@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'From the article, "Field photos of the eight cover types mapped. A) Soil/cultivated (plowed ground in foreground, corn in background); B) Nelumbo beds (foreground) and woody vegetation (background); C) Sagittaria latifolia , a non persistent emergent; D) Typha spp.; E) wet meadow dominated by Phalaris arundinacea ; and F) Phragmites australis." '
   focal_point: ""
   preview_only: false
 

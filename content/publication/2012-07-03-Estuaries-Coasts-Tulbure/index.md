@@ -10,7 +10,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2012-07-03T00:00:00Z"
-doi: ""
+doi: "10.1007/s12237-012-9529-4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-07-03T00:00:00Z"
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'From the paper, "Location of Phragmites stands sampled around Chesapeake Bay. The three insets represent the areas where we identified native Phragmites stands." '
   focal_point: ""
   preview_only: false
 

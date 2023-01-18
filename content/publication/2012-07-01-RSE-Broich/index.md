@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'From the publication, "Fig. 2. Forest cover loss patterns: A. Within a humid tropical forest zone (Kasai-Occidental province); B. Within a woodland zone (Katanga province)." '
   focal_point: ""
   preview_only: false
 

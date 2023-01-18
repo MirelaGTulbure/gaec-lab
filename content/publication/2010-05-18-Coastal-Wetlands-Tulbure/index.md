@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'From the publication, "Substrate type of Phragmites plots on the first sampling event" '
   focal_point: ""
   preview_only: false
 

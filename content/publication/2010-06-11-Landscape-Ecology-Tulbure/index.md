@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'From the paper, "MODIS active fire detections (red dots) in the central U.S. in 2008. Grey shades show the percentage of MODIS 1 km observations labeled as cloudy over the year. Each circle represents a 1-km MODIS fire pixel. Water bodies (shown in black) were masked out." '
   focal_point: ""
   preview_only: false
 

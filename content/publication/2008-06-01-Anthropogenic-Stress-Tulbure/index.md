@@ -14,7 +14,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2008-06-01T00:00:00Z"
-doi: ""
+doi: "10.1890/07-1207.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2008-06-01T00:00:00Z"
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 4 from the article, "Predicted vs. actual values based on output of lake-specific multi-taxa formulae (Table 5) for (A) cumulative stress index(CSI) and (B) hydrologic modification index (HMI)." '
   focal_point: ""
   preview_only: false
 

@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'From the article, "Temporal disaggregation of the moderate spatial resolution forest cover loss map for Riau province, Sumatera. Landsat band 5 is displayed in grayscale with dark tones representing forest cover. Colors mark the year of MODIS-detected forest cover loss." '
   focal_point: ""
   preview_only: false
 
