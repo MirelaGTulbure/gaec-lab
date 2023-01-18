@@ -64,7 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'From the paper, "Fig. 6. Spatial patterns of vegetation phenology over the NATT study area along with rainfall anomalies across four representative hydrological years. (A) Standardized anomaly of annual precipitation; (B) Start of Greening Season (SGS); (C) Peak of Greening Season (PGS); (D) End of Greening Season (EGS); (E) Length of Greening Season (LGS). Four representative years we selected were: 2001–2002 (normal/light drought year); 2005–2006 (wet year); 2007–2008 (drought year); 2010–2011 (wet year). The filled pixels (gray shaded areas) are either water body, low MODIS QA, or without detectable phenology." '
   focal_point: ""
   preview_only: false
 

@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 2 from publication, "Median number of Landsat 5 and 7 scenes per year and path/row from 1986 to 2011 in the MDB available and downloaded from the United States Geological Survey with ≤ 50% ACCA cloud cover." '
   focal_point: ""
   preview_only: false
 

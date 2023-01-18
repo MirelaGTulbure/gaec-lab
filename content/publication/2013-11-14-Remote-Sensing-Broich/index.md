@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: 'Figure 2 from the publication, "The percentage maps of corn and soybean in 2011 from the NASS CDL program. ( A ) 2011 Corn map from NASS CDL; ( B ) 2011 Soybean map from NASS CDL." '
   focal_point: ""
   preview_only: false
 

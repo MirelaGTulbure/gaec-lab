@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 2, "A comparison of the three connection strategies (Euclidean, least-cost and resistance distance) used to construct graphs (networks) from a surface water habitat patches. Graphs constructed using (b, c) the Euclidean distance strategy considered habitat patches connected if separated by less than an organism’s maximum dispersal distance, ignoring the influence of landscape resistance to movement. Resistance to movement surfaces (d) were used to calculate (e, f) least-cost and (g, h) resistance distance graphs. These may be less connected than Euclidean graphs where terrain between habitats offers high resistance to amphibian movement (i.e., highly modified agricultural land to north of example landscape) or more connected within optimal movement terrain (i.e., floodplain to the south). Graph nodes (c, f, h) are symbolised by their degree centrality (the number of connections between the node and its neighbours; see Table 2), and annotated to illustrate several common graph theory concepts" '
   focal_point: ""
   preview_only: false
 
