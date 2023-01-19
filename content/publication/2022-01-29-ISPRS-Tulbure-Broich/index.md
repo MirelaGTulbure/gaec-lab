@@ -43,11 +43,11 @@ tags:
 
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
 - name: "News"
-  url: https://gaec-lab.netlify.app/post/22-09-20-nasa-feature/
+  url: "https://gaec-lab.netlify.app/post/22-09-20-nasa-feature/" 
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271622000338?via%3Dihub
 url_code: ''
 url_dataset: ''
@@ -78,9 +78,3 @@ projects: ['HLS-Floods']
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-### Media Coverage
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/11 Can we detect more <a href="https://twitter.com/hashtag/floods?src=hash&amp;ref_src=twsrc%5Etfw">#floods</a> with NASA’s Harmonized <a href="https://twitter.com/hashtag/Landsat?src=hash&amp;ref_src=twsrc%5Etfw">#Landsat</a> - <a href="https://twitter.com/hashtag/Sentinel?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel</a> 2 data than with one sensor alone? YES, WE CAN! <a href="https://t.co/qrmOqh7AIH">https://t.co/qrmOqh7AIH</a><br><br>1st paper from our <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> grant w <a href="https://twitter.com/uncglobalhydro?ref_src=twsrc%5Etfw">@uncglobalhydro</a>, <a href="https://twitter.com/NCSUgeospatial?ref_src=twsrc%5Etfw">@NCSUgeospatial</a> PhD students <a href="https://twitter.com/_ViniPerin_?ref_src=twsrc%5Etfw">@_ViniPerin_</a> &amp; Mollie, <a href="https://twitter.com/sunyesf?ref_src=twsrc%5Etfw">@sunyesf</a> <a href="https://twitter.com/NASAGoddard?ref_src=twsrc%5Etfw">@NASAGoddard</a> <a href="https://twitter.com/UNSW?ref_src=twsrc%5Etfw">@UNSW</a> <a href="https://t.co/NdoBB4K3gq">pic.twitter.com/NdoBB4K3gq</a></p>&mdash; Dr. Mirela G. Tulbure 🛰 🌎 + 🐍 + 🌊 (@MirelaGTulbure) <a href="https://twitter.com/MirelaGTulbure/status/1491078890290556928?ref_src=twsrc%5Etfw">February 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Time is of the Essence When Monitoring Dryland Floods<br><br>More frequent satellite observations, such as those of the Harmonized <a href="https://twitter.com/hashtag/Landsat?src=hash&amp;ref_src=twsrc%5Etfw">#Landsat</a> Sentinel-2 (HLS) dataset, help capture flood dynamics in regions experiencing short-lived, ephemeral flooding.<br><br>Details: <a href="https://t.co/Cp5GZoadQH">https://t.co/Cp5GZoadQH</a> <a href="https://t.co/zRUO9Ae3VI">pic.twitter.com/zRUO9Ae3VI</a></p>&mdash; NASA Landsat Program (@NASA_Landsat) <a href="https://twitter.com/NASA_Landsat/status/1575235305359429632?ref_src=twsrc%5Etfw">September 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
