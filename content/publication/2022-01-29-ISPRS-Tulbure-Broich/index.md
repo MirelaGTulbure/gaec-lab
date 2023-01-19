@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0924271622000338?via%3Dihub'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271622000338?via%3Dihub
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -74,5 +74,5 @@ projects: ['HLS-Floods']
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
