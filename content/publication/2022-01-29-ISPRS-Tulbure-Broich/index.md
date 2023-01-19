@@ -47,7 +47,7 @@ featured: false
 # - name: ""
 #   url: ""
 - name: "News"
-  url: "/post/22-09-20-nase-feature"
+  url: https://gaec-lab.netlify.app/post/22-09-20-nasa-feature/
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271622000338?via%3Dihub
 url_code: ''
 url_dataset: ''
