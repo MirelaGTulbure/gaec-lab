@@ -47,7 +47,7 @@ links:
 # - name: ""
 #   url: ""
 - name: "News"
-  url: "https://gaec-lab.netlify.app/post/22-09-20-nasa-feature/" 
+  url: "https://twitter.com/NASA_Landsat/status/1575235312493568000?cxt=HHwWgICl7faKrtwrAAAA" 
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271622000338?via%3Dihub
 url_code: ''
 url_dataset: ''
