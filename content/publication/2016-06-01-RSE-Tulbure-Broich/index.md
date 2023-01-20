@@ -11,7 +11,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2015-09-18T00:00:00Z"
-doi: ""
+doi: "10.1016/j.rse.2016.02.034"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-01T00:00:00Z"
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Flooding frequency (the number of times a pixel was flagged as flooded divided by the number of cloud-free observations per pixel expressed as 0 to 100%) in the Murray-Darling Basin for the entire time series (1986-2011). '
   focal_point: ""
   preview_only: false
 

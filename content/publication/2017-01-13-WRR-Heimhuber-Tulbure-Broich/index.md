@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 4 from the publication, "Model statistics for the floodplain-lake category across the Murray-Darling Basin, averaged over grid cells that used the same modeling gauge. Shown are zonal averages of (a) r 2 , (b) the absolute, and (c) relative improvement in RMSE after adding the local climate driver variables and the percentage of models, for which adding (d) P, (e) ET, and (f) SM led to RMSE improvement. For better illustration of patterns in the modeling results, the symbology was adapted individually for each result metric. " '
   focal_point: ""
   preview_only: false
 

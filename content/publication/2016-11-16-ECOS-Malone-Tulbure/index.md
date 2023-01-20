@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 4 from the publication, "(a) Time series of meanTS annual self-calibrating Palmer Drought Severity Index (scPDSI) for the entire state of California from 1896 to 2014. The dashed lines indicate scPDSI drought thresholds based on Wells et al. (2004). The (b) frequency of years in each scPDSI class and (c) spatial patterns in scPDSI in 2014. The gray area denotes trends in scPDSI with latitude and longitude."'
   focal_point: ""
   preview_only: false
 
