@@ -70,4 +70,7 @@ projects: ['MDB-Floods']
 slides:
 ---
 
-
+### Media Coverage:
+- <a href="https://earthobservatory.nasa.gov/images/88292/boom-and-bust-water-supplies-in-southeast-australia">NASA Earth Observatory - Boom-and-Bust Water Supplies in Southeast Australia</a>
+- <a href="https://landsat.gsfc.nasa.gov/article/thirsting-for-equitable-water-distribution-australia-turns-to-landsat/">NASA Landsat Science - Thirsting for Equitable Water Distribution, Australia Turns to Landsat</a>
+- <a href="http://ozewex.org/dramatic-responses-to-extreme-climate-phases/">OzEWEX - Murray-Darling Basin rivers in dramatic response to climate extremes</a>

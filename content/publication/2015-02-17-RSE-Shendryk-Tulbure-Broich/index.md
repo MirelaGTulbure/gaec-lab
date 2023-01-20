@@ -69,4 +69,5 @@ projects:
 slides:
 ---
 
-
+### Media Coverage:
+- <a href="https://www.researchgate.net/publication/307538018_Forest_for_the_trees_high_tech_tree_accounting">Position Magazine - Forest for the trees: High tech tree accounting</a>
