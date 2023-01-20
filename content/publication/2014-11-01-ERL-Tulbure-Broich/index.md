@@ -71,3 +71,6 @@ slides: ""
 
 ### Media Coverage
 <embed src="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/" style="width:500px; height: 300px;">
+<embed src="http://phys.org/news/2015-01-satellite-bodies-important-biodiversity.html" style="width:500px; height: 300px;">
+<embed src="https://www.sciencedaily.com/releases/2015/01/150128093555.htm" style="width:500px; height: 300px;">
+<embed src="http://phys.org/news/2015-01-satellite-bodies-important-biodiversity.html" style="width:500px; height: 300px;">
