@@ -70,4 +70,4 @@ slides: ""
 ---
 
 ### Media Coverage
-<a href="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/"><img src="graphtheory.png" alt="Image not found" style="width:500px;height:600px;"><figcaption>Graph theory reveals where to conserve</figcaption></a>
+<embed src="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/" style="width:500px; height: 300px;">
