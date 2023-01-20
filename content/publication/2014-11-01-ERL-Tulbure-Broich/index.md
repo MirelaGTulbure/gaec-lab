@@ -70,5 +70,4 @@ slides: ""
 ---
 
 ### Media Coverage
-- <a href="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/">Graph theory reveals where to conserve</a>
-- <a href="http://phys.org/news/2015-01-satellite-bodies-important-biodiversity.html">Satellite study identifies water bodies important for biodiversity conservation</a>
+<a href="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/"><img src="graphtheory.png" style="width:50px;height:50px;"></a>
