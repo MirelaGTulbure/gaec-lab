@@ -34,5 +34,5 @@ gallery_item:
 
 ---
 
-{{< gallery album="poster_img">}}
+{{< gallery album="<posters>"> resize_options="250x250"}}
 
