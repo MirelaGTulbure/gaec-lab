@@ -11,7 +11,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2013-05-17T00:00:00Z"
-doi: ""
+doi: "10.1080/01431161.2013.796099"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-05-17T00:00:00Z"
