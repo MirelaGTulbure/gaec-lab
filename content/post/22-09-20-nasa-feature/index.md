@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-NASA brought attention to research done by the Geospatial Analysis for Environmental Change Lab, as posted about  <a href = "../22-02-08-nasa-first/"> here </a>. This research is part of our work with NASA and the resulting publication, <a href = "publication/2022-01-29-ISPRS-Tulbure-Broich/"> Can we detect more ephemeral floods with higher density harmonized Landsat Sentinel 2 data compared to Landsat 8 alone? </a>, was accepted on January 28, 2022 in ISPRS Journal of Photogrammerty and Remote Sensing. 
+NASA brought attention to research done by the Geospatial Analysis for Environmental Change Lab, as posted about  <a href = "../22-02-08-nasa-first/"> here </a>. This research is part of our work with NASA and the resulting publication, <a href = "https://www.sciencedirect.com/science/article/pii/S0924271622000338"> Can we detect more ephemeral floods with higher density harmonized Landsat Sentinel 2 data compared to Landsat 8 alone? </a>, was accepted on January 28, 2022 in ISPRS Journal of Photogrammerty and Remote Sensing. 
 
 ### Social Media Buzz:
 
