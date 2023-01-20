@@ -69,4 +69,4 @@ projects: []
 slides: ""
 ---
 
-<iframe src="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/" title="Graph theory reveals where to conserve"></iframe>
+<iframe src="graphtheory.html" title="Graph theory reveals where to conserve"></iframe>
