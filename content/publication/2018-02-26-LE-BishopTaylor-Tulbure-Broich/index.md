@@ -25,6 +25,8 @@ publication_types: ["2"]
 publication: "Landscape Ecology"
 publication_short: ""
 
+abstract: Despite calls for landscape connectivity research to account for spatiotemporal dynamics, studies have overwhelmingly evaluated the importance of habitats for connectivity at single or limited moments in time. Remote sensing time series represent a promising resource for studying connectivity within dynamic ecosystems. However, there is a critical need to assess how static and dynamic landscape connectivity modelling approaches compare for prioritising habitats for conservation within dynamic environments. To assess whether static landscape connectivity analyses can identify similar important areas for connectivity as analyses based on dynamic remotely sensed time series data. We compared degree and betweenness centrality graph theory metric distributions from four static scenarios against equivalent results from a dynamic 25-year remotely sensed surface-water time series. Metrics were compared at multiple spatial aggregation scales across south-eastern Australia’s 1 million km2 semi-arid Murray–Darling Basin and three sub-regions with varying levels of hydroclimatic variability and development. We revealed large differences between static and dynamic connectivity metric distributions that varied by static scenario, region, spatial scale and hydroclimatic conditions. Static and dynamic metrics showed particularly low overlap within unregulated and spatiotemporally variable regions, although similarities increased at coarse aggregation scales. In regions that exhibit high spatiotemporal variability, static connectivity modelling approaches are unlikely to serve as effective surrogates for more data intensive approaches based on dynamic, remotely sensed data. Although this limitation may be moderated by spatially aggregating static connectivity outputs, our results highlight the value of remotely sensed time series for assessing connectivity in dynamic landscapes.
+
 # Summary. An optional shortened abstract.
 summary: Despite calls for landscape connectivity research to account for spatiotemporal dynamics, studies have overwhelmingly evaluated the importance of habitats for connectivity at single or limited moments in time. Remote sensing time series represent a promising resource for studying connectivity within dynamic ecosystems. However, there is a critical need to assess how static and dynamic landscape connectivity modelling approaches compare for prioritising habitats for conservation within dynamic environments.
 
@@ -66,18 +68,3 @@ projects: ['MDB-Floods']
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-Context
-Despite calls for landscape connectivity research to account for spatiotemporal dynamics, studies have overwhelmingly evaluated the importance of habitats for connectivity at single or limited moments in time. Remote sensing time series represent a promising resource for studying connectivity within dynamic ecosystems. However, there is a critical need to assess how static and dynamic landscape connectivity modelling approaches compare for prioritising habitats for conservation within dynamic environments.
-
-Objectives
-To assess whether static landscape connectivity analyses can identify similar important areas for connectivity as analyses based on dynamic remotely sensed time series data.
-
-Methods
-We compared degree and betweenness centrality graph theory metric distributions from four static scenarios against equivalent results from a dynamic 25-year remotely sensed surface-water time series. Metrics were compared at multiple spatial aggregation scales across south-eastern Australia’s 1 million km2 semi-arid Murray–Darling Basin and three sub-regions with varying levels of hydroclimatic variability and development.
-
-Results
-We revealed large differences between static and dynamic connectivity metric distributions that varied by static scenario, region, spatial scale and hydroclimatic conditions. Static and dynamic metrics showed particularly low overlap within unregulated and spatiotemporally variable regions, although similarities increased at coarse aggregation scales.
-
-Conclusions
-In regions that exhibit high spatiotemporal variability, static connectivity modelling approaches are unlikely to serve as effective surrogates for more data intensive approaches based on dynamic, remotely sensed data. Although this limitation may be moderated by spatially aggregating static connectivity outputs, our results highlight the value of remotely sensed time series for assessing connectivity in dynamic landscapes.

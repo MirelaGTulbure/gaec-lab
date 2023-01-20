@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 4, "False colour composite images (RGB = short wave infrared, near-infrared, red) for the 30 × 30 km focal areas within each test site (location given in Fig. 2). For each time step, the MODIS image (a) used for the ESTARFM prediction along with the blended (b) and Landsat images (c) of the respective Landsat-MODIS shoulder pairs are shown. Classification of surface water was based on OWL and a cut off threshold of ≥20%." '
+  caption: 'Figure 4, "False colour composite images (RGB = short wave infrared, near-infrared, red) for the 30 × 30 km focal areas within each test site (location given in Fig. 2). For each time step, the MODIS image (a) used for the ESTARFM prediction along with the blended (b) and Landsat images (c) of the respective Landsat-MODIS shoulder pairs are shown. Classification of surface water was based on OWL and a cut off threshold of > 20%." '
   focal_point: ""
   preview_only: false
 

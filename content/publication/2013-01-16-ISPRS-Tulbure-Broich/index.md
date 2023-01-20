@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 4 from the publication, "Landsat images (path/row 112/082, bands 4, 5, 6 (RGB)) showing the seasonal variability as well as the results of the classification (a) summer season imagery, (b) winter season image, (c) result of the classification for the summer season and (d) result of the classification for the winter season image. Water bodies are shown in black in all images." '
+  caption: 'Figure 4 from the publication, "Landsat images (path row 112/082, bands 4, 5, 6 (RGB)) showing the seasonal variability as well as the results of the classification (a) summer season imagery, (b) winter season image, (c) result of the classification for the summer season and (d) result of the classification for the winter season image. Water bodies are shown in black in all images." '
   focal_point: ""
   preview_only: false
 
