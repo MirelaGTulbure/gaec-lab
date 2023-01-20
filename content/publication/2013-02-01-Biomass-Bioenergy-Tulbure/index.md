@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 1 from the publication, "County level average crop residue yield potential in north central region for the period of 1970–2008." '
+  caption: ''
   focal_point: ""
   preview_only: false
 

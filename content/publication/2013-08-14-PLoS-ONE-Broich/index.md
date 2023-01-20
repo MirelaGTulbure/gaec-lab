@@ -62,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'From the paper, "Map showing the change of land use status of area allocated for natural timber harvesting and protected areas during 2000–2010 in Kalimantan. Area allocated for natural timber harvesting in 2000 and 2010 (light green); Protected area in 2000 and 2010 (dark green); Area allocated for natural timber harvesting in 2000 reclassified to industrial plantation concessions in 2010 (red); Area allocated for natural timber harvesting in 2000 reclassified to protected area in 2010 (orange); Protected area in 2000 reclassified to industrial plantation concessions in 2010 (yellow)." '
+  caption: ''
   focal_point: ""
   preview_only: false
 

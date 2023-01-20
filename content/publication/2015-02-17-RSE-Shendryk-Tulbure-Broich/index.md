@@ -10,7 +10,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2015-11-12T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.rse.2015.11.008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-11-12T00:00:00Z"

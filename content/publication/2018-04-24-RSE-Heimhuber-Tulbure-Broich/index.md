@@ -10,7 +10,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2018-04-24T00:00:00Z"
-doi: "https://doi.org/10.1016/j.rse.2018.04.016"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-01T00:00:00Z"
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 4, "False colour composite images (RGB = short wave infrared, near-infrared, red) for the 30 × 30 km focal areas within each test site (location given in Fig. 2). For each time step, the MODIS image (a) used for the ESTARFM prediction along with the blended (b) and Landsat images (c) of the respective Landsat-MODIS shoulder pairs are shown. Classification of surface water was based on OWL and a cut off threshold of > 20%." '
+  caption: ''
   focal_point: ""
   preview_only: false
 

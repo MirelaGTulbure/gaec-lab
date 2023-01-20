@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 4 from publication, "Maps of adjusted R2 differences over floodplain between model 2 and model 1 with and without flooding, respectively. Positive values show improvements in explanatory power due to the inclusion of flooding, demonstrating that flooding is important for explaining vegetation dynamics in the floodplains. Negative values represent areas where model 1 had greater explanatory power due to the penalty effect of the adjusted R2 when including flooding besides rainfall." '
+  caption: ''
   focal_point: ""
   preview_only: false
 

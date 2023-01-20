@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'From Figure 5 of the publication, "Model statistics for the nonfloodplain SW category across the Murray-Darling Basin, averaged over the ecohydrological zones [Huang et al., 2013]. Shown are zonal averages of (a) r2, (b) the absolute, and (c) relative improvement in RMSE after adding the local climate driver variables along with irrigation areas [BRS, 2008] and the percentage of models, for which adding (d) ET and (e) SM led to RMSE improvement. (f) The number of SW extent observations >0 of each modeling grid cell for the 26 year analysis period. For better illustration of patterns in the modeling results, the symbology was adapted individually for each result metric."'
+  caption: ''
   focal_point: ""
   preview_only: false
 
