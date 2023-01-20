@@ -69,4 +69,6 @@ projects: []
 slides: ""
 ---
 
-<iframe src="graphtheory.html" title="Graph theory reveals where to conserve"></iframe>
+### Media Coverage:
+<iframe src="https://www.linkedin.com/pulse/graph-theory-reveals-where-conserve-mirela-g-tulbure/"></iframe>
+<iframe src="http://phys.org/news/2015-01-satellite-bodies-important-biodiversity.html"></iframe>
