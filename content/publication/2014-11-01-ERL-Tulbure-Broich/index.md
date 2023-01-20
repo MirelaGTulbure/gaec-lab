@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 4 from the paper, "'Stepping stone' water bodies (orange contours) with highest betweeness centrality at (a) 2000 m; (b)1000 m and (c) 500 m overlayed on a Landsat 7 ETM+ image mosaic displayed as red band 7 (2090–2350 nm), green band 4 (770–900 nm), blue band 2 (520–600 nm) available from the United States Geological Survey." '
   focal_point: ""
   preview_only: false
 
