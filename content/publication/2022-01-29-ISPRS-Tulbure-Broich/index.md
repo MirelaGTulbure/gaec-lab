@@ -79,4 +79,3 @@ slides: ""
 
 ### Media Coverage:
 - <a href="https://landsat.gsfc.nasa.gov/article/time-is-of-the-essence-when-monitoring-dryland-floods/">NASA Landsat Science - Time is of the Essence When Monitoring Dryland Floods</a>
-- Our coverage of the publication can be read <a href = "post/22-09-20-nasa-feature/">here</a>.
