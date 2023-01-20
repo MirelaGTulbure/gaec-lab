@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Distribution of top 1% stepping-stones and hubs across the MDB. Important habitats are shown separately for two dispersal abilities (short-distance, ~1000 m; long-distance, ~ 5000 m) and the driest 25%, average (25–75%) and the wettest 25% of seasons by inundated habitat area.'
   focal_point: ""
   preview_only: false
 

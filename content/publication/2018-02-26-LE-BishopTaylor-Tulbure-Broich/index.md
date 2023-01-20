@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Comparison of the spatial distribution of local degree and betweenness centrality metrics between the (a) static topographic scenario and (b) the driest, median and wettest seasonal time steps across the entire MDB. Red (dark) colours indicate areas ranked highly for degree and betweenness centrality connectivity. Results are shown for a 15,000 m cell size aggregation.'
   focal_point: ""
   preview_only: false
 
