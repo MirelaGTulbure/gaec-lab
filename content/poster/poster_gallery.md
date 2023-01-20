@@ -15,6 +15,8 @@ subtitle: Please click on a poster to see details about the event at which the p
 design:
   columns: '1'
 
+{{< gallery album="<posters>"> >}}
+
 gallery_item:
 - album: posters
   image: 2022-12_Tiwari_AGU_resized.png
@@ -33,6 +35,4 @@ gallery_item:
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
 ---
-
-{{< gallery album="<posters>"> >}}
 
