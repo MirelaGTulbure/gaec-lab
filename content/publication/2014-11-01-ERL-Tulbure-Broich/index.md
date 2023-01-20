@@ -10,7 +10,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2014-11-14T00:00:00Z"
-doi: ""
+doi: "10.1088/1748-9326/9/11/114012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-01T00:00:00Z"
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Comparison of surface water networks on the SCP with alternative models such as random (R), scale free (SF) and small-world (SW) networks for key metrics including average minimum path length (y-axis) and clustering coefficient/transitivity (x-axis) at (a) 2000 m; (b) 1000 m and (c) 500 m.'
   focal_point: ""
   preview_only: false
 
