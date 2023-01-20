@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 2 from the publication, "Locations of the 0.05-degree pixels over 21 OzFlux flux tower sites (black triangles) and 15 additional sites (yellow solid circles) used for algorithm evaluation. The background map shows the average peak EVI (average EVI value at the LSP episodes' peak)." '
   focal_point: ""
   preview_only: false
 
