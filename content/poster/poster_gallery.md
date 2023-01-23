@@ -34,4 +34,4 @@ gallery_item:
 
 ---
 
-{{< gallery album="<posters>" >}}
+{{< gallery album="posters">}}
