@@ -17,7 +17,7 @@ design:
 
 gallery_item:
 - album: posters
-  image: 2022-12_tiwari_agu.png
+  image: <img src="2022-12_tiwari_agu.png">
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
 
 - album: posters
@@ -33,3 +33,5 @@ gallery_item:
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
 ---
+
+{{< gallery album="posters" >}}
