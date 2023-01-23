@@ -33,5 +33,3 @@ gallery_item:
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
 ---
-
-{{< gallery album="posters">}}
