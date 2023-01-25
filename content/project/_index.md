@@ -1,8 +1,5 @@
 ---
-title: Projects
-view: 3
-
-header:
-  caption: ""
-  image: ""
+# Files in this folder represent a Widget Page
+type: widget_page
 ---
+

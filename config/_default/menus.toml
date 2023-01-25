@@ -15,20 +15,21 @@
 
 [[main]]
   name = "Projects"
-  identifier = "P"
+#  identifier = "P"
+  url = "project"
   weight = 30
   
-[[main]]
-  name = "Current Projects"
-  parent = "P"
-  url = "project-curr"
-  weight = 10
+# [[main]]
+#  name = "Current Projects"
+#  parent = "P"
+#  url = "project-curr"
+#  weight = 10
   
-[[main]]
-  name = "Completed Projects"
-  parent = "P"
-  url = "project-comp"
-  weight = 20
+#[[main]]
+#  name = "Completed Projects"
+#  parent = "P"
+#  url = "project-comp"
+#  weight = 20
 
 [[main]]
   name = "People"

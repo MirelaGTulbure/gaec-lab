@@ -10,6 +10,7 @@ summary: In this study, we assessed how different climate and anthropogenic driv
 
 tags:
 - Southeastern US
+- Current
 
 date: "2021-01-09T00:00:00Z"
 
