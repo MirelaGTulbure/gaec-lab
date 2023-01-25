@@ -12,8 +12,8 @@ weight: 20
 
 # put custom svg icons to `assets/media/icons/`
 feature:
-  - icon: signal-satellite
-    icon_pack: custom
+  - icon: satellite
+    icon_pack: fas
     name: Remote Sensing
     description: General research topics related to remote sensing
   - icon: water
@@ -24,8 +24,8 @@ feature:
 #    icon_pack: custom
 #    name: Agriculture
 #    description: Food! Food! Food!
-  - icon: flood
-    icon_pack: custom
+  - icon: house-water
+    icon_pack: fas
     name: Flooding
     description: Map flooding events using remote sensing
 
