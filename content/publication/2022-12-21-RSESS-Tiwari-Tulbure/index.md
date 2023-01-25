@@ -2,7 +2,7 @@
 title: "Performance Evaluation of Google Earth Engine Based Precipitation Datasets Under Different Climatic Zones over India"
 authors:
 - Sukant Jain
-- varuntiwari
+- **varuntiwari**
 - Amrit Thapa
 - Rohit Mangla
 - R. K. Jaiswal
