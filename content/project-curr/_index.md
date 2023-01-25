@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Current Projects
 view: 3
 
 header:
