@@ -24,7 +24,7 @@ feature:
 #    icon_pack: custom
 #    name: Agriculture
 #    description: Food! Food! Food!
-  - icon: house-tsunami
+  - icon: house-flood-water-circle-arrow-right
     icon_pack: fas
     name: Flooding
     description: Map flooding events using remote sensing

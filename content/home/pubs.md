@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 30
+weight: 33
 
-title: Latest News
-subtitle: '[See all news >](../post/)'
+title: Recent Publications
+subtitle: '[See all publications >](../publication/)'
 
 content:
   count: 3
