@@ -5,7 +5,7 @@ headless: true
 weight: 30
 
 title: Latest News
-subtitle: '[See all news >](../post/)'
+# subtitle: '[See all news >](../post/)'
 
 content:
   count: 3

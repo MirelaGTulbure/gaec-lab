@@ -16,18 +16,18 @@ feature:
     icon_pack: fas
     name: Remote Sensing
     description: General research topics related to remote sensing
-  - icon: water
+  - icon: raindrops
     icon_pack: fas
     name: Surface Water
     description: Understand surface water dynamics 
+  - icon: water
+    icon_pack: fas
+    name: Flooding
+    description: Map flooding events using remote sensing
 #  - icon: sprout
 #    icon_pack: custom
 #    name: Agriculture
 #    description: Food! Food! Food!
-  - icon: house-flood-water-circle-arrow-right
-    icon_pack: fas
-    name: Flooding
-    description: Map flooding events using remote sensing
 
   # Example using an emoji as an icon.
 #  - icon: '😄'
