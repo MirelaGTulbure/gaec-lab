@@ -10,7 +10,6 @@ summary: Project focused on quantifying surface water and flooding extent dynami
 
 tags:
 - Murray-Darlin Basin
-- Past
 
 date: "2016-01-01T00:00:00Z"
 

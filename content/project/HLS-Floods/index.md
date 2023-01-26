@@ -18,7 +18,6 @@ summary: Floods, defined as water that temporarily submerges land for over 72 ho
 
 tags:
 - HLS Flood detection
-- Current
 
 date: "2020-01-01T00:00:00Z"
 

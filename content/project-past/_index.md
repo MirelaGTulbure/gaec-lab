@@ -1,5 +1,5 @@
 ---
-title: Complete Projects
+title: Past Projects
 view: 3
 
 header:
