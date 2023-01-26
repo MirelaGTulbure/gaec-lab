@@ -5,7 +5,6 @@ headless: true
 weight: 33
 
 title: Recent Publications
-subtitle: '[See all publications >](../publication/)'
 
 content:
   count: 3
