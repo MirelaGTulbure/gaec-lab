@@ -30,7 +30,11 @@ abstract: Detailed information on the spatiotemporal dynamic in surface water bo
 summary: Detailed information on the spatiotemporal dynamic in surface water bodies is important for quantifying the effects of a drying climate, increased water abstraction and rapid urbanization on wetlands.
 
 tags:
-- 
+- Spatiotemporal dynamic
+- Surface water
+- Landsat
+- Climate change
+- Wetlands
 
 featured: false
 

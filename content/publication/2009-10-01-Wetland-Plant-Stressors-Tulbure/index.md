@@ -34,6 +34,7 @@ summary: Assessment of vegetation is an important part of evaluating wetland con
 
 tags:
 - Wetlands
+- Great Lakes
 
 featured: false
 

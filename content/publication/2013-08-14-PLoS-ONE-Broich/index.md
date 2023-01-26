@@ -43,7 +43,8 @@ abstract: Combining protected areas with natural forest timber concessions may s
 summary: 
 
 tags:
-
+- Forest cover
+- Conservation
 
 featured: false
 

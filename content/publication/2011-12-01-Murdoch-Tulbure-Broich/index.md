@@ -31,6 +31,7 @@ summary:
 
 tags:
 - Bushfire
+- Risk
 
 featured: false
 

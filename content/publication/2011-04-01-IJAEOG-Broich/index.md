@@ -32,6 +32,13 @@ abstract: Monitoring loss of humid tropical forests via remotely sensed imagery 
 # Summary. An optional shortened abstract.
 summary: 
 
+tags:
+- Land cover
+- Land use
+- Landsat
+- Forest cover
+- Remote sensing
+
 featured: false
 
 # links:

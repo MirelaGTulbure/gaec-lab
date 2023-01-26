@@ -36,6 +36,8 @@ abstract: Emergent plants can be suitable indicators of anthropogenic stress in 
 
 tags:
 - Wetlands
+- Anthropogenic drivers
+- Hydrology
 
 featured: false
 

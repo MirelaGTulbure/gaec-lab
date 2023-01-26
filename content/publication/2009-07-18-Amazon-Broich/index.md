@@ -33,6 +33,8 @@ summary: Three sampling designs —simple random, stratiﬁed random, and system
 
 tags:
 - Deforestation
+- MODIS
+- Remote sensing
 
 featured: false
 

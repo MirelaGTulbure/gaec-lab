@@ -31,6 +31,11 @@ abstract: Crop residue is potentially a major biomass feedstock for bio-based in
 summary: 
 
 tags:
+- Biomass
+- Crop residue
+- Climate Change
+- Climate variability
+- Bioenergy
 
 featured: false
 

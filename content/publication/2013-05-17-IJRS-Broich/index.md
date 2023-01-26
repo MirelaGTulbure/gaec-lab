@@ -32,7 +32,10 @@ abstract: Borneo Island is experiencing rapid tree-cover loss. This loss has bee
 summary: 
 
 tags:
-
+- Tree cover
+- Tree cover loss
+- Forest cover
+- Landsat
 
 featured: false
 
