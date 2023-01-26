@@ -1,6 +1,6 @@
 ---
 title: Projects
-view: 2
+view: 3
 
 header:
   caption: ""

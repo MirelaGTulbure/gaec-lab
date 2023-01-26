@@ -11,7 +11,6 @@ summary: Fresh water stored by on-farm reservoirs (OFRs) is a fundamental compon
 
 tags:
 - On-farm reservoirs
-- Current
 
 date: "2021-01-01T00:00:00Z"
 
