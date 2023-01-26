@@ -26,9 +26,9 @@
   weight = 10
   
 [[main]]
-  name = "Completed Projects"
+  name = "Past Projects"
   parent = "P"
-  url = "project-comp"
+  url = "project-past"
   weight = 20
 
 [[main]]
