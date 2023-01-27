@@ -27,6 +27,7 @@ abstract: Please refer to the above mentioned publication for a description of t
 
 tags:
 - Murray–Darling Basin
+- lab-related
 
 featured: false
 

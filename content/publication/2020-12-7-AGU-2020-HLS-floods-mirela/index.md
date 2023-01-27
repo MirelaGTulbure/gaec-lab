@@ -36,6 +36,7 @@ summary: Floods, defined as water that temporarily submerges land for over 72 ho
 
 tags:
 - HLS Flood detection
+- lab-related
 
 featured: true
 

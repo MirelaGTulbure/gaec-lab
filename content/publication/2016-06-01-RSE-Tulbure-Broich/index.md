@@ -33,6 +33,7 @@ summary: Seasonally continuous long-term information on surface water and floodi
 
 tags:
 - Murray–Darling Basin
+- lab-related
 
 featured: false
 

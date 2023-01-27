@@ -32,6 +32,7 @@ summary: The usage of time series of Earth observation (EO) data for analyzing a
 
 tags:
 - Murray–Darling Basin
+- lab-related
 
 featured: false
 
