@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 10
 
-title: Lab Publications
+title: Lab Associated Publications
 subtitle: <a href=../../publication/>Search all publications by lab members</a>
 
 content:
@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: publication
 design:
-  view: 2
+  view: 4
   columns: "2"
 
 ---
