@@ -7,6 +7,11 @@ The URL for the website is currently the basic, free one (gaec-lab.netlify.app).
 > 
 > We can edit this Github repository online or offline; once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues in some files, especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers. To configure offline debug settings, please see the end of this document.
 
+## Poster Fix
+In order to add a poster, navigate to static/media and upload the poster file labelled as 'YYYY-MM_lastName_conferenceAbbrv.jpg'. Please make sure your file is around 1 MB in order to make sure loading times are not too long. Information on resizing images is provided below in Adding Pictures. After adding your picture, navigate to `content/poster/poster_gallery.md` and add the details for your poster following the examples of the other ones. Here you can add a caption labeling the event at which you presented your poster. 
+
+## Brooke's Edits ^^
+
 ## Adding Pictures
 Photos can be added to different website items, like lab member profiles, publications, and lab updates. **PLEASE** make sure you re-size your images to ~ 1MB before including, otherwise we will quickly get to a point where the website is slow to load due to a number of large file size pics. Re-sizing can be done at sites like [this one](https://resizeimage.net/) or [this one](http://www.simpleimageresizer.com/). These were found with a quick google search, there are also others.
 
