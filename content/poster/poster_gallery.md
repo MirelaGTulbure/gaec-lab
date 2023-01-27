@@ -9,8 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 1
 
-title: Lab poster examples
-subtitle: Please click on a poster to see details about the event at which the poster was presented.
+title: Lab Posters
+subtitle: Please click on an poster below in order to see details about the event at which the poster was presented. 
 
 design:
   columns: '1'
