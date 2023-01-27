@@ -10,10 +10,10 @@ subtitle: <a href=../../publication/>Search all</a>
 content:
   filters:
     author: ""
-    category: "lab-related"
+    category: ""
     exclude_featured: False
     publication_type: ""
-    tag: ""
+    tag: "lab-related"
   offset: 0
   order: desc
   page_type: publication

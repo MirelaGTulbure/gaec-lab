@@ -16,8 +16,8 @@ feature:
     icon_pack: fas
     name: Remote Sensing
     description: General research topics related to remote sensing
-  - icon: lake
-    icon_pack: custom
+  - icon: cloud-showers-water
+    icon_pack: fas
     name: Surface Water
     description: Understand surface water dynamics 
   - icon: water

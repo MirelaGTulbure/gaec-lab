@@ -38,8 +38,6 @@ tags:
 - Deforestation
 - Remote sensing
 - Humid tropics
-
-category:
 - non-lab-related
 
 featured: false
