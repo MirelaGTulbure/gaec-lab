@@ -4,9 +4,6 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
 # ... Put Your Section Options Here (section position etc.) ...
-title: Lab Posters
-subtitle: Here are some examples of posters that have been presented by lab members are various events!
-weight: 5 
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
