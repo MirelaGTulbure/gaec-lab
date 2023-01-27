@@ -32,6 +32,8 @@ summary: People and the environment rely on water to exist and thrive, especiall
 
 tags:
 - Southeastern US
+
+category:
 - lab-related
 
 featured: false

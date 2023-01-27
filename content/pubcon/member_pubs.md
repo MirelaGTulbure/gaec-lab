@@ -11,15 +11,15 @@ content:
   count: 10
   filters:
     author: ""
-    category: ""
+    category: "non-lab-related"
     exclude_featured: False
     publication_type: ""
-    tag: "non-lab-related"
+    tag: ""
   offset: 0
   order: desc
   page_type: publication
 design:
-  view: 4
+  view: 2
   columns: "2"
 
 ---
