@@ -43,7 +43,7 @@
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = "pubcon"
   weight = 50
 
 #[[main]]
