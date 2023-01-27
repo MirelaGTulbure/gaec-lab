@@ -3,7 +3,7 @@ widget: tag_cloud
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
- title: Popular Topics
+title: Popular Topics
 weight: 22
 
 content:
