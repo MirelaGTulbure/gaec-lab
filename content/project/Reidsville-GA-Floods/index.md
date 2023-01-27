@@ -22,3 +22,4 @@ image:
   caption: 'Photo Courtesy of Jacqueline Jones.'
   focal_point: Smart
 ---
+
