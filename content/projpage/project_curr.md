@@ -2,24 +2,23 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 10
 
-title: All publications from lab members
-subtitle: <a href=../../publication/>Search all</a>
+title: Current Projects
+subtitle: <a href=../../project/>View all projects</a>
 
 content:
-  count: 10
   filters:
     author: ""
     category: ""
     exclude_featured: False
     publication_type: ""
-    tag: "non-lab-related"
+    tag: "Current"
   offset: 0
   order: desc
-  page_type: publication
+  page_type: project
 design:
-  view: 4
+  view: 2
   columns: "2"
 
 ---

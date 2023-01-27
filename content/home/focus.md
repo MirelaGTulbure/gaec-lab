@@ -12,14 +12,14 @@ weight: 20
 
 # put custom svg icons to `assets/media/icons/`
 feature:
+  - icon: water
+    icon_pack: fas
+    name: Surface Water
+    description: Understand surface water dynamics 
   - icon: satellite
     icon_pack: fas
     name: Remote Sensing
     description: General research topics related to remote sensing
-  - icon: cloud-showers-water
-    icon_pack: fas
-    name: Surface Water
-    description: Understand surface water dynamics 
   - icon: water
     icon_pack: fas
     name: Flooding

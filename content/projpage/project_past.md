@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 20
 
-title: All publications from lab members
-subtitle: <a href=../../publication/>Search all</a>
+title: Past Projects
+subtitle: <a href=../../project/>View all projects</a>
 
 content:
   count: 10
@@ -14,12 +14,12 @@ content:
     category: ""
     exclude_featured: False
     publication_type: ""
-    tag: "non-lab-related"
+    tag: "Past"
   offset: 0
   order: desc
-  page_type: publication
+  page_type: project
 design:
-  view: 4
+  view: 2
   columns: "2"
 
 ---
