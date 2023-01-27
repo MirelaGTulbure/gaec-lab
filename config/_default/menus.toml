@@ -28,7 +28,7 @@
 # [[main]]
 #  name = "Past Projects"
 #  parent = "P"
-#  url = "project-past"
+#  url = "projpage/project_curr"
 #  weight = 20
 
 [[main]]

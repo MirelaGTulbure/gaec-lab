@@ -5,7 +5,7 @@ headless: true
 weight: 10
 
 title: Lab publications
-subtitle: <a href=../../publication/>Search all</a>
+subtitle: <a href=../../publication/>Search all publications by lab members</a>
 
 content:
   filters:
