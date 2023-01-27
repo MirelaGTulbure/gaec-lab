@@ -4,10 +4,11 @@ widget: pages
 headless: true
 weight: 10
 
-title: Lab publications
+title: Lab Publications
 subtitle: <a href=../../publication/>Search all publications by lab members</a>
 
 content:
+  count: 20
   filters:
     author: ""
     category: ""
@@ -18,7 +19,7 @@ content:
   order: desc
   page_type: publication
 design:
-  view: 4
+  view: 2
   columns: "2"
 
 ---
