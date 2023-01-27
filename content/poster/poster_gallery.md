@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget with a Gallery page element.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
+widget: featurette
 
 # This file represents a page section.
 headless: false
@@ -17,15 +17,15 @@ design:
 
 gallery_item:
 - album: poster_img
-  image: <img src="2022-12_Tiwari_AGU.png">
+  image: 2022-12_Tiwari_AGU.png
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
 
 - album: poster_img
-  image: 2021-01_gaines_ams.png
+  image: 2021-01_Gaines_AMS.png
   caption: American Meteorological Society (AMS) Annual Meeting (Jan. 2021, New Orleans, Louisiana)
 
 - album: poster_img
-  image: 2021-12_gaines_agu.png
+  image: 2021-12_Gaines_AGU.png
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
 - album: poster_img
