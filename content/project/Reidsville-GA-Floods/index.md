@@ -14,7 +14,7 @@ tags:
 - Remote sensing
 - Current
 
-date: "2023-01-20T00:00:00Z"
+date: "2022-12-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://thrivingearthexchange.org/project/reidsville-ga/"
