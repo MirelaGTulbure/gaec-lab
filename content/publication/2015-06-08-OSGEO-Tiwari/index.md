@@ -1,43 +1,48 @@
 ---
-title: "Bottom-up delineation of individual trees from full-waveform airborne laser scans in a structurally complex eucalypt forest"
+title: "Simulation of the Hyperspectral Data from Multispectral Data Using Open Source Programming Environment"
 authors:
-- yurishendryk
-- markbroich
-- admin
-- Sergey V.Alexandrov
+- varuntiwari
+- Vinary Kumar
+- Rigved Ranade
+- Kamal Pandey
+- Shefali Agrawal
 
 author_notes:
 - "Corresponding Author"
 
-date: "2015-11-12T00:00:00Z"
-doi: "https://doi.org/10.1016/j.rse.2015.11.008"
+date: "2015-06-08T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-11-12T00:00:00Z"
+publishDate: "2015-06-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Remote Sensing of Environment"
-publication_short: ""
+publication: "OSGEO India - Open Source Geospatial Tools in Climate Change Research and Natural Resources Management"
+publication_short: "OSGEO-India"
 
-abstract: Full-waveform airborne laser scanning (ALS) is a powerful tool for characterizing and monitoring forest structure over large areas at the individual tree level. Most of the existing ALS-based algorithms for individual tree delineation from the point cloud are top-down, which are accurate for delineating cone-shaped conifers, but have lower delineation accuracies over more structurally complex broad-leaf forests. Therefore, in this study we developed a new bottom-up algorithm for detecting trunks and delineating individual trees with complex shapes, such as eucalypts. Experiments were conducted in the largest river red gum forest in the world, located in the south-east of Australia, that experienced severe dieback over the past six decades. For detection of individual tree trunks, we used a novel approach based on conditional Euclidean distance clustering that takes advantage of spacing between laser returns. Overall, the algorithm developed in our study was able to detect up to 67% of field-measured trees with diameter larger than or equal to 13 cm. By filtering ALS based on the intensity, return number and returned pulse width values, we were able to differentiate between woody and leaf tree components, thus improving the accuracy of tree trunk detections by 5% as compared to non-filtered ALS. The detected trunks were used to seed random walks on graph algorithm for tree crown delineation. The accuracy of tree crown delineation for different ALS point cloud densities was assessed in terms of tree height and crown width and resulted in up to 68% of field-measured trees being correctly delineated. The double increase in point density from ~ 12 points/m2 to ~ 24 points/m2 resulted in tree trunk detection increase of 11% (from 56% to 67%) and percentage of correctly delineated crowns increase of 13% (from 55% to 68%). Our results confirm an algorithm that can be used to accurately delineate individual trees with complex structures (e.g. eucalypts and other broadleaves) and highlight the importance of full-waveform ALS for individual tree delineation.
+abstract: Multispectral remote sensing (MSS) sensors have been generally utilized for acquiring and extracting information of Land Use Land (LULC) Cover features in the past few decades. MSS sensor generally acquires data in the small window of spectral bands hence, it is not capable of distinguishing spectrally similar features. On the other hand, fascinating detailed information available in hyperspectral (HRS) data is spectrally over determined and able to distinguish spectrally similar material of earth surface. But HRS sensors are very few in number because of the requirement of sensitive detectors, large storage capacities which make the acquisition and processing cumbersome and exorbitant. So, there arises a need to utilize the available MSS data for detailed LULCstudies. One of the technique is by Simulation of HRS data using available MSS data. In the present study spectral reconstruction approach is used for the simulation of hyperspectral data using EO-1 ALI multispectral data in open source programming. Over all 70 bands have been simulated and validated using visual interpretation, statistical and classification approach.
 
 # Summary. An optional shortened abstract.
-summary: Full-waveform airborne laser scanning (ALS) is a powerful tool for characterizing and monitoring forest structure over large areas at the individual tree level. Most of the existing ALS-based algorithms for individual tree delineation from the point cloud are top-down, which are accurate for delineating cone-shaped conifers, but have lower delineation accuracies over more structurally complex broad-leaf forests.
+summary: 
 
 tags:
+- Simulation
+- HRS
+- MSS
+- spectral
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425715301966
+url_pdf: https://www.researchgate.net/profile/Varun-Tiwari-4/publication/335137416_SIMULATION_OF_THE_HYPERSPECTRAL_DATA_FROM_MULTISPECTRAL_DATA_USING_OPEN_SOURCE_PROGRAMMING_ENVIRONMENT/links/5d5284c14585153040707f7a/SIMULATION-OF-THE-HYPERSPECTRAL-DATA-FROM-MULTISPECTRAL-DATA-USING-OPEN-SOURCE-PROGRAMMING-ENVIRONMENT.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -49,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 7: Classified EO-1 Hyperion and Simulated HRS data'
   focal_point: ""
   preview_only: false
 
@@ -58,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
+projects: []
 
 
 # Slides (optional).
@@ -68,6 +73,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-### Media Coverage:
-- <a href="https://www.researchgate.net/publication/307538018_Forest_for_the_trees_high_tech_tree_accounting">Position Magazine - Forest for the trees: High tech tree accounting</a>
