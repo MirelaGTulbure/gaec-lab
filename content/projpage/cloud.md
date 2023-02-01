@@ -8,9 +8,9 @@ weight: 5
 
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
-  taxonomy: "tags"
+  taxonomy: "categories"
   # Choose how many tags you would like to display (0 = all tags)
-  count: 16
+  count: 5
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min: 0.7
