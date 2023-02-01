@@ -17,7 +17,7 @@ tags:
 date: "2022-12-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://thrivingearthexchange.org/project/reidsville-ga/"
+# external_link:
 
 image:
   caption: 'Photo Courtesy of Jacqueline Jones.'
