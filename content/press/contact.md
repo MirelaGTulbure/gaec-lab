@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 title: Contact Us
 subtitle:
@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-GAEC wants to add talented researchers to our team! Please read the position description below and reach out to us if you are interested! 
+Information on how to get involved with us coming soon!
