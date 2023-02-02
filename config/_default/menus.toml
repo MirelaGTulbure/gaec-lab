@@ -45,11 +45,6 @@
   name = "Publications"
   url = "pubcon"
   weight = 50
-  
-[[main]]
-  name = "Press"
-  url = "press"
-  weight = 60
 
 #[[main]]
 #  name = "Contact"
