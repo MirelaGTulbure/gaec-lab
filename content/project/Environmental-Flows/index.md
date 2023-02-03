@@ -3,6 +3,7 @@ title: A Novel Approach for Assessing Environmental Flows Using Satellite Data
 
 authors:
 - admin
+- valentinheimhuber
 - MARKBROICH
 
 summary: This project determined how ecosystems respond to environmental flow by linking flooding history with vegetation responses, using remote sensing, climate data layers, spatial statistics, models of environmental flows, and ecological theory. Beneficiaries included water and land managers in Australia.
@@ -17,7 +18,7 @@ date: "2016-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ''
+  caption: 'Lake levels in the Murray-Darling Basin, 2010'
   focal_point: Smart
 ---
 
