@@ -12,7 +12,7 @@ tags:
 - Southeastern US
 - Current
 
-date: "2023-01-09T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
