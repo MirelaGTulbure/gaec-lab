@@ -36,7 +36,9 @@ We further showed that using analysis-ready datasets, including daily 3m Planet 
 We also quantified the impact that SRs have on surface hydrology by integrating the remote sensing derived reservoir area with the SWAT+ hydrological model. We showed that the impact of SRs varies inter- and intra-annually and is not equally distributed across the watersheds (Perin et al., In Review).
 <img src="FigSWAT_SRs.jpg">
 
-On-farm reservoir (OFRs) dynamics, which are small water bodies that have an important role in irrigation globally but are poorly quantified bc (1) they are small (< 50 ha), (2) there are millions of them around the world, and (3) they occur on private land
+We are currently working on expanding this approach to (1) SRs in other areas and (2) headstream waters 
 
-However, modeling the impact of OFRs on surface hydrology remains a challenge because they are so abundant and have frequent fluctuations in surface area and water volume. Prior to the recent availability of satellite data, widespread monitoring of OFRs’ surface area and water volume across space and time was impossible due to temporal latency of satellite observations. The goal of this project, therefore, is to harness a multi-sensor satellite imagery approach to reduce observation latency and improve surface hydrology modeling, with the aim of supporting more efficient management of OFRs and mitigation of their downstream impacts. 
+This is an ongoing project funded through a NASA grant [award number 80NSSC21K1606]
+and an Alexander von Humboldt fellowship for experienced researchers to MGT. 
+
 

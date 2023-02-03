@@ -69,5 +69,3 @@ projects: ['Southeastern-US']
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-
