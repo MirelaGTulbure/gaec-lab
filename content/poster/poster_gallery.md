@@ -32,6 +32,10 @@ gallery_item:
   image: 2021-12_Perin_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2021, New Orleans, Louisiana)
 
+- album: poster_img
+  image: 2021-12_Tulbure_AGU.png
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
+
 ---
 
 {{< gallery album="poster_img">}}

@@ -42,6 +42,7 @@ tags:
 - Precipitation
 - Climate zones
 - GEE and Koppen climate zones
+- lab-related
 
 featured: false
 

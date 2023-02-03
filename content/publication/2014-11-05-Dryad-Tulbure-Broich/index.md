@@ -30,7 +30,9 @@ abstract: Detailed information on the spatiotemporal dynamic in surface water bo
 summary: 
 
 tags:
-
+- lab-related
+- Water resources
+- Climate change
 
 featured: false
 
