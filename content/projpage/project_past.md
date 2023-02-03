@@ -8,7 +8,7 @@ title: Past Projects
 subtitle: <a href=../../project/>View all projects</a>
 
 content:
-  count: 10
+  count: 5
   filters:
     author: ""
     category: ""
