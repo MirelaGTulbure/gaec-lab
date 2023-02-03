@@ -5,7 +5,7 @@ headless: true
 weight: 10
 
 title: Lab Associated Publications
-subtitle: <a href=../../publication/>Search all lab member publications</a>
+subtitle: <a href=../../publication/>All Member Publications and Presentations</a>
 
 content:
   count: 20
