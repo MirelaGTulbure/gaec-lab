@@ -10,9 +10,11 @@ authors:
 
 summary: We integrated analyzing time-series of satellite and hydro-climatic data to quantify flooding, surface water, and their drivers of change and vegetation response to flooding across Australia’s breadbasket, the Murray-Darling Basin (MDB), a large  (>1 million km2) dryland basin the size of the U.S. 4 corner states from 1986 to 2011. The three decades investigated represented a period of extreme hydroclimatic variability, including the Millennium Drought (1999-2009), the worst drought recorded for southeastern Australia, followed by some of the wettest years on record (2010-11 La Niña years).
 
+# Indicate if this is a past or current project
+categories: "Past"
+
 tags:
 - Environmental-Flows
-- Past
 
 date: "2016-01-01T00:00:00Z"
 

@@ -8,9 +8,11 @@ authors:
 
 summary: In this study, we assessed how different climate and anthropogenic drivers affect the variability of surface water in the Southeastern United States, an area that has experienced more land cover change than any other region in the country.
 
+# Indicate if this is a past or current project
+categories: "Current"
+
 tags:
 - Southeastern US
-- Current
 
 date: "2023-01-01T00:00:00Z"
 

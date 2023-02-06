@@ -8,9 +8,11 @@ authors:
 
 summary: Climate and land use change act synergistically to affect scarce water resources, already under enormous pressure in Australia. This cross-disciplinary project aimed to quantify the climate-driven variability and impact of climate and land use change on surface water dynamics and connectivity. This research took a holistic approach integrating remote sensing and climate data, land use science, graph theory, and spatial statistics. The project focused on one of largest dryland basins in the world (the size of the four corner states), Australia’s Murray-Darling Basin (MDB).
 
+# Indicate if this is a past or current project
+categories: "Past"
+
 tags:
 - Water Resources DECRA
-- Past
 
 date: "2014-06-01T00:00:00Z"
 

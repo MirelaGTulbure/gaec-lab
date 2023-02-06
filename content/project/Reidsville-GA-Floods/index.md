@@ -9,10 +9,12 @@ authors:
 
 summary: Reidsville GA Community Floods, a small community group, seeks to prevent residential flooding in Reidsville, GA. This community science project will help residents understand their flood risks and the potential for green infrastructure as a step toward this greater goal. In parallel with the group’s existing partnerships that are investigating county-level flooding, the outcomes of this project are to 1) create a map that outlines flood risk in the community 2) better understand the potential for green infrastructure, including replicable green infrastructure on private property.
 
+# Indicate if this is a past or current project
+categories: "Current"
+
 tags:
 - Reidsville GA Floods
 - Remote sensing
-- Current
 
 date: "2022-12-20T00:00:00Z"
 

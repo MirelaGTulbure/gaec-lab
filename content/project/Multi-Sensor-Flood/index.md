@@ -9,6 +9,9 @@ authors:
 
 summary: Floods are the most signifigant climate change-related hazards in terms of life loss and economic damage. Effective and immediate disaster response management can reduce the impact of floods, but it requires near real-time information on flood occurrence, typically derived based on Earth Observation data. Our work has applied machine learning algorithms to map floods globally. We also showed that we can detect more ephemeral flooding events when using data from three sensors provided by NASA’s Harmonized Landsat-Sentinel 2 data product, HLS.
 
+# Indicate if this is a past or current project
+categories: "Current"
+
 tags:
 - Multi-Sensor-Floods
 - Current

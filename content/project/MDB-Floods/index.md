@@ -8,9 +8,11 @@ authors:
 
 summary: Project focused on quantifying surface water and flooding extent dynamics at sub-continental scale (e.g., the Murray-Darling River Basin MDB).
 
+# Indicate if this is a past or current project
+categories: "Past"
+
 tags:
 - Murray-Darling Basin
-- Past
 
 date: "2016-01-01T00:00:00Z"
 

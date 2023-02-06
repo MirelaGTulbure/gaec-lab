@@ -8,12 +8,13 @@ title: Current Projects
 subtitle: <a href=../../project/>View all projects</a>
 
 content:
+  count: 3
   filters:
     author: ""
-    category: ""
+    category: "Current"
     exclude_featured: False
     publication_type: ""
-    tag: "Current"
+    tag: ""
   offset: 0
   order: desc
   page_type: project

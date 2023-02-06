@@ -8,9 +8,11 @@ authors:
 
 summary: Fresh water stored by small on-farm reservoirs (SRs), which are small water bodies, is a fundamental component of surface hydrology and is critical for meeting global irrigation needs. Farmers use SRs to store water during the wet season for crop irrigation during the dry season. SRs can also contribute to downstream water stress by decreasing stream discharge and peak flow in the watersheds where they are built. There are more than 2.6 million SRs in the US alone, and many SRs were constructed during the last 40 years. Despite their importance for crop irrigation, SRs are poorly quantified bc (1) they are small (< 50 ha), (2) there are millions of them around the world, and (3) they occur on private land. Satellite data allow us to quantify SR water area and volume across space and time.
 
+# Indicate if this is a past or current project
+categories: "Current"
+
 tags:
 - On-farm reservoirs
-- Current
 
 date: "2023-01-15T00:00:00Z"
 

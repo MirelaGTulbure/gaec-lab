@@ -8,13 +8,13 @@ title: Past Projects
 subtitle: <a href=../../project/>View all projects</a>
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ""
-    category: ""
+    category: "Past"
     exclude_featured: False
     publication_type: ""
-    tag: "Past"
+    tag: ""
   offset: 0
   order: desc
   page_type: project
