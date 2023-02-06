@@ -11,10 +11,10 @@ content:
   count: 20
   filters:
     author: ""
-    category: ""
+    category: "lab-related"
     exclude_featured: False
     publication_type: ""
-    tag: "lab-related"
+    tag: ""
   offset: 0
   order: desc
   page_type: publication

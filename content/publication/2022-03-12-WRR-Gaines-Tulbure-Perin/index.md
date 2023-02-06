@@ -15,6 +15,9 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-12T00:00:00Z"
 
+# Indicate if this is related to GAEC
+categories: "lab-related"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -32,7 +35,6 @@ summary: People and the environment rely on water to exist and thrive, especiall
 
 tags:
 - Southeastern US
-- lab-related
 
 featured: false
 
