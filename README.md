@@ -7,6 +7,9 @@ The URL for the website is currently the basic, free one (gaec-lab.netlify.app).
 > 
 > We can edit this Github repository online or offline; once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues in some files, especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers. To configure offline debug settings, please see the end of this document.
 
+## Pronouns
+If you wish to add your pronouns to your author bio in the role field include them before your position in the lab with a line break in between. For example, 'role: She/Her/Hers <br /> Undergraduate Researcher".
+
 ## Poster Fix
 In order to add a poster, navigate to static/media and upload the poster file labelled as 'YYYY-MM_lastName_conferenceAbbrv.jpg'. Please make sure your file is around 1 MB in order to make sure loading times are not too long. Information on resizing images is provided below in Adding Pictures. After adding your picture, navigate to `content/poster/poster_gallery.md` and add the details for your poster following the examples of the other ones. Here you can add a caption labeling the event at which you presented your poster. 
 
