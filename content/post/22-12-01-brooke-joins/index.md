@@ -11,7 +11,9 @@ image:
   preview_only: false
 ---
 
-Brooke comes to the lab as an undergraduate researcher. She is a third year undergrad majoring in Environmental Science, focusing in Geospatial Analytics and Computer Science. 
+Brooke comes to the lab as an undergraduate researcher. 
+<!--more-->
+She is a third year undergraduate majoring in Environmental Science, with a concentration in Geospatial Analytics and Computer Programming. Her research interests include environmental justice and social vulnerability. 
 
 
 
