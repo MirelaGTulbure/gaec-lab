@@ -6,8 +6,9 @@ headless: true  # This file represents a page section.
 # title: Keywords
 weight: 5
 
+title: Explore Popular Topics
+
 content:
-  title: Explore Popular Topics
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
