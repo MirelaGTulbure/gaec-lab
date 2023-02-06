@@ -5,6 +5,9 @@ title: Mirela G. Tulbure
 # Is this the primary user of the site?
 superuser: true
 
+# Bold author name in authors list
+highlight_name: true
+
 # Role/position
 role: Associate Professor
 
