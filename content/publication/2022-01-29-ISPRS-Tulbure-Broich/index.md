@@ -43,7 +43,6 @@ summary:
 
 tags:
 - HLS Flood Detection
-- lab-related
 
 featured: false
 

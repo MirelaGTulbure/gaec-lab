@@ -37,7 +37,6 @@ summary:
 
 tags:
 - On-farm reservoirs
-- lab-related
 
 featured: false
 

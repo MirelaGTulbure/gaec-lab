@@ -24,7 +24,7 @@ doi: ""
 publishDate: "2022-12-21T00:00:00Z"
 
 # Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
-categories:
+categories: "lab-related"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,6 @@ tags:
 - Precipitation
 - Climate zones
 - GEE and Koppen climate zones
-- lab-related
 
 featured: false
 

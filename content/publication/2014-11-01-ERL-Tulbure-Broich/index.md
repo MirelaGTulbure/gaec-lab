@@ -34,7 +34,6 @@ abstract: The concept of habitat networks represents an important tool for lands
 summary: The concept of habitat networks represents an important tool for landscape conservation and management at regional scales. Previous studies simulated degradation of temporally fixed networks but few quantified the change in network connectivity from disintegration of key features that undergo naturally occurring spatiotemporal dynamics.
 
 tags:
-- 
 
 featured: false
 

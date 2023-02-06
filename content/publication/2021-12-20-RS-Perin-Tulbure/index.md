@@ -46,7 +46,6 @@ tags:
 - Planet Fusion
 - On-farm Reservoirs
 - Water management
-- lab-related
 
 featured: false
 
