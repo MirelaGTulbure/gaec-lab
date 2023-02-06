@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-Mirela was hosted by Humboldt University in Berlin, Germany as part of the Alexander von Humboldt fellowship for experienced researchers. While there she presented on the lab's project, <a href="content/project/On-farm-reservoirs/">Small Water Body Dynamics</a>.
+Mirela was hosted by Humboldt University in Berlin, Germany as part of the Alexander von Humboldt fellowship for experienced researchers. While there she presented on the lab's project, <a href=".../project/On-farm-reservoirs/">Small Water Body Dynamics</a>.
 
 ### Social Media Buzz:
 
