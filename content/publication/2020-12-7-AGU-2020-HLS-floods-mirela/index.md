@@ -2,7 +2,7 @@
 title: "Can we detect more ephemeral floods with higher density harmonized Landsat 8/Sentinel 2 data compared to just one sensor?"
 authors:
 - admin
-- Mark Broich
+- markbroich
 - Junchang Ju
 - viniperin
 - molliegaines
