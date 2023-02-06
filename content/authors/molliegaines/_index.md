@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Bold author name in authors list
+highlight_name: true
+
 # Role/position
 role: PhD Candidate
 
