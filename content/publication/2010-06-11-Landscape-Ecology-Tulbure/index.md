@@ -15,6 +15,9 @@ doi: "10.1007/s10980-010-9548-0"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2011-10-17T00:00:00Z"
 
+# Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
+categories:
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

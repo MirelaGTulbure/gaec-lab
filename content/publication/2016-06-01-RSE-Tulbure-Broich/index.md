@@ -16,6 +16,9 @@ doi: "10.1016/j.rse.2016.02.034"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-01T00:00:00Z"
 
+# Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
+categories: "lab-related"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -33,7 +36,6 @@ summary: Seasonally continuous long-term information on surface water and floodi
 
 tags:
 - Murray–Darling Basin
-- lab-related
 
 featured: false
 
