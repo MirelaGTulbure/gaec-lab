@@ -15,7 +15,7 @@ height: '350px; background-position:center; background-repeat: no-repeat; backgr
 
 
 item:
-  - title: 'Field work'
+  - title: ''
     content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Field work</div>
     align: left
     overlay_color: '#555'
