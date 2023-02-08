@@ -5,9 +5,6 @@ title: Mirela G. Tulbure
 # Is this the primary user of the site?
 superuser: true
 
-# Bold author name in authors list
-highlight_name: true
-
 # Role/position
 role: Associate Professor
 
@@ -74,7 +71,7 @@ social:
 email: "mtulbure@ncsu.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
