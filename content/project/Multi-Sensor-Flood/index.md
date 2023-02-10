@@ -13,7 +13,7 @@ summary: Floods are the most signifigant climate change-related hazards in terms
 categories: "Current"
 
 tags:
-- Multi-Sensor-Floods
+- Multi-Sensor-Flood
 - Current
 
 date: "2023-02-01T00:00:00Z"
