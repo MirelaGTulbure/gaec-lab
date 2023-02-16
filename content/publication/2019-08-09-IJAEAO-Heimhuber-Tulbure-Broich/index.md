@@ -34,7 +34,7 @@ abstract: By influencing water tables of saline aquifers, multiyear dry or wet p
 summary: By influencing water tables of saline aquifers, multiyear dry or wet periods can significantly delay or accelerate dryland salinity, but this effect remains poorly quantified at the large river basin scale.
 
 tags:
-- Murray-Darling Basin
+- Murray–Darling Basin
 - Hydrology
 - GRACE
 
