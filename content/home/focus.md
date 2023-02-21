@@ -24,7 +24,7 @@ feature:
     icon_pack: fas
     name: Flooding
     description: Map flooding events using remote sensing
-  - icon: earth-americas
+  - icon: globe
     icon_pack: fas
     name: Climate
     description: Understand the impacts of climate drivers on water systems
