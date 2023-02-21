@@ -24,14 +24,14 @@ feature:
     icon_pack: fas
     name: Flooding
     description: Map flooding events using remote sensing
-  - icon: planet-moon
+  - icon: earth-americas
     icon_pack: fas
     name: Climate
-    description: 
-  - icon: scale-unbalanced
+    description: Understand the impacts of climate drivers on water systems
+  - icon: users
     icon_pack: fas
     name: Environmental Justice
-    description: 
+    description: Examine the impact of environmental risks on vulnerable communities
 #  - icon: sprout
 #    icon_pack: custom
 #    name: Agriculture
