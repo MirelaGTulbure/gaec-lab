@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/"> here. </a>
+bio: Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/blog/author/yuri-shendryk/"> here. </a>
 
 interests:
 - Remote Sensing
@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:iurii.shendryk@gmail.com'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YuriShendryk
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -63,7 +66,7 @@ user_groups:
 ---
 Yuri was awarded his PhD for his research, "Integration of multi-sensor remote sensing data for assessment of environmental flows in the Barmah-Millewa Forest." He was primarily supervised by Mirela G Tulbure with joint supervisor Mark Broich.
 
-Yuri currently works as a remote sensing/ machine learning Post Doctoral researcher focusing on precision agriculture at Australia's Commonwealth Scientific and Industrial Research Organisation. 
+Yuri currently works for Dendra Systems which uses data processing to monitor and restore ecosystems. You can read more about this work <a href="https://dendra.io/blog/author/yuri-shendryk/"> here. </a>
 
 As a member of the lab he was a PhD candidate at the University of New South Wales (UNSW) and with the intention to improve the quality of natural environments through his work. On his journey to this goal, he develop high-tech algorithms to process terabytes of satellite data enabling us to make decisions for a sustainable future. His research was focused on the integration of remote sensing, Geographic Information Systems (GIS) and spatial statistics to explore interactions between species, environment and land use, with ongoing research and capacity building work focused on forest health monitoring.
 

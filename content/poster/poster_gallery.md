@@ -34,7 +34,7 @@ gallery_item:
 
 - album: poster_img
   image: 2022-12_Tulbure_AGU.jpg
-  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
+  caption: Living Planet Symposium (May 2022, Bonn, Germany)
 
 ---
 

@@ -50,7 +50,7 @@ social:
   link: 'mailto:r.bishop-taylor@unsw.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/robbibt
+  link: https://twitter.com/SatelliteSci
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

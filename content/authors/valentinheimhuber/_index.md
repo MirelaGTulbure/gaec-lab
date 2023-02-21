@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:valentin.heimhuber@unsw.edu.au'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TurnThatAround
 
 
 # Link to a PDF of your resume/CV from the About widget.

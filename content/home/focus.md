@@ -24,6 +24,14 @@ feature:
     icon_pack: fas
     name: Flooding
     description: Map flooding events using remote sensing
+  - icon: planet-moon
+    icon_pack: fas
+    name: Climate
+    description: 
+  - icon: scale-unbalanced
+    icon_pack: fas
+    name: Environmental Justice
+    description: 
 #  - icon: sprout
 #    icon_pack: custom
 #    name: Agriculture
