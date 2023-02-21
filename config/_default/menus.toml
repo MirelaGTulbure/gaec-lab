@@ -11,22 +11,22 @@
 [[main]]
   name = "News"
   url = "post"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "projpage"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "People"
   url = "people"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Posters"
   url = "poster"
-  weight = 45
+  weight = 60
 
 [[main]]
   name = "Publications"
@@ -34,6 +34,6 @@
   weight = 50
 
 #[[main]]
-#  name = "Contact"
-#  url = "contact"
-#  weight = 60
+#  name = "Opportunities"
+#  url = "opportunity"
+#  weight = 70
