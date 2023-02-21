@@ -33,7 +33,7 @@
   url = "pubcon"
   weight = 50
 
-#[[main]]
-#  name = "Opportunities"
-#  url = "opportunity"
-#  weight = 70
+[[main]]
+  name = "Opportunities"
+  url = "opportunity"
+  weight = 70
