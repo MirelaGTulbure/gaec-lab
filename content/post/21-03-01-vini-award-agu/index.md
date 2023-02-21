@@ -1,5 +1,5 @@
 ---
-title: Vini Awarded Outstanding Student Presentation Award the AGU
+title: Vini Awarded Outstanding Student Presentation Award at the AGU
 date: 2021-03-01
 
 image:
