@@ -12,8 +12,8 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 # get image from ncsu brand
 header:
-  caption: ""
-  image: ""
+  caption: "NC State University"
+  image: "featured.jpg"
 
 ---
 Our lab is based at North Carolina State University, located in beautiful Raleigh, North Carolina. Part of the Research Triangle, Raleigh is teeming with opportunity for driven, research-oriented individuals. Raleigh provides the the convenience of city life with the comforts of southern hospitality, making it a wonderful place to live. 
