@@ -6,7 +6,7 @@ authors:
 - brookecox
 
 image:
-  caption: 'Rebecca presenting her poster during the CNR Graduate Research Symposium's Poster Contest'
+  caption: 'Rebecca presenting her poster during the CNR Graduate Research Symposium Poster Contest'
   focal_point: ""
   preview_only: false
 ---
