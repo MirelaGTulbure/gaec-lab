@@ -1,5 +1,5 @@
 ---
-title: "The infl uence of habitat characteristics
+title: "The influence of habitat characteristics
 on amphibian species richness in two river basins of Romania"
 authors:
 - Tibor Hartel
