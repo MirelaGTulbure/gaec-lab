@@ -15,5 +15,5 @@ Mirela explained some of the labs research projects to undergraduate students in
 
 <!--more-->
 
-<img src="presentation.jpg" alt="img not available">
+<img src="presentation.jpg" alt="img not available" style="width:500px;height:600px;">
 Much of the audience was freshman students still exploring their interests, so the hope is that some may be encouraged to learn more about remote sensing and global flooding.
