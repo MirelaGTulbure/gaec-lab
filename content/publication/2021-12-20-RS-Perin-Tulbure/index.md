@@ -21,8 +21,8 @@ doi: "https://doi.org/10.3390/rs13245176"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-20T00:00:00Z"
 
-# Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
-categories: "lab-related"
+# Indicate if this is related to GAEC by typing "Lab Related" if not, leave blank
+categories: "Lab Related"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

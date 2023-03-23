@@ -16,8 +16,8 @@ doi: "10.1080/01431161.2013.796099"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-05-17T00:00:00Z"
 
-# Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
-categories:
+# Indicate if this is related to GAEC by typing "Lab Related" if not, leave blank
+categories: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

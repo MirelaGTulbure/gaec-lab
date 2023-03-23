@@ -21,8 +21,8 @@ publishDate: "2022-02-27T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Indicate if this is related to GAEC by typing "lab-related" if not, leave blank
-categories:
+# Indicate if this is related to GAEC by typing "Lab Related" if not, leave blank
+categories: 
 
 # Publication name and optional abbreviated publication name.
 publication: "Landscape Ecology"

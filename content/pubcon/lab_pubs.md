@@ -11,7 +11,7 @@ content:
   count: 20
   filters:
     author: ""
-    category: "lab-related"
+    category: "Lab Related"
     exclude_featured: False
     publication_type: ""
     tag: ""
