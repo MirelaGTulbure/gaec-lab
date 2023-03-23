@@ -22,7 +22,7 @@ We always seeks creative and motivated lab members with strong quantitative skil
 
 ---
 ## **Postdoctoral Fellows**
-Funded opportunities will be posted on this website. I encourage prospective fellows to contact me if there is interest in applying for funding (e.g., https://www.neonscience.org/get-involved/work-opportunities/postdoctoral-fellows). 
+Funded opportunities will be posted on this website. I encourage prospective fellows to contact me if they are interested in applying for funding, such as through the <a href="https://www.neonscience.org/get-involved/work-opportunities/postdoctoral-fellows">NEON Postdoctoral Fellows program</a>. 
 
 ## **PhD in Geospatial Analytics**
 As a faculty fellow and member of the Center for Geospatial Analytics, I welcome applicants for the PhD in Geospatial Analytics.  Applications for the program are accepted for fall admission only, the deadline is Feb. 1 annually.
