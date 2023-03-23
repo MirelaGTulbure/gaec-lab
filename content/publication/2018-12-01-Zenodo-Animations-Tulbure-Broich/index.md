@@ -26,7 +26,7 @@ publication_types: ["0"]
 publication: "Dataset - Zenodo"
 publication_short: ""
 
-abstract: Please refer to the above mentioned publication for a description of the data and interpretation of the patterns. The animations are based on statistically validated surface water and flooding extent dynamics data derived from seasonally continous Landsat TM/ETM+ and random forest models from 1986 to 2011 over Australia's Murray-Darling Basin. The overall accuracy was over 99% and producer's accuracy for water 87% +/- 3%. 
+abstract: The animations provided here are part of the publication,<a href="https://www.sciencedirect.com/science/article/pii/S0048969718347466">[Tulbure, M.G. and M. Broich (2018)]</a>. The method is described in <a href="https://www.sciencedirect.com/science/article/pii/S0034425716300621">[Tulbure et al. (2016)]</a>. The animations are based on statistically validated surface water and flooding extent dynamics data derived from seasonally continous Landsat TM/ETM+ and random forest models from 1986 to 2011 over Australia's Murray-Darling Basin. The overall accuracy was over 99% and producer's accuracy for water 87% +/- 3%. 
 
 tags:
 - Murray–Darling Basin
@@ -68,7 +68,3 @@ slides:
 ---
 
 ![](image.gif)
-
-The animations provided here are part of the following publication: [Tulbure, M.G. and M. Broich (2018)](https://www.sciencedirect.com/science/article/pii/S0048969718347466).
-
-The method is described in [Tulbure et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0034425716300621).
