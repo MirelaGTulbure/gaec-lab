@@ -30,4 +30,8 @@ As a faculty fellow and member of the Center for Geospatial Analytics, I welcome
 The Center for Geospatial Analytics at NC State is an internationally recognized hub for interdisciplinary data scientists pushing the boundaries of spatial data science to advance discovery and inform real-world decision-making. Students in the Ph.D. program receive multidisciplinary advising and the opportunity to work with over thirty faculty fellows with diverse expertise from over a dozen departments across NC State.
 
 ## **Undergraduate Research Experience**
+We are looking for a highly motivated undergraduate research student to join our Geospatial Analysis for Environmental Change lab at NC State on a project using geospatial analytics for social good. The work is part of a 1-year funded project that investigates environmental justice aspects in eastern North Carolina in relation to Concentrated Animal Feeding Operations (CAFOs) and their impact on water quality. The specific tasks will entail using geospatial analytics to quantify CAFO location and size.
+We are looking for an undergraduate student with excellent quantitative skills, coding experience (ideally in Python), and knowledge or interest in learning about geospatial data and using those skills for social good.
+If interested, please email Mirela Tulbure (mtulbure@ncsu.edu) a CV, unofficial transcripts, link to your GitHub account, and contact details for two-three references.
+
 Undergraduates from diverse backgrounds seeking research experience are welcome to contact me. I encourage students to get involved with cutting edge geospatial analytics projects for social good. 
