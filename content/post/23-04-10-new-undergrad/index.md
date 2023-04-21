@@ -16,4 +16,6 @@ We are looking for a highly motivated undergraduate research student to join our
 <!--more-->
 The work is part of a 1-year funded project that investigates environmental justice aspects in eastern North Carolina in relation to Concentrated Animal Feeding Operations (CAFOs) and their impact on water quality. The specific tasks will entail using geospatial analytics to quantify CAFO location and size.
 We are looking for an undergraduate student with excellent quantitative skills, coding experience (ideally in Python), and knowledge or interest in learning about geospatial data and using those skills for social good.
-If interested, please email Mirela Tulbure (mtulbure@ncsu.edu) a CV, unofficial transcripts, link to your GitHub account, and contact details for two to three references.
+If interested, please email Mirela Tulbure (mtulbure@ncsu.edu) a CV/resume, unofficial transcripts, a link to your GitHub account, and contact details for two-three references.
+
+The GitHub account should include some examples of coding projects, prefereably in Python. If you do not have a GitHub, you may substitute this with a Google Drive Folder of coding examples. 
