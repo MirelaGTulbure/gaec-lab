@@ -30,7 +30,7 @@ We used Landsat TM and ETM+ imagery from 1999 to 2011 to automatically derive a 
 <video width = "2560px" height="1440px"/>
 <source src="A1_cbrenfr2.mp4" type="video/mp4">
 </video>
-<p></p>
+<br>
 We made the dataset freely available <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.50003">here</a>, which was downloaded more than 100 times and was used by government agencies such as the Department of Water and Environmental Regulation of Western Australia (see testimonial below).
 <blockquote>
 <p></p>
