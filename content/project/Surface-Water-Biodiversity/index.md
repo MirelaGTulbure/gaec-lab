@@ -27,11 +27,13 @@ Located in the southwest of Western Australia, the Swan Coastal Plain (SCP) is a
 <p></p>
 We used Landsat TM and ETM+ imagery from 1999 to 2011 to automatically derive a spatially and temporally explicit time-series of surface water body extent on the SCP based on decision trees. We provided the first spatio-temporally dynamic map of the water bodies of the SCP.
 <p></p>
-<video width = "2560px" height="1440px"/>
+<video width = "2560px" height="1440px" controls>
 <source src="A1_cbrenfr2.mp4" type="video/mp4">
+Video not available
 </video>
 
 We made the dataset freely available <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.50003">here</a>, which was downloaded more than 100 times and was used by government agencies such as the Department of Water and Environmental Regulation of Western Australia (see testimonial below).
+<p></p>
 <p></p>
 <blockquote>
 <i>“Dr Tulbure's data set has contributed to research and understanding of water 
@@ -43,6 +45,7 @@ the period covered by her work. In addition, the spatial layers were used to bet
 <br>- Mathematical Modeler at the Department of Water and Environmental Regulation of Western Australia
 
 </blockquote>
+<p></p>
 <p></p>
 We further analyzed the number of water bodies in relation to climate variables and showed that the number, mean size, and total area of water bodies experience high seasonal variability with highest numbers in winter and lowest numbers in summer. We published our findings in the ISPRS Journal of Photogrammetry and Remote Sensing, Tulbure and Broich (2013), <a href=https://www.sciencedirect.com/science/article/abs/pii/S0924271613000300>here</a>.
 <p></p>
