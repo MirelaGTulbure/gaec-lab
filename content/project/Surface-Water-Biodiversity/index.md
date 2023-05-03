@@ -19,7 +19,7 @@ date: "2014-06-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Figure Cpation caption"'
+  caption: 'Water bodies and precipitation in Swan Coastal Plain (SCP) in Western Australia'
   focal_point: Smart
 ---
 
@@ -27,7 +27,7 @@ Located in the southwest of Western Australia, the Swan Coastal Plain (SCP) is a
 <p></p>
 We used Landsat TM and ETM+ imagery from 1999 to 2011 to automatically derive a spatially and temporally explicit time-series of surface water body extent on the SCP based on decision trees. We provided the first spatio-temporally dynamic map of the water bodies of the SCP.
 <p></p>
-<video width = "256px" height="144px">
+<video width = "256px" height="144px" controls>
 <source src="A1_cbrenfr2.mp4" type="video/mp4">
 Video not available
 </video>
