@@ -67,7 +67,7 @@ email: "kawilso7@ncsu.edu "
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 ---
 
 I am a senior at North Carolina State University (NC State) studying Statistics with a Minor in Industrial Engineering. My undergraduate career has largely been focused on statistical training and applications across many disciplines. I am interested in applying statistical learning techniques to geospatial analysis for environmental and social good.
