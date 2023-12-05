@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rcompos@ncsu.edu ' 
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: 'https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=99zX6CAAAAAJ&authuser=1'
 - icon: github
   icon_pack: fab
   link: 'https://github.com/rlwcomposto'
