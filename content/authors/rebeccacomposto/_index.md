@@ -24,15 +24,15 @@ organizations:
 bio: I am a PhD student with the Center for Geospatial Analytics at North Carolina State University.
 
 interests:
-- Flooding
+- Floods
 - Emergency Preparedness
-- Resilience
-- Cities
+- Machine Learning
+- Urban Areas
 
 
 education:
   courses:
-  - course: PhD in Geospatial Analytics, 2019–Present
+  - course: PhD in Geospatial Analytics
     institution: North Carolina State University
     year: 2022 - President
 
