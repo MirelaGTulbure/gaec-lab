@@ -15,7 +15,7 @@ PhD Candidate, Varun Tiwari's first PhD paper has been published in the Journal 
 
 <!--more-->
 
-In this article, Varun outlines a novel framework to map boro rice at peak season using Sentinal images which will serve as a valuable tool for policy decision-making. From the abstracts, "In-season rice area maps generated through this framework are crucial for timely decision-making regarding adaptive management in response to climatic stresses and forecasting area-wide productivity. The scalability of our framework across space and time makes it particularly suitable for addressing field data scarcity challenges in countries like Bangladesh and offers the potential for future operationalization."
+In this article, Varun outlines a novel framework to map boro rice at peak season using Sentinal images which will serve as a valuable tool for policy decision-making. From the abstract, "In-season rice area maps generated through this framework are crucial for timely decision-making regarding adaptive management in response to climatic stresses and forecasting area-wide productivity. The scalability of our framework across space and time makes it particularly suitable for addressing field data scarcity challenges in countries like Bangladesh and offers the potential for future operationalization."
 
 Read the full article <a href="https://www.sciencedirect.com/science/article/pii/S0301479723024039">here</a>.
 

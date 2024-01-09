@@ -1,6 +1,6 @@
 ---
 title: New article in pre-print titled "Taking it further; leveraging pseudo labels for field delineation across label-scarce smallholder regions"
-date: 2023-01-08
+date: 2024-01-08
 
 authors:
 - brookecox
