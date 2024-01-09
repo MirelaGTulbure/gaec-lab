@@ -11,8 +11,8 @@ authors:
 - Md Abdullah Aziz
 - AFM Tariqul Islam
 
-# author_notes:
-
+author_notes:
+- "Corresponding author"
 
 date: "2024-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jenvman.2023.119615"
