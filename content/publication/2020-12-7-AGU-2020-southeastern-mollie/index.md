@@ -31,6 +31,7 @@ summary: Water stress is a global concern as a changing climate leads to variati
 
 tags:
 - Southeastern US
+- Surface Water
 
 featured: true
 

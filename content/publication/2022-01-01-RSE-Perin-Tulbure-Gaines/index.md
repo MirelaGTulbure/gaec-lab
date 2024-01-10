@@ -37,6 +37,7 @@ summary:
 
 tags:
 - On-farm reservoirs
+- Satellite Imagery
 
 featured: false
 

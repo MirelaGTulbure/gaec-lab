@@ -39,7 +39,8 @@ abstract: Drought is a global issue that is exacerbated by climate change and in
 summary: Drought is a global issue that is exacerbated by climate change and increasing anthropogenic water demands. The recent occurrence of drought in California provides an important opportunity to examine drought response across ecosystem classes (forests, shrublands, grasslands, and wetlands), which is essential to understand how climate influences ecosystem structure and function.
 
 tags:
-
+- Drought
+- Satellite Imagery
 
 featured: false
 

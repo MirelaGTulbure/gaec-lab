@@ -41,7 +41,7 @@ abstract: Floods are the largest natural hazard in terms of life loss and econom
 summary: 
 
 tags:
-- Floods
+- Flooding
 - MODIS
 - Landsat
 - HLS

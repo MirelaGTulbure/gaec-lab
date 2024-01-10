@@ -43,6 +43,7 @@ summary:
 
 tags:
 - HLS Flood Detection
+- Flooding
 
 featured: false
 
