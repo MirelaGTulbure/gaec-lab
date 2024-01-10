@@ -6,9 +6,15 @@ The URL for the website is currently the basic, free one (gaec-lab.netlify.app).
 > **Note** 
 > 
 > We can edit this Github repository online or offline; once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues in some files, especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers. To configure offline debug settings, please see the end of this document.
+>
 
-## Pronouns
-If you wish to add your pronouns to your author bio. In the role field include them before your position in the lab with a line break in between. For example, 'role: She/Her/Hers <br /> Undergraduate Researcher".
+## Adding Lab Members
+In order to add yourself to the lab website first clone this repository to your local machine. For simple instructions on how to do this please look [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). 
+
+Once you have the repository on your local machine, open the content file in a text editor such as VS Code. 
+Add a new folder titled yourfirstnameyourlastname within the author folder. Next, copy the _index.md file from another author folder (ex. the _index.md file within the brookecox folder) and replace the information with your own. If you wish to add your pronouns to your author bio. In the role field include them before your position in the lab with a line break in between. For example, 'role: She/Her/Hers <br /> Undergraduate Researcher". To add a profile picture, upload an image labeled `avatar.jpg` (can be png, but then update the reference accordingly) that preferably is <= 1 MB.
+- Each lab member belongs to a different category. These can be seen (and/or edited) in `content/people/people.md`. Note that the attribution must be spelled and capitalized exactly the same.
+- If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
 
 ## Poster Fix
 In order to add a poster, navigate to static/media and upload the poster file labelled as 'YYYY-MM_lastName_conferenceAbbrv.jpg'. Please make sure your file is around 1 MB in order to make sure loading times are not too long. Information on resizing images is provided below in Adding Pictures. After adding your picture, navigate to `content/poster/poster_gallery.md` and add the details for your poster following the examples of the other ones. Here you can add a caption labeling the event at which you presented your poster. 
@@ -22,7 +28,7 @@ Photos can be added to different website items, like lab member profiles, public
 Content can either be edited directly in GitHub or by cloning the repository to your local machine, editing files, and pushing back to GitHub. Website deployments (rendering the website) are done automatically with each commit via Netlify, so it's advised that you clone the repo when possible (e.g. push several commits at once, instead of one for each small change). 
 - *NOTE:* currently the Netlify account is linked to Mirela's GitHub, but anyone can have access if they want. Please send an email to her asking to be added.
 
-### Lab member info
+### Updating Lab member info
 Each lab member has their own "page" on the website, under the [Team section](https://gaec-lab.netlify.app/people/). To update your page, navigate to your [folder](https://github.com/MirelaGTulbure/gaec-lab/tree/main/content/authors) and update the information in `_index.md` as appropriate. To add a profile picture, upload an image labeled `avatar.jpg` (can be png, but then update the reference accordingly) that preferably is <= 1 MB.
 - Each lab member belongs to a different category. These can be seen (and/or edited) in `content/people/people.md`. Note that the attribution must be spelled and capitalized exactly the same.
 - If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
