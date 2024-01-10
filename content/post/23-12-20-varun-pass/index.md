@@ -1,6 +1,6 @@
 ---
 title: Lab Member Varun Tiwari passes preliminary exams to become PhD Candidate
-date: 2024-01-08
+date: 2023-12-20
 
 authors:
 - brookecox

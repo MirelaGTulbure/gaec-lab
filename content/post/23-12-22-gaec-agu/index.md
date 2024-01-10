@@ -1,6 +1,6 @@
 ---
 title: Lab attends and presents at AGU 2023 in San Francisco
-date: 2024-01-08
+date: 2023-12-22
 
 authors:
 - brookecox
