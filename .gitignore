@@ -8,3 +8,6 @@ assets/jsconfig.json
 
 # windows
 **/desktop.ini
+
+# mac
+**/.DS_store
