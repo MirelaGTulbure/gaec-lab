@@ -12,7 +12,12 @@ The URL for the website is currently the basic, free one (gaec-lab.netlify.app).
 In order to add yourself to the lab website first clone this repository to your local machine. For simple instructions on how to do this please look [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). 
 
 Once you have the repository on your local machine, open the content file in a text editor such as VS Code. 
-Add a new folder titled yourfirstnameyourlastname within the author folder. Next, copy the _index.md file from another author folder (ex. the _index.md file within the brookecox folder) and replace the information with your own. If you wish to add your pronouns to your author bio. In the role field include them before your position in the lab with a line break in between. For example, 'role: She/Her/Hers <br /> Undergraduate Researcher". To add a profile picture, upload an image labeled `avatar.jpg` (can be png, but then update the reference accordingly) that preferably is <= 1 MB.
+Add a new folder titled yourfirstnameyourlastname within the author folder. 
+Next, copy the _index.md file from another author folder (ex. the _index.md file within the brookecox folder) and replace the information with your own. If you wish to add your pronouns to your author bio, include them in the role field before your position in the lab with a line break in between. 
+For example, 'role: She/Her/Hers <br /> Undergraduate Researcher". 
+
+To add a profile picture, upload an image labeled `avatar.jpg` (can be png, but then update the reference accordingly) that preferably is <= 1 MB.
+
 - Each lab member belongs to a different category. These can be seen (and/or edited) in `content/people/people.md`. Note that the attribution must be spelled and capitalized exactly the same.
 - If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
 
