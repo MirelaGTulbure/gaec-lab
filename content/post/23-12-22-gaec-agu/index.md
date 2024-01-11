@@ -19,13 +19,13 @@ Lab members Mirela, Rebecca, Mollie, and Júlio travelled to San Francisco, CA t
 
 Mirela gave an invited talk on multi-sensor fusion for global flood mapping, which you can read more about <a href="https://gaec-lab.netlify.app/project/multi-sensor-flood/"> here</a> as well as in the <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1299456">conference abstract</a>. She also gave an oral presentation on the use of EO data to support environmental justice through linking non-permitted poultry operations to environmnetal justice indices, the abstract being available <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1378518">here</a>. 
 
-Rebecca presented a poster detailing her research on quantifying floods in urban areas with satellite imagery and machine learning. Read the abstract <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353764">here</a>.
+Rebecca, who was granted a CGA Travel Award to attend the conference, presented a poster detailing her research on quantifying floods in urban areas with satellite imagery and machine learning. Read the abstract <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1353764">here</a> and more about her AGU experience in <a href="https://cnr.ncsu.edu/geospatial/news/2024/01/10/exploring-urban-flooding-with-satellite-imagery-at-agu/"> this post</a> featured by the Center for Geospatial Analytics. 
 
 Mollie gave an oral presentation on comparing remotely sensed surface water areas between moderate and high-resolution data products to assess uncertainty in machine learning-projected surface water area. The abstract of which is available <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440183">here</a>.
 
 Finally, Júlio presented a poster overviewing his research on deep learning spatial, spectral and temporal features for global flood mapping. Read more <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1445005">here</a>.
 
-
+<img src="din.png" alt="image is not available">
 
 ### Social Media Buzz:
 
