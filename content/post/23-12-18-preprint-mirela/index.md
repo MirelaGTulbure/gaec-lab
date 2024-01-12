@@ -17,7 +17,7 @@ Dr. Mirela Tulbure contributed to a new article that is currently in pre-print e
 
 The lead author of this article is Dr. Philippe Rufin of the Earth and Life Institute at UCLouvain and the Geography department at Humboldt University. From the abstract, "This study explores opportunities for using pre-trained models to generate sparse (i.e. not fully annotated) field delineation pseudo labels for fine-tuning models across geographies and sensor characteristics. We build on a FracTAL ResUNet trained for crop field delineation in India (median field size of 0.24 ha) based on multi-spectral imagery at 1.5 m spatial resolution"
 
-The full article is available <a href="https://doi.org/10.48550/arXiv.2312.08384">here>.
+The full article is available <a href="https://doi.org/10.48550/arXiv.2312.08384">here</a>.
 
 ### Social Media Buzz:
 
