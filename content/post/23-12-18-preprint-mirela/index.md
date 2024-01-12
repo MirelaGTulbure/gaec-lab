@@ -6,17 +6,16 @@ authors:
 - brookecox
 
 image:
-  caption: 'Figure 1 from the paper, "Figure 1: Study region in Northern Mozambique (A) with site locations for training (yellow), validation (red), and test split (blue). Image data sources: Panel A: PlanetScope mosaic of May 2023, provided through the NICFI data program (Planet Labs Inc., 2023). Panels B-D illustrate example sites with sparse labels and zoom ins. Image data sources: Google Earth Pro VHR imagery (©2023 Maxar Technologies). Panel E shows histogram of image acquisition years in each split, separated by dry season (filled bars) and wet season (hollow bars)."'
+  caption: 'Figure 1 from the paper, "Taking it further; leveraging pseudo labels for field delineation across label-scarce smallholder regions""'
   focal_point: ""
   preview_only: false
 ---
 
-Principal investigator, Mirela Tulbure contributed to a new article that is currently in pre-print entitled "Taking it further; leveraging pseudo labels for field delineation across label-scarce smallholder regions."
+Dr. Mirela Tulbure contributed to a new article that is currently in pre-print entitled "Taking it further; leveraging pseudo labels for field delineation across label-scarce smallholder regions."
 
 <!--more-->
 
-The lead author of this article is Dr. Philippe Rufin of the Earth and Life Institute at UCLouvain and the Geography department at Humboldt University. From the abstract, "This study explores opportunities for using pre-trained models to generate sparse (i.e. not fully annotated) field delineation pseudo labels for fine-tuning models across geographies and sensor characteristics. We build on a FracTAL ResUNet trained for crop field delineation in India (median field size of 0.24 ha) based
-on multi-spectral imagery at 1.5 m spatial resolution"
+The lead author of this article is Dr. Philippe Rufin of the Earth and Life Institute at UCLouvain and the Geography department at Humboldt University. From the abstract, "This study explores opportunities for using pre-trained models to generate sparse (i.e. not fully annotated) field delineation pseudo labels for fine-tuning models across geographies and sensor characteristics. We build on a FracTAL ResUNet trained for crop field delineation in India (median field size of 0.24 ha) based on multi-spectral imagery at 1.5 m spatial resolution"
 
 The full article is available <a href="https://doi.org/10.48550/arXiv.2312.08384">here>.
 

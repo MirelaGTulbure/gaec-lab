@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-PhD Candidate, Varun Tiwari's first PhD paper has been published in the Journal of Environmental Management
+PhD Candidate Varun Tiwari's first PhD paper has been published in the Journal of Environmental Management
 
 <!--more-->
 
