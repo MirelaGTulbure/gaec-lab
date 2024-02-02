@@ -17,21 +17,25 @@ image:
 
 Are you passionate about harnessing technology and scientific innovation to make a meaningful impact in disaster information systems? Join our dynamic team on a  NASA-funded project focused on mapping flood events using earth-observing satellites. You will play a key role in developing and advancing a data pipeline essential for processing large-scale satellite imagery.
 
+
 **This position is an excellent fit for:**
 
-Recent Ph.D. graduates in data or computer science (for the postdoctoral level)
+- Recent Ph.D. graduates in data or computer science (for the postdoctoral level)
 
-Junior professionals or current graduate students in data or computer science, eager to apply their expertise to a project with significant social impact.
+- Junior professionals or current graduate students in data or computer science, eager to apply their expertise to a project with significant social impact.
+
 
 **Position Requirements:**
 
-Prior experience in, or a strong interest in, AWS data engineering.
+- Prior experience in, or a strong interest in, AWS data engineering.
 
-Proficiency in writing well-structured and comprehensively documented Python code.
+- Proficiency in writing well-structured and comprehensively documented Python code.
 
-A background in or enthusiasm for computer or data science/engineering.
+- A background in or enthusiasm for computer or data science/engineering.
+
 
 This full-time role is initially offered for six months, with the potential for extension based on funding availability.
+
 
 **How to Apply:**
 
