@@ -13,7 +13,6 @@ image:
 
 **Postdoc in Data Engineering or Junior/Data Science Engineer**
 <!--more-->
-<img src="featured.jpg" alt="image is not available">
 
 Are you passionate about harnessing technology and scientific innovation to make a meaningful impact in disaster information systems? Join our dynamic team on a  NASA-funded project focused on mapping flood events using earth-observing satellites. You will play a key role in developing and advancing a data pipeline essential for processing large-scale satellite imagery.
 
