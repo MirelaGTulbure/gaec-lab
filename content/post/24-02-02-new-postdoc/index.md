@@ -12,6 +12,8 @@ image:
 ---
 
 **Postdoc in Data Engineering or Junior/Data Science Engineer**
+<!--more-->
+<img src="Image_data_eng.jpg" alt="image is not available">
 
 Are you passionate about harnessing technology and scientific innovation to make a meaningful impact in disaster information systems? Join our dynamic team on a  NASA-funded project focused on mapping flood events using earth-observing satellites. You will play a key role in developing and advancing a data pipeline essential for processing large-scale satellite imagery.
 
@@ -35,3 +37,5 @@ This full-time role is initially offered for six months, with the potential for 
 
 Please send your resume, a link to your GitHub portfolio (including a Python project sample), and unofficial transcripts to Mirela Tulbure at mtulbure@ncsu.edu. Use the subject line: "Application for Postdoc in Data Engineering/Data Science Engineer Position".
 
+<!--more-->
+<img src="Flood_img.jpg" alt="image is not available">
