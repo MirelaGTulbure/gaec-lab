@@ -14,7 +14,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor with the Center for Geospatial Analytics <a href = "https://cnr.ncsu.edu/geospatial/"> website </a> at North Carolina State University (NCSU). 
+bio: I am an Associate Professor with <a href = "https://cnr.ncsu.edu/geospatial/"> the Center for Geospatial Analytics </a> at North Carolina State University (NCSU). 
 
 interests: 
 - Geospatial analytics
