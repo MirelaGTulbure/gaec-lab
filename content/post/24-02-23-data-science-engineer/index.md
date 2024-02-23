@@ -30,7 +30,7 @@ Are you passionate about harnessing technology and scientific innovation to make
 
 - Proficiency in writing well-structured and comprehensively documented Python code.
 
-- A background in or enthusiasm for computer or data science/engineering.
+- A background in or experience in computer or data science/engineering.
 
 
 This full-time role is initially offered for six months, with the potential for extension based on funding availability. The role can be remote and starting date is flexible.
