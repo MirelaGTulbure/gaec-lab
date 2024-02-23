@@ -1,6 +1,6 @@
 ---
 title: GAEC is hiring a Data Science Engineer 
-date: 2024-02-02
+date: 2024-02-23
 
 authors:
 - admin
