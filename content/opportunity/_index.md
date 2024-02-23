@@ -25,9 +25,9 @@ We always seek creative and motivated lab members with strong quantitative skill
 Funded opportunities will be posted on this website. I encourage prospective fellows to contact me if they are interested in applying for funding, such as through the <a href="https://www.neonscience.org/get-involved/work-opportunities/postdoctoral-fellows">NEON Postdoctoral Fellows program</a>. 
 
 ## **Ph.D. in Geospatial Analytics**
-As a faculty fellow and member of the Center for Geospatial Analytics, I welcome applicants for the Ph.D. in Geospatial Analytics.  Applications for the program are accepted for fall admission only, the deadline is Feb. 1 annually.
+As a faculty fellow and member of the Center for Geospatial Analytics, I welcome applicants for the Ph.D. in Geospatial Analytics.  Applications for the program are accepted for fall admission only, the deadline is Feb 1 annually. For more details, please use this <a href="https://cnr.ncsu.edu/geospatial/academics/phd-in-geospatial-analytics/">link</a>.
 
 The Center for Geospatial Analytics at NC State is an internationally recognized hub for interdisciplinary data scientists pushing the boundaries of spatial data science to advance discovery and inform real-world decision-making. Students in the Ph.D. program receive multidisciplinary advising and the opportunity to work with over thirty faculty fellows with diverse expertise from over a dozen departments across NC State.
 
 ## **Undergraduate Research Experience**
-Undergraduates from diverse backgrounds seeking research experience are welcome to contact me. I encourage students to get involved with cutting-edge geospatial analytics projects for social good. 
+Undergraduates from diverse backgrounds seeking research experience are welcome to contact me at Mtulbure@ncsu.edu. I encourage students to get involved with cutting-edge geospatial analytics projects for social good. 
