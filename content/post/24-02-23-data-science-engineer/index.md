@@ -1,5 +1,5 @@
 ---
-title: GAEC is hiring a Postdoc in Data Engineering or Junior/Data Science Engineer
+title: GAEC is hiring a Data Science Engineer 
 date: 2024-02-02
 
 authors:
