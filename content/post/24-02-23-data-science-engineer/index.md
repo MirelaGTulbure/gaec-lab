@@ -21,12 +21,12 @@ Are you passionate about harnessing technology and scientific innovation to make
 
 - Junior professionals or current graduate students in data or computer science, eager to apply their expertise to a project with significant social impact.
 
-- If you are a recent Ph.D. graduate in data or computer science, the position can be at the postdoctoral level
+- This position is also open to recent Ph.D. graduates in data or computer science, offering opportunities at the postdoctoral level.
 
 
 **Position Requirements:**
 
-- Prior experience in AWS data engineering. Applicants with prior experince in data engineering on a different platform other than AWS but strong interest in AWS will also be considered.
+- Prior experience in AWS data engineering. Applicants with prior experience in data engineering on platforms other than AWS but strong interest in AWS will also be considered.
 
 - Proficiency in writing well-structured and comprehensively documented Python code.
 
