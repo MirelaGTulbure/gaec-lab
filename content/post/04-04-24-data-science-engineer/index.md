@@ -33,7 +33,7 @@ Are you passionate about harnessing technology and scientific innovation to make
 - A background in or experience in computer or data science/engineering.
 
 
-This full-time role is initially offered for six months, with the potential for extension based on funding availability. The role can be remote and starting date is flexible.
+This full-time role is initially offered for six to twelve months, with the potential for extension based on funding availability. The role can be remote and starting date is flexible.
 
 
 **How to Apply:**
