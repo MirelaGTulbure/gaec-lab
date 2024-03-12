@@ -12,14 +12,14 @@ image:
 
 ---
 
-Lab members Rebecca and Varun presented posters on their current research projects at the 5th annual CNR Graduate Research Symposium this week.
+Lab members Rebecca and Varun presented posters on their current research projects at the 6th annual CNR Graduate Research Symposium this week.
 
 <!--more-->
 
 ![Rebecca presenting her poster during the CNR Graduate Research Symposium Poster Contest](Rebecca_img.jpg)
-Rebecca presented on her research "Quantifying Urban Flooding Extent Using Satellite Imagery and Population Impacted After Hurricane Ida in Philadelphia, PA", which she has also presented at AGU 2023.
+Rebecca presented on her research "Quantifying Urban Flooding Extent Using Satellite Imagery and Population Impacted After Hurricane Ida in Philadelphia, PA", which she has also presented at American Geophysical Union 2023.
 
-![Varun](varun.jpg)
+![Varun](Varun.jpg)
 Varun discussed his research "Advancing Food Security in Bangladesh: A Framework for Rice Yield Estimation using Time Series Optical Data with Machine Learning Algorithm".
 
 <!-- ## Social Media Buzz:
