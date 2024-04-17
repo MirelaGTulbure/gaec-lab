@@ -67,7 +67,7 @@ email: "cmnottin@ncsu.edu "
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 ---
 
 I am a junior undergraduate student majoring in Environmental Science at North Carolina State University. Within Environmental Science, I am studying water quality parameters as well as Geospatial Analytics. I am interested in using geospatial data to analyze water quality issues within the lens of environmental justice.  

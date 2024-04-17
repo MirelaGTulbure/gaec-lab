@@ -37,3 +37,8 @@
   name = "Opportunities"
   url = "opportunity"
   weight = 70
+
+[[main]]
+  name = "Blogs"
+  url = "blogs"
+  weight = 80

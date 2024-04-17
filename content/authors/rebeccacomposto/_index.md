@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2022 - President
+    year: 2022 - Present
 
   - course: BA in Environmental Science and Biology
     institution: University of Pennsylvania
