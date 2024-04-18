@@ -22,7 +22,7 @@ We always seek creative and motivated lab members with strong quantitative skill
 
 ---
 ## **Postdoctoral Fellows**
-Funded opportunities will be posted on this website. I encourage prospective fellows to contact me if they are interested in applying for funding, such as through the <a href="https://www.neonscience.org/get-involved/work-opportunities/postdoctoral-fellows">NEON Postdoctoral Fellows program</a>. 
+Funded opportunities will be posted on this website. I encourage prospective fellows to contact me if they are interested in applying for funding, such as through the <a href="https://www.neonscience.org/impact/observatory-blog/neon-program-welcomes-postdoctoral-fellows">NEON Postdoctoral Fellows program</a>, <a href="https://new.nsf.gov/funding/opportunities/sbe-postdoctoral-research-fellowships-sprf">NSF SBE’s Postdoctoral Fellowships</a>, and <a href="https://www.fulbrightschuman.eu/grants-eu-citizens/post-doctoral-research/">US Fulbright Program</a> for EU Citizens.
 
 ## **Ph.D. in Geospatial Analytics**
 As a faculty fellow and member of the Center for Geospatial Analytics, I welcome applicants for the Ph.D. in Geospatial Analytics.  Applications for the program are accepted for fall admission only, the deadline is Feb 1 annually. For more details, please use this <a href="https://cnr.ncsu.edu/geospatial/academics/phd-in-geospatial-analytics/">link</a>.
