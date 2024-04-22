@@ -49,5 +49,26 @@ item:
     overlay_color: '#555'
     overlay_img: 'slider_fig5.jpg'
     overlay_filter: 0.25
+
+  - title: ''
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">In season boro rice mapping with satellite data</div>
+    align: left
+    overlay_color: '#555'
+    overlay_img: 'boro_rice.png'
+    overlay_filter: 0.25
+
+  - title: ''
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Climate and Anthropogenic Drivers of Surface Water Dynamics</div>
+    align: left
+    overlay_color: '#555'
+    overlay_img: 'climate_sur_wat.png'
+    overlay_filter: 0.25
+
+  - title: ''
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Lab Photo from April 2023</div>
+    align: left
+    overlay_color: '#555'
+    overlay_img: 'Lab_picture_april_2023.jpeg'
+    overlay_filter: 0.25
 ---
 
