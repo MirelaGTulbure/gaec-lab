@@ -1,5 +1,5 @@
 ---
-title: Earth Observation Data to support environmental justice':' Linking non-permitted Poultry Operations to environmental vulnerability indices
+title: Earth Observation Data to support environmental justice; Linking non-permitted Poultry Operations to environmental vulnerability indices
 
 authors:
 - admin
