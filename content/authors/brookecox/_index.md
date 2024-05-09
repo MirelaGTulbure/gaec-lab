@@ -67,7 +67,7 @@ email: "becox@ncsu.edu "
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 ---
 
 I am a senior undergraduate student majoring in Environmental Sciences at North Carolina State University. My studies have been focused in Geospatial Analytics and Computer Programming, as well as a minor in history. I am interested in using geospatial analysis to address environmental justice issues. 
