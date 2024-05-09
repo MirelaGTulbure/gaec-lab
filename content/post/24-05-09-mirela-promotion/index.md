@@ -1,6 +1,6 @@
 ---
 title: Dr. Mirela Tulbure Promoted to Full Professor
-date: 2024-02-12
+date: 2024-05-09
 
 authors:
 - rebeccacomposto
