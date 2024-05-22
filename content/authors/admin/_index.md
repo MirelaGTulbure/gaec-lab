@@ -6,7 +6,7 @@ title: Mirela G. Tulbure
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -79,7 +79,7 @@ user_groups:
 - Principal Investigator
 
 ---
-I am an Associate Professor with <a href = "https://cnr.ncsu.edu/geospatial/"> the Center for Geospatial Analytics </a> at North Carolina State University (NCSU). 
+I am a Professor with <a href = "https://cnr.ncsu.edu/geospatial/"> the Center for Geospatial Analytics </a> at North Carolina State University (NCSU). 
 
 I relocated to NCSU in Aug 2019 from the University of New South Wales (Sydney, Australia) where I had a faculty position and built the Geospatial Analysis for Environmental Change Lab. 
 
