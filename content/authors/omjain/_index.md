@@ -47,10 +47,10 @@ social:
     #  icon_pack: ai
     #  link:
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: "https://github.com/omjain2001"
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: "https://www.linkedin.com/in/omjain26"
   # - icon: twitter
   #   icon_pack: fab
