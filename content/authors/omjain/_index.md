@@ -43,24 +43,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:opjain@ncsu.edu"
-  # - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: ai
-  #  link:
+    # - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    #  icon_pack: ai
+    #  link:
   - icon: github
     icon_pack: fas
     link: "https://github.com/omjain2001"
   - icon: linkedin
     icon_pack: fas
     link: "https://www.linkedin.com/in/omjain26"
-# - icon: twitter
-#   icon_pack: fab
-#   link:
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link:
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://bit.ly/omjainresume
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: "https://bit.ly/omjainresume"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "opjain@ncsu.edu"
