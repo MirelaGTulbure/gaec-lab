@@ -25,7 +25,6 @@ Dr. Gaines has officially earned her doctorate in Geospatial Analytics at North 
 The first two chapters of her dissertation dive into different climate and land use scenarios. During her defense, she reminded people that they can be part of the solution to climate change by <a href="https://act.southernenvironment.org/dskk9hc?p2asource=ActionCenter">making their voices heard</a> about the importance of land use, including forests and wetlands, for regulating surface water.
 
 <img src="wetlands.jpg" alt="image is not available">
-Dr. Gaines presenting and explaining importance of land use and forests.
 
 During her time as a graduate student Dr. Gaines served as President of the department's Graduate Student Organization, provided teaching assistance for both undergraduate and graduate level geospatial classes, won an American Geophysical Union award and completed a NOAA internship. Outside of research, she can be found outside playing soccer and rowing.
 
