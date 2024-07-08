@@ -6,7 +6,7 @@ authors:
 - rebeccacomposto
 
 image:
-  caption: 'Picture of water body being sampled in North Carolina by Varun Tiwari.'
+  caption: 'Dr. Gaines during her defense.'
   focal_point: ""
   preview_only: false
 
