@@ -1,5 +1,5 @@
 ---
-title: "Quantifying urban flood extent using satellite imagery and machine learning."
+title: "Quantifying urban flood extent using satellite imagery and machine learning"
 authors:
 - rebeccacomposto
 - admin
