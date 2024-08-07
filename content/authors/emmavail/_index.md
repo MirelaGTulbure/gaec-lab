@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the Center for Geospatial Analytics at NC State. My primary experience is in hydrology-based remote sensing and development work.
+bio: I am a PhD student at the Center for Geospatial Analytics at NC State.
 
 interests:
 - Remote Sensing
@@ -74,3 +74,4 @@ user_groups:
 - Current Lab Members
 ---
 
+ My primary experience is in hydrology-based remote sensing and corresponding development work.
