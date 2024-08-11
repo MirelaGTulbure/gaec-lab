@@ -74,4 +74,4 @@ user_groups:
 - Current Lab Members
 ---
 
- My primary experience is in hydrology-based remote sensing and corresponding development work.
+My primary research experience is in hydrology-based remote sensing, including analysis of wetland ecosystems, flood risk assessment in underserved communities and fragmented habitats, and maritime hazard identification. I am also deeply engaged in advancing flood mitigation strategies and exploring innovative applications of remote sensing, with a strong passion for integrating automation, AI, and development into my work.
