@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Research Scholar in the Department of  at North Carolina State University.
+bio: I am a Postdoctoral Research Scholar in the Department of Forestry and Environmental Resources at North Carolina State University.
 
 interests:
 - Remote Sensing
