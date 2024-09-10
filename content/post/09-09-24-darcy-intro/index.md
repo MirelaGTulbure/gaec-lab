@@ -20,7 +20,9 @@ Darcy is a junior pursuing a Bachelor of Science degree in Environmental Science
 
 Darcy worked with <a href = "https://gaec-lab.netlify.app/author/mollie-d.-gaines/"> Dr. Mollie Gaines</a> before her <a href = "https://gaec-lab.netlify.app/post/24-07-01-mollie-pass/"> successful PhD defense</a>. In the third chapter of Dr. Gaines’ dissertation, “Comparing high and moderate resolution satellite-based seasonal surface water extents in headwaters using machine learning”, Darcy created training and testing data for a machine learning algorithm to quantify surface water. 
 
-She also completed independent research on remote sensing applications in conservation, which is a passion of hers. Topics included monitoring of coral reefs, species abundance tracking and mapping of wildfire retardant, among others. 
+She also completed independent research on remote sensing applications in conservation, which is a passion of hers. Topics included monitoring of coral reefs, species abundance tracking and mapping of wildfire retardant, among others. The culmination of this work was a <a href = "https://arcg.is/0XGfGa0"> storymap</a> made using ArcGIS. 
+
+<img src="storymap.jpg" alt="image is not available">
 
 Outside of studying and lab work, Darcy plays on the women’s ultimate frisbee team at NC State and enjoys fitness kickboxing. She is also fond of baking, crochet, and playing the guitar. She works as a barista on the weekends and loves coffee and tea. 
 
