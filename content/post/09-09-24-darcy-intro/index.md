@@ -27,8 +27,3 @@ She also completed independent research on remote sensing applications in conser
 Outside of studying and lab work, Darcy plays on the women’s ultimate frisbee team at NC State and enjoys fitness kickboxing. She is also fond of baking, crochet, and playing the guitar. She works as a barista on the weekends and loves coffee and tea. 
 
 The GAEC lab looks forward to having Darcy as part of the team for the fall semester.  
-
-
-<!-- ## Social Media Buzz:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Super proud of my lab&#39;s Ph.D. students presenting at the <a href="https://twitter.com/NCStateCNR?ref_src=twsrc%5Etfw">@NCStateCNR</a> graduate research symposium, on <a href="https://twitter.com/hashtag/floods?src=hash&amp;ref_src=twsrc%5Etfw">#floods</a>, how future climate and land use change scenarios will impact surface <a href="https://twitter.com/hashtag/water?src=hash&amp;ref_src=twsrc%5Etfw">#water</a> resources in the southeastern US, &amp; <a href="https://twitter.com/has -->
-
