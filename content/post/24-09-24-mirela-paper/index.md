@@ -6,7 +6,7 @@ authors:
 - darcyboast
 
 image:
-  caption: 'Selected test sites in Northern Mozambique'
+  caption: 'Fig. 8 from the paper comparing models'
   focal_point: ""
   preview_only: false
 
