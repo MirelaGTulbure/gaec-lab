@@ -1,5 +1,5 @@
 ---
-title: Paper on pseudo-labels for field delineation of smallholder regions published
+title: Paper on pseudo-labels for field delineation published
 date: 2024-09-24
 
 authors:
