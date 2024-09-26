@@ -1,5 +1,5 @@
 ---
-title: Emma Vail joins the GAEC Lab
+title: Emma Vail joins the GAEC Lab as a PhD Student
 date: 2024-09-16
 
 authors:
