@@ -92,7 +92,9 @@ Results of my work can underpin water policy and management in areas with compet
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 ### Appointments
-{{< icon name="angle-right" pack="fas" >}} Associate Professor, Center for Geospatial Analytics, North Carolina State University (2019–Present)  
+{{< icon name="angle-right" pack="fas" >}} Professor, Center for Geospatial Analytics, North Carolina State University (2024-)  
+
+{{< icon name="angle-right" pack="fas" >}} Associate Professor, Center for Geospatial Analytics, North Carolina State University (2019–2024)  
 
 {{< icon name="angle-right" pack="fas" >}} Lecturer & Senior Lecturer, University of New South Wales (2012–2019)  
 
