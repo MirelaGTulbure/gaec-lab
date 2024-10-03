@@ -103,7 +103,7 @@ Results of my work can underpin water policy and management in areas with compet
 
 ### Teaching at NCSU
 {{< icon name="angle-right" pack="fas" >}} GIS 712: Environmental Earth Observation and Remote Sensing    
-<span style="font-size:0.95em;">I developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in Fall 2020 using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
+<span style="font-size:0.95em;">I developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in Fall 2020 using open source software including Python, Jupyter notebooks, Git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
 
 {{< icon name="angle-right" pack="fas" >}} GIS 495: Geospatial Analytics for Environmental Change   
 I developed and first taught this course in Fall 2022, utilizing open-source software such as Python, Jupyter notebooks, Git, and QGIS, see <a href = "https://github.com/GAECLab/NR491_Fall2022">here</a>. </span> Through the course, students gain hands-on experience creating open-source data story maps, which they can showcase in their portfolios. You can view an example of a student-created story map <a href = "https://chrisoates01.github.io/nr491-leaflet-storymap/#1">[here]</a>. </span> 
