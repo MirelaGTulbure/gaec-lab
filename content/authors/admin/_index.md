@@ -108,5 +108,5 @@ Results of my work can underpin water policy and management in areas with compet
 {{< icon name="angle-right" pack="fas" >}} GIS 495: Geospatial Analytics for Environmental Change   
 I developed and first taught this course in Fall 2022, utilizing open-source software such as Python, Jupyter notebooks, Git, and QGIS, see <a href = "https://github.com/GAECLab/NR491_Fall2022">here</a>. </span> Through the course, students gain hands-on experience creating open-source data story maps, which they can showcase in their portfolios. You can view an example of a student-created story map <a href = "https://chrisoates01.github.io/nr491-leaflet-storymap/#1">[here]</a>. </span> 
 
-{{< icon name="angle-right" pack="fas" >}} In 2020-2021, I taught ES 400 Analysis of Environmental Issues    
-<span style="font-size:0.95em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
+{{< icon name="angle-right" pack="fas" >}} ES 400: Analysis of Environmental Issues 
+I taught <span style="font-size:0.95em;">this capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span> in 2020-2021.
