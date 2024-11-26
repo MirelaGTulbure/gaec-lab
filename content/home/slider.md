@@ -68,7 +68,7 @@ item:
     content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Lab Photo from April 2023</div>
     align: left
     overlay_color: '#555'
-    overlay_img: 'Lab_picture_april_2023.jpeg'
+    overlay_img: 'Lab_picture_april_2023.png'
     overlay_filter: 0.25
 ---
 
