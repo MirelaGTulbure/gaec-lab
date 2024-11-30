@@ -70,5 +70,12 @@ item:
     overlay_color: '#555'
     overlay_img: 'Lab_picture_april_2023.png'
     overlay_filter: 0.25
+
+  - title: ''
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Lab Photo from September 2024</div>
+    align: left
+    overlay_color: '#555'
+    overlay_img: 'lunch_09_24_cropped.png'
+    overlay_filter: 0.25
 ---
 
