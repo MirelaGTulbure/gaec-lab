@@ -1,7 +1,12 @@
 ---
 title: "Taking it further: Leveraging pseudo-labels for field delineation across label-scarce smallholder regions"
 authors:
+- Philippe Rufin
+- Sherrie Wang
+- Sa Nogueira Lisboa
+- Jan Hemmerling
 - admin
+- Patrick Meyfroidt
 
 author_notes:
 - "Author"
