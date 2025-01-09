@@ -26,4 +26,8 @@ Researchers used a series of images of the same location recorded at regular int
 The analysis found that 23% of the rice-growing areas are seeing increasing yields in boro rice, while most areas (76.5%) have stable yields, and only a small fraction (0.11%) are decreasing. 
 
 This is the first comprehensive attempt to estimate boro rice yields at this scale, and it offers valuable insights that could inform policy to increase food security in Bangladesh. Satellite imagery from sources like MODIS can be leveraged in combination with machine learning algorithms to estimate crop yields as shown in this example. Additionally, the approach could be adapted for use in other regions around the world.
-You can read the full article <a href = 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309982'>here.</a>
+
+Read the full article <a href = 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309982'>here.</a>
+
+### Social Media Buzz:
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7273347123989925888" height="1198" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
