@@ -23,7 +23,7 @@ Mirela presented an invited poster on quantifying the impact of global floods on
 
 Rebecca, who received the Geospatial Analytics Travel Award, gave an oral presentation on combining satellite and process-based methods into a complete flood map. Her research focuses on mapping urban flooding. You can read the abstract <a href = 'https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1605553'>here</a> and her travel blog on <a href = 'https://cnr.ncsu.edu/geospatial/news/2025/01/06/exploring-urban-flood-mapping-at-agu-2024/'>CGA news</a>.
 
-<img src="AGU24_rebecca.jpg" alt="image is not available">
+<img src="AGU24_rebecca.jpeg" alt="image is not available">
 
 Mollie gave an ELightning talk about Comparing Machine-Learning-Derived, Satellite-Based Surface Water Extents of Different Resolutions to Estimate Methane Emissions. This was Mollie’s fifth time presenting at AGU’s fall meeting. Read the abstract <a href = 'https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1732137'>here</a>.
 
