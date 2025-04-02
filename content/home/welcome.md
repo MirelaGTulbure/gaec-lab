@@ -51,10 +51,10 @@ design:
 
 <!-- <body>
   <h1> Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab! </h1>
-  <p> <span style= "font-size:0.85em"> We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale. </span> </p> 
+  <p> <span style= "font-size:0.85em"> We are a group of dynamic geospatial scientists working on quantifying surface water and flooding dynamics and flood damage using AI algorithms and time series of Earth observation data, at sub-continental to global scales. </span> </p> 
  </body>
 </p> -->
 
 ## Welcome to the Geospatial Analysis for Environmental Change (GAEC) Lab!
 
-<div style="font-size:0.85em;">We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.</div> 
+<div style="font-size:0.85em;">We are a group of dynamic geospatial scientists working on quantifying surface water and flooding dynamics and flood damage using AI algorithms and time series of Earth observation data, at sub-continental to global scales.</div> 

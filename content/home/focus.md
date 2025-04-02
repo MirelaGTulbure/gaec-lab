@@ -23,15 +23,15 @@ feature:
   - icon: water
     icon_pack: fas
     name: Flooding
-    description: Map flooding events using remote sensing
+    description: Map flooding events using AI algorithms and quantify flood damage
   - icon: globe
     icon_pack: fas
     name: Climate
     description: Understand the impacts of climate drivers on water systems
-  - icon: users
-    icon_pack: fas
-    name: Environmental Justice
-    description: Examine the impact of environmental risks on vulnerable communities
+  # - icon: users
+  #   icon_pack: fas
+  #   name: Environmental Justice
+  #   description: Examine the impact of environmental risks on vulnerable communities
 #  - icon: sprout
 #    icon_pack: custom
 #    name: Agriculture
