@@ -1,5 +1,5 @@
 ---
-title: Earth Observation Data to support environmental justice; Linking non-permitted Poultry Operations to environmental vulnerability indices
+title: Earth Observation Data to support environmental justice: Linking non-permitted Poultry Operations to environmental vulnerability indices
 
 authors:
 - admin
@@ -32,4 +32,4 @@ North Carolina (NC) is the second-highest swine- and the fourth-highest poultry-
 
 NC communities have observed a dramatic but poorly documented expansion of poultry CAFOs since the 1997 swine CAFO moratorium. However, the locations of these facilities are essentially unknown, and their environmental impacts are therefore undocumented. Researchers have attempted to manually scan satellite/aerial data for CAFOs or automate detection, but no complete dataset exists. Here, we are using heuristics from the literature on a recently developed poultry CAFO layer derived from deep learning of Earth observations to detect poultry CAFOs. We use aerial survey data collected by the Cape Fear Riverkeeper to ground truth our poultry CAFO dataset. We use these complete poultry CAFO locations to examine how CAFO density correlates with race/income and EPA’s environmental justice indices. This study generates the first full record of non-permitted poultry CAFOs to accurately assess their environmental impacts and intersections with sociodemographic/environmental vulnerabilities.
 
-This project was funded by a North Carolina Center for Human Health and the Environment grant, which ended in 2024. A manuscript describing the work is under review in GeoHealth and a pre-print is available <a href="https://essopenarchive.org/doi/full/10.22541/essoar.172433835.51367348">here</a>.
+This project was funded by a North Carolina Center for Human Health and the Environment grant, which ended in 2024. A manuscript describing the work was published in GeoHealth <a href="https://doi.org/10.1029/2024GH001179">here</a>.
