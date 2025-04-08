@@ -1,6 +1,6 @@
 ---
 title: Dr. Varun Tiwari has successfully defended his PhD
-date: 2025-04-03
+date: 2025-04-08
 
 authors:
 - darcyboast
