@@ -36,6 +36,9 @@ gallery_item:
   image: 2022-12_Tulbure_AGU.jpg
   caption: Living Planet Symposium (May 2022, Bonn, Germany)
 
+- album: poster_img
+  image: 2025-04_Boast_NCSU.jpg
+  caption: NC State Spring Undergraduate Research & Creativity Symposium (Apr. 2025, Raleigh, North Carolina)
 ---
 
 {{< gallery album="poster_img">}}
