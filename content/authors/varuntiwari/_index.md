@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student with the Center for Geospatial Analytics at North Carolina State University.   
+bio: Varun is currently a postdoctoral fellow at Clark University.   
 
 interests:
 - Flooding
@@ -76,7 +76,7 @@ email: "vtiwari@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 ---
 
-My research work focuses on evaluating the impacts of floods on rice crops in Bangladesh. In the past, I have also worked as Remote Sensing and GIS analyst at International Center for Integrated Mountain development, Nepal. My research area includes the use of optical, Hyperspectral, SAR remote sensing for surface water and crop type mapping.
+Varun is currently a <a href='https://www.clarku.edu/centers/geospatial-analytics/people/varun-tiwari/'>postdoctoral fellow</a> at Clark University. His research work focuses on evaluating the impacts of floods on rice crops in Bangladesh. In the past, he has also worked as Remote Sensing and GIS analyst at International Center for Integrated Mountain development, Nepal. His research area includes the use of optical, Hyperspectral, SAR remote sensing for surface water and crop type mapping.

@@ -66,7 +66,7 @@ email: "sayitha@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Lab Members
+  - Alumni
 ---
 
 With a strong foundation in computer science, I am interested in developing scalable solutions and optimizing software performance. My technical expertise spans a range of programming languages, including Python, Go, Java, and TypeScript, complemented by experience with frameworks and tools like React, Spring Boot, Kubernetes, and Docker. I thrive in environments requiring analytical thinking and attention to detail. My ability to harness cloud technologies such as AWS and MongoDB allows me to craft innovative solutions for challenging problems.

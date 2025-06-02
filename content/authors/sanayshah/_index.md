@@ -18,7 +18,7 @@ organizations:
   url: "https://www.csc.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Graduate student majoring in Computer Science at North Carolina State University (NCSU). 
+bio: Sanay currently works as a Software Development Engineer at Amazon Web Services (AWS). 
 
 interests: 
 - Python, Machine learning
@@ -69,9 +69,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 
 ---
-I am a <strong>Computer Science</strong> Master's student at NC State University and Research Assistant at the Geospatial Analysis for Environmental Change Lab. My work at Geospatial Analysis for Environmental Change Lab involves <strong>optimizing code</strong> and applying <strong>machine learning skills</strong> to satellite imagery. 
+Sanay currently works as a Software Development Engineer at Amazon Web Services (AWS). He obtained a <strong>Computer Science</strong> Master's at NC State University and worked as a Research Assistant at the Geospatial Analysis for Environmental Change Lab. His work at Geospatial Analysis for Environmental Change Lab involved <strong>optimizing code</strong> and applying <strong>machine learning skills</strong> to satellite imagery. 
 
-Using my <strong>programming skills, image processing and machine learning techniques</strong> I aim to help advance the lab's environmental change research on surface water, flooding, climate impacts, and environmental justice.
+Using his <strong>programming skills, image processing and machine learning techniques</strong>, he helped advance the lab's environmental change research on surface water, flooding, climate impacts, and environmental justice.
