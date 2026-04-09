@@ -21,7 +21,7 @@ organizations:
     url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an graduate student majoring in Computer Science at North Carolina State University.
+bio: I am an NC State Alumni and former research assistant at GAEC Lab, currently work at Meta.
 
 interests:
   - Full Stack Web and Mobile Application Development
@@ -68,7 +68,7 @@ email: "opjain@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Lab Members
+  - Alumni
 ---
 
 I'm a driven Software Engineer with a keen interest in leveraging technology to tackle real-world challenges and enhance societal well-being. I find immense satisfaction in delving into the intricacies of new technologies, understanding their architectures, and employing them to craft innovative solutions. While I'm deeply invested in grasping the broader view of system architecture, my primary focus remains on deciphering critical components to drive impactful outcomes.

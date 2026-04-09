@@ -21,7 +21,7 @@ organizations:
     url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an graduate student majoring in Computer Science at North Carolina State University.
+bio: I am an NC State Alumni currently working as a Software Engineer at PayPal.
 
 interests:
   - Full Stack Web Development
