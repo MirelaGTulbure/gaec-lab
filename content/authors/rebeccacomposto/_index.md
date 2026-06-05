@@ -73,7 +73,7 @@ email: "rcompos@ncsu.edu "
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Alumni
 ---
 
 My research interests are using remotely sensed imagery and in-situ information to map flooding in urban areas to help inform preparedness and resilience plans. 
