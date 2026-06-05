@@ -6,7 +6,7 @@ authors:
 - emmavail
 
 image:
-  caption: 'Dr. Composto during her defense.'
+  caption: 'Dr. Composto during her defense. PC Becky Kirkland'
   focal_point: ""
   preview_only: false
 
@@ -25,7 +25,7 @@ Dr. Composto has officially earned her doctorate in Geospatial Analytics at Nort
 
 <img src="rc_defense.jpeg" alt="image is not available">
 
-You can learn about Dr. Composto's research by watching her <a href = https://www.youtube.com/watch?v=HiKDMD0wHBc >5-minute department presentation</a> or her <a href = https://www.youtube.com/watch?v=LujLnI57OAY&list=PL7dONoqMaCHbBl0-TBW3zuO02iAudw_SK&index=11 >30-minute museum presentation</a> for a public audience. During her four years at NC State she had several highlights:
+You can learn about Dr. Composto's research by watching her <a href = 'https://www.youtube.com/watch?v=HiKDMD0wHBc' >5-minute department presentation</a> or her <a href = 'https://www.youtube.com/watch?v=LujLnI57OAY&list=PL7dONoqMaCHbBl0-TBW3zuO02iAudw_SK&index=11' >30-minute museum presentation</a> for a public audience. During her four years at NC State she had several highlights:
 
 - Research: Published the first chapter of her dissertation related to urban flood mapping
 - Awards: $26,000+ in grants, fellowships, and travel awards
