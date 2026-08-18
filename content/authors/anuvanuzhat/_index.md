@@ -70,5 +70,5 @@ user_groups:
 - Current Lab Members
 ---
 
-Anuva Nuzhat is a Computer Science major at North Carolina State University and previously worked for NC STATE'S BTEC where she began developing a Bio-manufacturing tycoon game. She has now joined as a Research Assistant at the Geospatial Analysis for Environmental Change Lab because of her strong interest in using geospatial analysis and computer science principles to address environmental justice issues. 
+Anuva Nuzhat is a Computer Science major at North Carolina State University and previously worked for NC States'S BTEC where she began developing a Bio-manufacturing Tycoon game. She has now joined as a Research Assistant at the Geospatial Analysis for Environmental Change Lab because of her strong interest in using geospatial analysis and computer science principles to address environmental justice issues. 
 
