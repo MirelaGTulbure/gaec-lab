@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Undergraduate Researcher
+role: He/Him/His<br />Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
